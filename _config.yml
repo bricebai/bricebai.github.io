@@ -17,8 +17,8 @@ title: Brice Bai
 description: A work in progress personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: jekyll # the GitHub repo name for your project
-github_username: jekyll
+github_repo: bricebai.github.io # the GitHub repo name for your project
+github_username: bricebai
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
