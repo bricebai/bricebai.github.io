@@ -8,16 +8,17 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: permalink
+  label: permalink
 - name: project
   type: blocks
   label: project
-  template_types: []
+  template_types:
+  - portfolio
   config:
     min: 
     max: 
   description: for individual projects
-- type: text
-  name: permalink
-  label: permalink
 pages:
 - portfolio.md
