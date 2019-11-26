@@ -8,6 +8,14 @@ fields:
 - type: text
   name: title
   label: title
+- name: project
+  type: blocks
+  label: project
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: for individual projects
 - type: text
   name: permalink
   label: permalink
