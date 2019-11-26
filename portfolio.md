@@ -1,8 +1,8 @@
 ---
-layout: about
+layout: page
 title: Portfolio
 permalink: https://bricebai.github.io/portfolio/
-published: false
+published: true
 
 ---
 This is a test
