@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: https://bricebai.github.io/portfolio/
+permalink: /portfolio/
 
 ---
 This is a test
