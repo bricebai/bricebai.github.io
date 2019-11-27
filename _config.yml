@@ -16,7 +16,7 @@
 title: Brice Bai
 description: A work in progress personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bricebai.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: bricebai.github.io # the GitHub repo name for your project
 github_username: bricebai
 
