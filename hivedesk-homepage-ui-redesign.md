@@ -3,7 +3,6 @@ layout: page
 title: HiveDesk | Homepage UI Redesign
 permalink: "/hivedesk"
 project: []
-published: false
 
 ---
 # HiveDesk | Homepage UI Redesign
