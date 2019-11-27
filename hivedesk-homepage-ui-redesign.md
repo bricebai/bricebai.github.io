@@ -1,11 +1,11 @@
 ---
 layout: page
-title: HiveDesk | Homepage UI Redesign
+title: HiveDesk
 permalink: "/hivedesk"
 project: []
 
 ---
-# HiveDesk | Homepage UI Redesign
+# Homepage UI Redesign
 
 #### Summer 2019
 
