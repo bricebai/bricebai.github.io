@@ -30,17 +30,24 @@ code {
 
 .subheader {
     p {
-        font-size: 45px;
+        font-size: 40px;
+    }
+    
+    a {
+        text-decoration: underline;
+        &:hover {
+            color: gray;
+        }
     }
 }
 
 .prose {
 
   a {
-    text-decoration: underline dotted;
+    text-decoration: underline;
 
     &:hover {
-      text-decoration: underline;
+      color: gray;
     }
   }
 
