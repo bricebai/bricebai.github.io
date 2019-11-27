@@ -32,23 +32,15 @@ code {
     p {
         font-size: 20px;
     }
-    
-    a {
-        &:link {text-decoration: underline;}
-        
-        &:hover {
-            color: gray;
-        }
-    }
 }
 
 .prose {
 
   a {
-    &:link {text-decoration: underline;}
+    text-decoration: underline dotted;
 
     &:hover {
-      color: gray;
+      text-decoration: underline;
     }
   }
 
