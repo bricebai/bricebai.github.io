@@ -17,13 +17,13 @@ title: Brice Bai
 description: A work in progress personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: bricebai.github.io # the GitHub repo name for your project
-github_username: bricebai
+#github_repo: bricebai.github.io # the GitHub repo name for your project
+#github_username: bricebai
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
-social_link: twitter
-social_username: jekyllrb
+#social_link: twitter
+#social_username: jekyllrb
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
