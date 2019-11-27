@@ -20,3 +20,5 @@ fields:
     min: 
     max: 
   description: for individual projects
+pages:
+- hivedesk-homepage-ui-redesign.md
