@@ -41,8 +41,10 @@
         </div>
       </header>
 
-      <div class="clearfix mx-4 mb-4 py-4">
-        {{ content }}
+      <div class="container mx-auto px-2 py-4">
+        {% for post in site.posts %}
+          {% include post_block.html %}
+        {% endfor %}
       </div>
 
     </div>
