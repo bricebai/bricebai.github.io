@@ -54,9 +54,9 @@ h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em
 
 a {
   color: inherit;
-  text-decoration: underline;
+  text-decoration: underline dotted;
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
