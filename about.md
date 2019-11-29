@@ -10,6 +10,8 @@ I'm a student at Yale University studying **Computing and the Arts**, a joint co
 
   
 Let’s get in touch if you have a project or collaboration in mind.
+Currently seeking summer 2020 opportunities!
+
 
 _Contact_
 
