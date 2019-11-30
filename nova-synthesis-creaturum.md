@@ -7,7 +7,9 @@ project: []
 ---
 # Visual Novel Game Development
 
-_Download here:_ [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/novascofficial "https://nova-sc.itch.io/novascofficial")
+Download here: [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/novascofficial "https://nova-sc.itch.io/novascofficial")
+
+***
 
 **Duration:** January 2014 - June 2018
 
