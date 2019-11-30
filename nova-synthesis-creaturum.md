@@ -7,6 +7,8 @@ project: []
 ---
 # Visual Novel Game Development
 
+_Download here:_ [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/novascofficial "https://nova-sc.itch.io/novascofficial")
+
 **Duration:** January 2014 - June 2018
 
 **Team:**   
@@ -98,7 +100,7 @@ Building my team from that forum became the most significant factor of my learni
 
 In managing the project and leading the overall direction of the game, this is what started my interest in the product field in the tech industry. It gave me direct experience in creating and releasing a product from start to finish, designing the product and its features with the user in mind, working with a team and dipping into every facet of the product development process, and managing it all under a personal timeline while still being a full-time student.
 
-#### Follow Nova!
+### Follow Nova!
 
 [Official Site](http://novascofficial.tumblr.com/)  
 [WIP Blog](http://nova-wip.tumblr.com/)  
