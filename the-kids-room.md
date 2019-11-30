@@ -47,6 +47,6 @@ The layering of the solid gradients vs. patterns created a multifaceted quality.
 
 ![](/uploads/tkr_final.png)
 
-## Results and Learning
+## Results and Learnings
 
 Designing a logo is all about reduction—how can we convey a meaning using as little elements as possible? Each element must carry meaning and intention with it in order to visually express the place it is representing. This mindset of intentional simplicity and clear expression is a skill that I have learned to apply to anything I design.
