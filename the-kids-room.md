@@ -13,6 +13,8 @@ project: []
 
 **Key Skills:** Graphic Design, Logo Design
 
+![](/uploads/kidsroom thumbnail.png)
+
 ## Challenge
 
 As an assignment in my Intro to Graphic Design class, I was tasked to create a logo or visual mark of a physical place of personal meaning. The first place that came to mind was the childhood bedroom shared between my older sister and I. This room is like a time capsule for the two of us—it is an assortment of objects and memories from different people and different times that somehow form something that is still cohesive.
