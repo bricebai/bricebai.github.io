@@ -84,6 +84,12 @@ Beyond the visual novel itself, our team wanted to create more fan engagement as
 
 ![](/uploads/nova_final 4.png)
 
+**Opening Title Sequence**
+[![Nova Opening Title Sequence](http://img.youtube.com/vi/Nc0oazLPn1I/0.jpg)](http://www.youtube.com/watch?v=Nc0oazLPn1I "Nova Opening Title Sequence")
+
+**Story Trailer**
+[![Nova Story Trailer](http://img.youtube.com/vi/usVQqw2zAUA/0.jpg)](http://www.youtube.com/watch?v=usVQqw2zAUA "Nova Story Trailer")
+
 ## Results and Learnings
 
 After 4.5 years, Nova was released to the world on indie game distribution platform, itch.io, and MediaFire on June 1, 2018.
