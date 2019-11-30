@@ -25,7 +25,11 @@ _Download here:_ [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.i
 
 ## Challenge
 
-**Background:** “A visual novel is an interactive game genre, which originated in Japan in the early 1990s, featuring mostly static graphics, most often using anime-style art or occasionally live-action stills (and sometimes video footage). As the name might suggest, they resemble mixed-media novels.” – [Wikipedia](https://en.wikipedia.org/wiki/Visual_novel)
+**Background**
+
+> “A visual novel is an interactive game genre, which originated in Japan in the early 1990s, featuring mostly static graphics, most often using anime-style art or occasionally live-action stills (and sometimes video footage). As the name might suggest, they resemble mixed-media novels.” 
+
+– [Wikipedia](https://en.wikipedia.org/wiki/Visual_novel)
 
 **The problem:** As a personal fan of visual novels, I struggled with finding more that were available in English. There was definitely a growing demand—I saw more and more Japanese titles fan-translated into English in my personal search, but I still felt unsatisfied with the present titles available, especially for adolescent players. I decided to take matters into my own hands and make one of my own.
 

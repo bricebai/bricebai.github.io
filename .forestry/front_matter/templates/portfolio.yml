@@ -21,6 +21,6 @@ fields:
     max: 
   description: for individual projects
 pages:
-- the-kids-room.md
 - nova-synthesis-creaturum.md
+- the-kids-room.md
 - doodle-4-google-logo.md
