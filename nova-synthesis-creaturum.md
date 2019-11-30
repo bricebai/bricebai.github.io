@@ -96,11 +96,9 @@ Beyond the visual novel itself, our team wanted to create more fan engagement as
 
 After 4.5 years, Nova was released to the world on indie game distribution platform, itch.io, and MediaFire on June 1, 2018.
 
-**Word count**: \~120,000
-
-**Graphics count (CGs, BGs, character sprites):** 140+
-
-**Downloads:** 4,500+ as of Fall 2019
+* **Word count**: \~120,000
+* **Graphics count (CGs, BGs, character sprites):** 140+
+* **Downloads:** 4,500+ as of Fall 2019
 
 ### Challenges
 
