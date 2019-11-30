@@ -27,7 +27,7 @@ _Download here:_ [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.i
 
 **Background**
 
-> “A visual novel is an interactive game genre, which originated in Japan in the early 1990s, featuring mostly static graphics, most often using anime-style art or occasionally live-action stills (and sometimes video footage). As the name might suggest, they resemble mixed-media novels.” 
+> “A visual novel is an interactive game genre, which originated in Japan in the early 1990s, featuring mostly static graphics, most often using anime-style art or occasionally live-action stills (and sometimes video footage). As the name might suggest, they resemble mixed-media novels.”
 
 – [Wikipedia](https://en.wikipedia.org/wiki/Visual_novel)
 
@@ -82,7 +82,7 @@ Beyond the visual novel itself, our team wanted to create more fan engagement as
 
 ![](/uploads/nova_final 4.png)
 
-## Results and Learnings
+## Results and Learning
 
 After 4.5 years, Nova was released to the world on indie game distribution platform, itch.io, and MediaFire on June 1, 2018.
 
