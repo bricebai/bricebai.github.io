@@ -11,7 +11,7 @@ _Download here:_ [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.i
 
 **Duration:** January 2014 - June 2018
 
-**Team:**   
+**Team:**  
 [CatharsisGaze](https://www.deviantart.com/catharsisgaze) - Main Artist  
 [Rexx9224](http://rexx9224.deviantart.com/) - Programmer  
 [na-o-mi](http://na-o-mi.deviantart.com/) - artist  
@@ -20,6 +20,8 @@ _Download here:_ [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.i
 **My Role:‍** Project Manager, Writer, Social Media Manager
 
 **Key Skills:** Project Management, Creative Writing, Cross-functional Remote Teamwork, Copywriting, Social Media Management, User Experience
+
+![](/uploads/nova thumbnail.png)
 
 ## Challenge
 
@@ -90,7 +92,7 @@ After 4.5 years, Nova was released to the world on indie game distribution platf
 
 The main challenges I faced were finding the right people to work with and staying committed to the project for over four and a half years.
 
-I did not have possess all the skills needed to create a visual novel, so I had to seek help from others, but no one around me was interested in the project. I ended up turning to the projects section of a DeviantArt forum, posting a help wanted thread that solicited a few private messages from some users. 
+I did not have possess all the skills needed to create a visual novel, so I had to seek help from others, but no one around me was interested in the project. I ended up turning to the projects section of a DeviantArt forum, posting a help wanted thread that solicited a few private messages from some users.
 
 ![](/uploads/nova_thread.png)
 
