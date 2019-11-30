@@ -9,7 +9,11 @@ project: []
 
 **Duration:** January 2014 - June 2018
 
-**Team:** [CatharsisGaze](https://www.deviantart.com/catharsisgaze) - Main Artist, [Rexx9224](http://rexx9224.deviantart.com/) - Programmer, [na-o-mi](http://na-o-mi.deviantart.com/) - artist, [IridescentFlora](https://www.deviantart.com/iridescentflora) - Assisting Artist
+**Team:**   
+[CatharsisGaze](https://www.deviantart.com/catharsisgaze) - Main Artist  
+[Rexx9224](http://rexx9224.deviantart.com/) - Programmer  
+[na-o-mi](http://na-o-mi.deviantart.com/) - artist  
+[IridescentFlora](https://www.deviantart.com/iridescentflora) - Assisting Artist
 
 **My Role:‍** Project Manager, Writer, Social Media Manager
 
