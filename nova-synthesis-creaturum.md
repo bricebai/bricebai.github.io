@@ -24,17 +24,25 @@ published: false
 
 ## The Team
 
-Brice - Creative director, Project manager, Writer, Social media manager, Audio editor
+While we all had a hand in everything, here are some of our official titles:
 
-CatharsisGaze - Artist & UI designer, Proofreader/editor, Beta tester, Audio editor
+**Brice (me)** - Project Manager, Writer, Social Media Manager, Audio Editor
 
-Rexx9224 - Programmer
+**CatharsisGaze** - Artist & UI designer, Proofreader/Editor, Beta Tester, Audio Editor
 
-Na-o-mi – Artist
+**Rexx9224** - Programmer
 
-IridescentFlora – Assisting artist
+**na-o-mi** – Artist
 
-3\. Talk about your research (highlight the pain points)
+**IridescentFlora** – Assisting artist
+
+![](/uploads/nova_team.png)
+
+This was how we all worked together:
+
+![](/uploads/nova_working process.png)
+
+## Observations and Research
 
 According to Reddit user /u/Noslyl, there were only 59 English visual novels on gaming platform Steam as of November 2014. Companies like JAST USA and MangaGamer also provided English localizations of popular Japanese visual novels, but both primarily released erotic 18+ games. English fan translations of visual novels also existed, but downloading and accessing them was often a complex, multi-step process that was not easy for a casual player.
 
