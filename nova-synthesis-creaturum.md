@@ -82,7 +82,7 @@ Beyond the visual novel itself, our team wanted to create more fan engagement as
 
 ![](/uploads/nova_final 4.png)
 
-## Results and Learning
+## Results and Learnings
 
 After 4.5 years, Nova was released to the world on indie game distribution platform, itch.io, and MediaFire on June 1, 2018.
 
