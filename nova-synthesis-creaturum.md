@@ -14,7 +14,7 @@ _Download here:_ [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.i
 **Team:**  
 [CatharsisGaze](https://www.deviantart.com/catharsisgaze) - Main Artist  
 [Rexx9224](http://rexx9224.deviantart.com/) - Programmer  
-[na-o-mi](http://na-o-mi.deviantart.com/) - artist  
+[na-o-mi](http://na-o-mi.deviantart.com/) - Artist  
 [IridescentFlora](https://www.deviantart.com/iridescentflora) - Assisting Artist
 
 **My Role:‍** Project Manager, Writer, Social Media Manager
