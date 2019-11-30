@@ -7,11 +7,11 @@ project: []
 ---
 # Homepage UI Redesign
 
-##### Summer 2019
+**Duration:** Summer 2019
 
-Tools: Figma, Photoshop
+**Tools:** Figma, Photoshop
 
-Key Skills: UI/UX, Conversion Optimization
+**Key Skills:** UI/UX, Conversion Optimization
 
 ![](/uploads/wix thumbnail.png)
 
@@ -23,11 +23,11 @@ Key Skills: UI/UX, Conversion Optimization
 
 ## Observations and Research
 
+Here is the old, original HiveDesk homepage:
+
 ![](/uploads/hivedesk old.png)
 
-_The old HiveDesk homepage_
-
-I analyzed the current version of the homepage and researched various psychological and marketing techniques. A couple of factors immediately stuck out to me that could be changed:
+I analyzed this version of the homepage and researched various psychological and marketing techniques. A couple of factors immediately stuck out to me that could be changed:
 
 * **Less is more—the overall amount of information on the page should be reduced to increase the user's focus on the primary goal**. Most notably, the numerous links in the navigation bar, as well as the heavy-text descriptions of the product and the company, are extraneous. Users have limited focus, so they should have their attention pointed towards the most important information and the main call to action—starting a free trial. By having a more focused page with fewer links and text, conversions are more likely to increase.
 
@@ -46,7 +46,7 @@ I implemented numerous UI/UX changes across the page. These changes intentionall
 
 ![](/uploads/new_mockup.png)
 
-Although the page’s UI was not completely changed, small changes to the current page such as the reduction of links in the top navigation bar and the removal of the extraneous blocks of descriptive text were made. The CTR from homepage to free-trial-page as well as the number of users scrolling down the entire homepage increased.
+Although my redesign was not completely implemented by the end of my time at GlowTouch, small changes to the current page such as the reduction of links in the top navigation bar and the removal of the extraneous blocks of descriptive text were made. The CTR from homepage to free-trial-page as well as the number of users scrolling down the entire homepage increased.
 
 ## Results and Learnings
 
