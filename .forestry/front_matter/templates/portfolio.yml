@@ -20,3 +20,5 @@ fields:
     min: 
     max: 
   description: for individual projects
+pages:
+- the-kids-room.md
