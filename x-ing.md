@@ -11,7 +11,7 @@ project: []
 
 **Team:** Gauri Jaswal, Xiaoke Luo
 
-**My Role:**‍ Team Leader, Project Manager
+**My Role:** Team Leader, Project Manager
 
 **Key Skills:** Project Management, Skincare Product Development, UI/UX, Mobile App Prototyping, User Research
 
