@@ -96,6 +96,6 @@ Montserrat was chosen as a clean sans-serif font that conveys simplicity and str
 
 #### User Flow
 
-![](/uploads/xing 5.png)
+![](/uploads/xing 5.1.png)
 
 #### Final Prototype
