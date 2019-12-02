@@ -53,11 +53,11 @@ Using a series of four online recipes ([1](https://www.humblebeeandme.com/lavend
 
 We chose our products based on our research that revealed that both users with routines and without routines were most interested in or least satisfied with cleansers and moisturizers. We also included a toner to complete the set and establish a simple, 3-step routine.
 
-An airless pump bottle was chosen as the packaging, for this type of bottle could be washed and reused.
+An airless pump bottle was chosen as the packaging, for this type of bottle could be washed and reused--a more environmentally friendly packaging option.
 
 ![](/uploads/xing_proto1_1.jpg)
 
-Overall positive feedback on our products was expressed, but our team faced further difficulty in product development due to lack of mentorship and experience in cosmetic formulations.
+Overall positive feedback on our products was expressed, but our team faced difficulty in further product development due to lack of mentorship and experience in cosmetic formulations.
 
 These limitations and further discussion with the beta testing group users led us to discover **another pain point** that users had—the frustrations from not having convenient, reliable sources of help in discovering products or improving their routines. Although the internet contains a plethora of reviews, advice, and suggestions for different products, our users expressed more trust and a preference for help from friends or family—ultimately, people with whom they had a personal connection with and could actually look at their skin and assist them. They wanted better access to specialized, personal attention on their skin. We decided to pivot to a new idea that would help tackle this problem.
 
