@@ -51,13 +51,11 @@ While we all had a hand in everything, here are some of our official titles:
 
 ![](/uploads/nova_team.png)
 
-This was how we all worked together:
-
 ![](/uploads/nova_working process.png)
 
 ## Observations and Research
 
-[According to Reddit user /u/Noslyl](https://www.reddit.com/r/visualnovels/comments/2navwt/the_statistics_of_visual_novels_on_steam/), there were only 59 English visual novels on gaming platform Steam as of November 2014. Companies like JAST USA and MangaGamer provided English localizations of popular Japanese visual novels as well, but both primarily released erotic 18+ games. English fan translations of visual novels also existed, but downloading and accessing them was often a complex, multi-step process that was not easy for a casual player.
+[According to Reddit user /u/Noslyl](https://www.reddit.com/r/visualnovels/comments/2navwt/the_statistics_of_visual_novels_on_steam/), there were only 59 English visual novels on gaming platform Steam as of November 2014. Companies like JAST USA and MangaGamer provided English localizations of popular Japanese visual novels as well, but both primarily released 18+ games. English fan translations of visual novels also existed, but downloading and accessing them was often a complex, multi-step process that was not easy for a casual player.
 
 I wanted to create a visual novel that was free, easily accessible across different computer platforms, available in English, and open to a younger audience.
 
