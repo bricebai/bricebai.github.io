@@ -23,15 +23,13 @@ project: []
 
 ## Observations and Research
 
-Here is the old, original HiveDesk homepage:
+This is the old, original HiveDesk homepage:
 
 ![](/uploads/hivedesk old.png)
 
 I analyzed this version of the homepage and researched various psychological and marketing techniques. A couple of factors immediately stuck out to me that could be changed:
 
 * **Less is more—the overall amount of information on the page should be reduced to increase the user's focus on the primary goal**. Most notably, the numerous links in the navigation bar, as well as the heavy-text descriptions of the product and the company, are extraneous. Users have limited focus, so they should have their attention pointed towards the most important information and the main call to action—starting a free trial. By having a more focused page with fewer links and text, conversions are more likely to increase.
-
-
 * **Attention needs to be more easily directed to the call-to-action, especially at the top of the funnel**. Adjustments relying on tactics such as the mere exposure effect by repeating the CTA button will influence users more easily. Adding more attention especially at the beginning of the conversion funnel, when users first land on the page, will help increase conversions in further stages of the funnel.
 
 ## Features and Prototyping
