@@ -88,13 +88,3 @@ Montserrat was chosen as a clean sans-serif font that conveys simplicity and str
 ![](/uploads/xing 5.png)
 
 #### Final Prototype
-
-## Results and Learnings
-
-With our first prototype, our biggest limitations came from a lack of available mentorship and experience in cosmetic formulations. Although we were able to prototype and test two working sets of products, we had difficulties in moving beyond the first iteration. In addition, further discussion with users gave us new perspective on their pain points and goals towards building a routine. These new perspectives on how users desire to seek help and find products led us to pivot towards a new solution that was also more feasible with our current skillsets and resources.
-
-### Future directions
-
-Since our second prototype was a spinoff of our first and the only additional user research was collected from discussions with a limited number of people, more research on how users obtain their skincare information and preferences should be conducted, from both our personal peers as well as active users of online skincare communities.
-
-A point of consideration is researching more reasons for why more experienced skincare users would use this platform. Newbie skincare users benefit from gaining personal advice on how to start and maintain a routine, but more established users have different incentives towards participation in this type of social network. Interviews of experienced skincare users who are active contributors on online skincare communities should be conducted to discover their motivations towards being so active and willing to assist others.
