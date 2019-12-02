@@ -27,11 +27,11 @@ We want to create a solution that makes skincare more accessible, affordable, an
 
 Our team all met via Yale Launch, a student entrepreneurship club dedicated to helping students create ventures and startups. All of us loved skincare and wanted to tackle a problem in this realm. While we all did not have definitive roles and worked on much of the observations, research, and first product prototyping together, each of us had special backgrounds that contributed to our product in different ways.
 
-Brice (Me) - Leader, Project Manager, UI/UX Designer
+**Brice (Me)** - Leader, Project Manager, UI/UX Designer
 
-Gauri - Chemistry and finance background
+**Gauri** - Chemistry and finance background
 
-Xiaoke - Marketing and startup background
+**Xiaoke** - Marketing and startup background
 
 ## Observations and Research
 
@@ -72,7 +72,6 @@ Designed for people of all levels of skincare expertise, this platform provides 
 The value we deliver:
 
 * Faster, more affordable, and more accessible than seeing a dermatologist in person
-* Saves people time (and money) researching products, testing from trial and error, etc. 
 * Offers an accessible, welcome community of support to people who have skin troubles
 * Gives people who are already passionate about skincare a chance to share their wisdom and help those who need it
 * Gives skincare professionals another avenue of exposure and a way to develop more digital connections with patients
