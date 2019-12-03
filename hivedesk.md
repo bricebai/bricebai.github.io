@@ -38,7 +38,7 @@ I implemented numerous UI/UX changes across the page. These changes intentionall
 
 ![](/uploads/hd_type and color.png)
 
-![](/uploads/hd_redesign w comments.png)
+![](/uploads/hd_redesign w comments 1.png)
 
 ## Final Design
 
