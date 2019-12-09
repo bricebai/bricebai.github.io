@@ -96,7 +96,7 @@ After 4.5 years, Nova was released to the world on indie game distribution platf
 
 * **Word count**: \~120,000
 * **Graphics count (CGs, BGs, character sprites):** 140+
-* **Downloads:** 4,500+ as of Fall 2019
+* **Downloads:** 4,500+ as of Fall/Winter 2019
 
 ### Challenges
 
@@ -106,7 +106,7 @@ Most free visual novels do not include voiceovers. In general, professional visu
 
 Instead, I suggested we find amateur voice actors via forums who were willing to do free work. We selected our voice actors from virtual auditions and requested them to send in their lines with every script update. With that came the issues of people suddenly cutting off contact, not sending in lines at a regular rate, and inconsistent audio quality among all the voiceovers.
 
-To resolve these problems, one of my artists and I chose to edit all the audio files so that they had the same quality, and we replaced a few characters' voice actors when we lost communication with the originals. In the end, our team did not have a fully-voiced visual novel, but we still wanted to include what we had in the final game. My solution was to turn off the voiceovers by default in the settings--users can still access the available voiceovers by turning them on.
+To resolve these problems, one of my artists and I chose to edit all the audio files so that they had the same quality, and we replaced a few characters' voice actors when we lost communication with the originals. In the end, our team did not have a fully-voiced visual novel, but we still wanted to include what we had in the final game. My solution was to turn off the voiceovers by default in the settings—users can still access the available voiceovers by turning them on.
 
 **Beyond design challenges, I also faced the challenge of finding the right people to work with and staying committed to the project for over four and a half years.**
 
