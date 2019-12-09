@@ -51,15 +51,15 @@ The top reasons respondents lacked a routine were that it was too time consuming
 
 ![](/uploads/why do you not have a routine.png)
 
-For our first prototype idea, we were also interested in researching what product features users were most interested in. Separate data from users with skincare routines and users without skincare routines were collected. 
+For our first prototype idea, we were also interested in researching what product features users were most interested in. Separate data from users with skincare routines and users without skincare routines were collected.
 
-Users with skincare routines were least satisfied with cleanser(s), moisturizers, and chemical exfoliants. They were also most interested in changing or adding cleansers, masks, and serum to their routine. 
+Users with skincare routines were least satisfied with cleanser(s), moisturizers, and chemical exfoliants. They were also most interested in changing or adding cleansers, masks, and serum to their routine.
 
 ![](/uploads/routine_least satisfied.png)
 
 ![](/uploads/routine_changing.png)
 
-Users without a skincare were most interested in trying cleansers or masks. 
+Users without a skincare were most interested in trying cleansers or masks.
 
 ![](/uploads/no routine_interested in.png)
 
@@ -93,7 +93,9 @@ Overall positive feedback on our prototype was expressed.
 
 However, our team faced difficulty in further product development due to lack of mentorship and experience in cosmetic formulations.
 
-These limitations and further discussion with the beta testing group users led us to discover **another pain point** that users had—the frustrations from not having convenient, reliable sources of help in discovering products or improving their routines. Although the internet contains a plethora of reviews, advice, and suggestions for different products, our users expressed more trust and a preference for help from friends or family—ultimately, people with whom they had a personal connection with and could actually look at their skin and assist them. They wanted better access to specialized, personal attention on their skin. 
+These limitations and further discussion with the beta testing group users led us to discover **another pain point** that users had—the frustrations from not having convenient, reliable sources of help in discovering products or improving their routines. Although the internet contains a plethora of reviews, advice, and suggestions for different products, our users expressed more trust and a preference for help from friends or family—ultimately, people with whom they had a personal connection with and could actually look at their skin and assist them. They wanted better access to specialized, personal attention on their skin.
+
+Further research from Mintel's February 2018 insight report on The US Beauty Consumer affirmed our finding.
 
 ![](/uploads/mintel 2.png)
 
@@ -103,7 +105,7 @@ We decided to pivot to a new idea that would help tackle this problem.
 
 **A digital social platform dedicated to helping users connect with other skincare enthusiasts and skincare professionals to formulate routines, diagnose issues, and generate closer connections with people who have a shared love of skincare.**
 
-Although online communities dedicated to skincare exist like various subreddits or forums like acne.org, there is no platform dedicated to more personalized help in discovering skincare products and formulating skincare routines.
+Although online communities dedicated to skincare exist like various subreddits (ex. [/r/SkincareAddiction](https://www.reddit.com/r/SkincareAddiction/)) or forums like [acne.org](https://www.acne.org/forums/), there is no platform dedicated to more personalized help in discovering skincare products and formulating skincare routines.
 
 Designed for people of all levels of skincare expertise, this platform provides a way for beginners to navigate the confusing skincare landscape while also giving more experienced skincare users the opportunity to develop more personal connections with fellow enthusiasts and provide guidance to those who need it. Users will also have the option to easily connect with dermatologists, estheticians, and other skincare professionals for an additional price.
 
@@ -126,14 +128,18 @@ Montserrat was chosen as a clean sans-serif font that conveys simplicity and str
 
 #### The Experience
 
-![](/uploads/xing 2.png)
+![](/uploads/2.png)
 
-![](/uploads/xing 3.png)
+![](/uploads/3.png)
 
-![](/uploads/xing 4.png)
+![](/uploads/4.png)
 
-#### User Flow
+#### Main User Flow
 
-![](/uploads/xing 5.1.png)
+![](/uploads/6.png)
+
+#### Onboarding Flow
+
+![](/uploads/7.png)
 
 #### Final Prototype
