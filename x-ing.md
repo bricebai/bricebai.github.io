@@ -163,7 +163,7 @@ Some key onboarding features:
 * **Start with the user’s “why”**, focusing on their intent for using this app
 * **Specialize onboarding for the two main user types**--hobbyists or professionals
 * **Make helpful overlays available to beginners** that simply explain how to diagnose their skin type or condition and how to begin or format a routine
-* **Include progress bar** for goal gradient effect to guide user to end of funnel
+* **Include progress bar** for goal gradient effect to guide the user to the end of the funnel
 * **Immediately verify professionals' board/license** to ensure that they are qualified to deliver professional advice
 
 #### Final Prototype
