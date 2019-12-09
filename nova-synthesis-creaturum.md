@@ -100,17 +100,25 @@ After 4.5 years, Nova was released to the world on indie game distribution platf
 
 ### Challenges
 
-The main challenges I faced were finding the right people to work with and staying committed to the project for over four and a half years.
+The design challenges I faced were in considering how to make our visual novel stand out among the sea of indie games. **One of the main issues I dealt with was providing character voiceovers and working with voice actors.**
 
-I did not have possess all the skills needed to create a visual novel, so I had to seek help from others, but no one around me was interested in the project. I ended up turning to the projects section of a DeviantArt forum, posting a help wanted thread that solicited a few private messages from some users.
+Most free visual novels do not include voiceovers. In general, professional visual novel studios who do include them hire professional voice actors and record them in-house, giving them live feedback and creating a consistent tone across all recordings. For my remote and budgetless team, this was not a feasible option.
+
+Instead, I suggested we find amateur voice actors via forums who were willing to do free work. We selected our voice actors from virtual auditions and requested them to send in their lines with every script update. With that came the issues of people suddenly cutting off contact, not sending in lines at a regular rate, and inconsistent audio quality among all the voiceovers.
+
+To resolve these problems, one of my artists and I chose to edit all the audio files so that they had the same quality, and we replaced a few characters' voice actors when we lost communication with the originals. In the end, our team did not have a fully-voiced visual novel, but we still wanted to include what we had in the final game. My solution was to turn off the voiceovers by default in the settings--users can still access the available voiceovers by turning them on.
+
+**Beyond design challenges, I also faced the challenge of finding the right people to work with and staying committed to the project for over four and a half years.**
+
+I did not possess all the skills needed to create a visual novel, so I had to seek help from others, but no one around me was interested in the project. I ended up turning to the projects section of a DeviantArt forum, posting a help wanted thread that solicited a few private messages from some users.
 
 ![](/uploads/nova_thread.png)
 
-Despite how none of had ever made a visual novel nor completed a project to this scale before, we still managed to complete it together in due time.
+Despite how none of had ever made a visual novel nor completed a project to this scale before, we still managed to complete it together in due time. The process took 4.5 years because the story developed into something more layered and detailed than originally anticipated—our team decided to let it organically grow and continue working on it as long as we could. Over this period of time, our problems evolved from establishing a completely remote method of collaboration to maintaining steam on progressing through the story, artwork, and programming.
 
-Building my team from that forum became the most significant factor of my learning experience and growth—it was my team members that taught me how to set proper goals and deadlines for myself, how to communicate ideas with people across different disciplines, and how to work well as a team despite being fully remote and never once meeting at the same time. Making Nova proved to me that working with others will often create something bigger and better than what one person can do alone, giving me a much greater appreciation for teamwork and collaboration. Ultimately, it was my team that motivated me to continue working on this project for so long. I wanted to be accountable for starting it, and I became determined to have our hard work come to fruition.
+**Building my team from that forum became the most significant factor of my learning experience and growth**—it was my team members that taught me how to set proper goals and deadlines for myself, how to communicate ideas with people across different disciplines, and how to work well as a team despite being fully remote and never once meeting at the same time. Making Nova proved to me that working with others will often create something bigger and better than what one person can do alone, giving me a much greater appreciation for teamwork and collaboration. Ultimately, it was my team that motivated me to continue working on this project for so long. I wanted to be accountable for starting it, and I became determined to have our hard work come to fruition.
 
-In managing the project and leading the overall direction of the game, this is what started my interest in the product field in the tech industry. It gave me direct experience in creating and releasing a product from start to finish, designing the product and its features with the user in mind, working with a team and dipping into every facet of the product development process, and managing it all under a personal timeline while still being a full-time student.
+In managing the project and leading the overall direction of the game, this is what started my interest in the product field in the tech industry. It gave me direct experience in creating and releasing a product from start to finish, working with a team and dipping into every facet of the product development process, and managing it all under a personal timeline while still being a full-time student. Furthermore, although I did not have a design role for this project, designing certain game features with the user in mind, creating content for social media posts, and seeing the work of my artists influenced my own interests and desire to be a designer.
 
 ### Follow Nova!
 
