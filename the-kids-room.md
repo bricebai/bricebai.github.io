@@ -39,7 +39,7 @@ I began with the three basic shapes, circle, triangle, and square, to represent 
 
 I used slightly transparent gradients to evoke dynamic fluidity and transition. Playing around with patterns such as polka dots and lines added to the overall youth and playfulness of the identity.
 
-The layering of the solid gradients vs. patterns created a multifaceted quality.
+The layering of the solid gradients vs. patterns created a multifaceted quality, giving the appearance of each shape having different layers of either the gradient or the pattern. This effect is important in conveying the layered nature of this room and its different appearances from certain perspectives.
 
 ![](/uploads/tkr_process 2.png)
 
