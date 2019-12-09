@@ -5,6 +5,8 @@ permalink: "/xing"
 project: []
 
 ---
+(pronounced "crossing")
+
 # Skincare Product Development and Mobile App Prototyping
 
 **Duration:** December 2018 – May 2019
@@ -160,7 +162,7 @@ Another key chat feature is the ability to send product cards from your routine 
 
 Some key onboarding features:
 
-* **Start with the user’s “why”**, focusing on their intent for using this app
+* **Start with the user’s “why”**, focusing on their intent for using this app with questions on what exactly they are seeking
 * **Specialize onboarding for the two main user types**--hobbyists or professionals
 * **Make helpful overlays available to beginners** that simply explain how to diagnose their skin type or condition and how to begin or format a routine
 * **Include progress bar** for goal gradient effect to guide the user to the end of the funnel
