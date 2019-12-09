@@ -21,7 +21,7 @@ project: []
 
 **Background**: Skin. It’s the largest organ of the human body, and can be the biggest source of frustration for anyone who has been a teenager and even beyond. From walking into the confusing skincare aisles of a CVS to seeing endless online advice for using over 10+ products at once, my entire team has experienced the same frustrations over finding what works best for us.
 
-We want to create a solution that makes skincare more accessible, affordable, and attainable for people frustrated with the current overcomplicated skincare landscape.
+We wanted to create a solution that makes skincare more accessible, affordable, and attainable for people frustrated with the current overcomplicated skincare landscape.
 
 ## The Team
 
@@ -35,11 +35,41 @@ Our team all met via Yale Launch, a student entrepreneurship club dedicated to h
 
 ## Observations and Research
 
-According to a user survey (n=30) we released, **the top reasons respondents lacked a routine were that it was too time consuming, too confusing to approach, and too overwhelming**. These complaints highlight our target pain point.
+We released a user survey (n = 30) to gather data on respondents' current skincare beliefs and pain points.
 
-For our first prototype idea, we were also interested in researching what product features users were most interested in. Separate data from users with skincare routines and users without skincare routines were collected. Users with skincare routines were least satisfied with cleanser(s), moisturizers, and chemical exfoliants. They were also most interested in changing or adding cleansers, masks, and serum to their routine. Users without a skincare were most interested in trying cleansers or masks. Both types of users expressed the top three factors that attracted them to a skincare product were the price point, brand reputation, and ease of use.
+### Survey Demographics
+
+![](/uploads/age-1.png)![](/uploads/gender.png)
+
+![](/uploads/skin type.png)
+
+We focused on a younger age range, as this group tended to be more experimental and willing to try new products. We also intentionally reached out to male surveyors since this gender demographic tended to have more users who were not as informed on skincare in comparison to the female demographic. Finally, we found that most respondents reported having a non-normal skin type, revealing how users with more problem-prone skin may show more interest in skincare.
+
+### Survey Findings
+
+The top reasons respondents lacked a routine were that it was too time consuming, too confusing to approach, and too overwhelming. These complaints highlight our target pain point.
+
+![](/uploads/why do you not have a routine.png)
+
+For our first prototype idea, we were also interested in researching what product features users were most interested in. Separate data from users with skincare routines and users without skincare routines were collected. 
+
+Users with skincare routines were least satisfied with cleanser(s), moisturizers, and chemical exfoliants. They were also most interested in changing or adding cleansers, masks, and serum to their routine. 
+
+![](/uploads/routine_least satisfied.png)
+
+![](/uploads/routine_changing.png)
+
+Users without a skincare were most interested in trying cleansers or masks. 
+
+![](/uploads/no routine_interested in.png)
+
+Both types of users expressed the top three factors that attracted them to a skincare product were the price point, brand reputation, and ease of use.
+
+![](/uploads/what attracts you to a product.png)
 
 We also decided to do more market research with Mintel insight reports on what types of products consumers were most interested in. Simple usage instructions, short ingredient list, eco-ethical claims, and packaging are considerably important features for consumers ages 18-34.
+
+![](/uploads/mintel 1.png)
 
 ## Features and Prototyping
 
@@ -49,17 +79,25 @@ We also decided to do more market research with Mintel insight reports on what t
 
 #### Product 1.0 Prototyping
 
-Using a series of four online recipes ([1](https://www.humblebeeandme.com/lavender-cleansing-milk/), [2](https://www.humblebeeandme.com/gentle-chamomile-facial-cleanser/), [3](https://www.humblebeeandme.com/houdini-anti-acne-creme/), [4)]() from blogger [Humblebee & Me](https://www.humblebeeandme.com/), our team prototyped a batch of cleansers, toners, and moisturizers for a beta testing group of 12. We chose recipes that had short ingredients lists and primarily used natural, scientifically-backed ingredients. Half of the testers used our “normal” skin type set, while the other half used our “acne” skin type set.
+Using a series of four online recipes ([1](https://www.humblebeeandme.com/lavender-cleansing-milk/), [2](https://www.humblebeeandme.com/gentle-chamomile-facial-cleanser/), [3](https://www.humblebeeandme.com/houdini-anti-acne-creme/), [4)]() from blogger [Humblebee & Me](https://www.humblebeeandme.com/), our team prototyped a batch of cleansers, toners, and moisturizers. We chose this blogger for her beginner-friendly and ingredients-focused recipes. Her website had extensive information on proper ingredient sourcing, preservation of products, recipe troubleshooting, and safety precautions, so we felt that she was a trusted source.
 
-We chose our products based on our research that revealed that both users with routines and without routines were most interested in or least satisfied with cleansers and moisturizers. We also included a toner to complete the set and establish a simple, 3-step routine.
-
-An airless pump bottle was chosen as the packaging, for this type of bottle could be washed and reused--a more environmentally friendly packaging option.
+We formed a beta testing group of 12 from our original survey respondents. Half of the testers used our “normal” skin type set, while the other half used our “acne” skin type set. Within each group, half of the normal set used X.ing products alone while the other other incorporated X.ing products into their currently existing routine. The half that used the products alone either did not originally have a routine at all or were skincare beginners willing to try a complete new routine.
 
 ![](/uploads/xing_proto1_1.jpg)
 
-Overall positive feedback on our products was expressed, but our team faced difficulty in further product development due to lack of mentorship and experience in cosmetic formulations.
+Overall positive feedback on our prototype was expressed.
 
-These limitations and further discussion with the beta testing group users led us to discover **another pain point** that users had—the frustrations from not having convenient, reliable sources of help in discovering products or improving their routines. Although the internet contains a plethora of reviews, advice, and suggestions for different products, our users expressed more trust and a preference for help from friends or family—ultimately, people with whom they had a personal connection with and could actually look at their skin and assist them. They wanted better access to specialized, personal attention on their skin. We decided to pivot to a new idea that would help tackle this problem.
+![](/uploads/beta test_1.png)
+
+![](/uploads/beta test_2.png)
+
+However, our team faced difficulty in further product development due to lack of mentorship and experience in cosmetic formulations.
+
+These limitations and further discussion with the beta testing group users led us to discover **another pain point** that users had—the frustrations from not having convenient, reliable sources of help in discovering products or improving their routines. Although the internet contains a plethora of reviews, advice, and suggestions for different products, our users expressed more trust and a preference for help from friends or family—ultimately, people with whom they had a personal connection with and could actually look at their skin and assist them. They wanted better access to specialized, personal attention on their skin. 
+
+![](/uploads/mintel 2.png)
+
+We decided to pivot to a new idea that would help tackle this problem.
 
 ### Pivot to Product 2.0
 
