@@ -49,7 +49,7 @@ We focused on a younger age range, as this group tended to be more experimental 
 
 ### Survey Findings
 
-The top reasons respondents lacked a routine were that it was too time consuming, too confusing to approach, and too overwhelming. These complaints highlight our target pain point.
+The top reasons respondents lacked a routine were that it was too time consuming, too confusing to approach, and too overwhelming. These complaints highlighted our target pain point.
 
 ![](/uploads/why do you not have a routine.png)
 
