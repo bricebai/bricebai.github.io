@@ -146,7 +146,7 @@ Your profile will contain the key information for others to learn about your ski
 
 The other key feature here is **having succinct FAQs and introductory guides** to skin type, skin concerns, and routine formulation available as cards that overlay the screen. I**t creates a better experience, especially for beginner skincare users.**
 
-![](/uploads/5.png)
+![](/uploads/5-1.png)
 
 Inspired by the MyFitnessPal user-generated food library, X.ing implements a user-generated skincare product library instead. This allows for easy adding of your own products and the ability to discover new products with real feedback.
 
