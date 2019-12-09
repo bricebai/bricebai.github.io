@@ -128,25 +128,27 @@ Montserrat was chosen as a clean sans-serif font that conveys simplicity and str
 
 #### The Experience
 
-A mobile app was chosen for its ease of direct messaging users and sending images. Providing images of your own skin or products is a specific and significant supplement beyond pure description to diagnosing and treating skin issues. A mobile app platform makes this experience easier than a website.
+**A mobile app was chosen for its ease of direct messaging users and sending images**. Providing images of your own skin or products is a specific and significant supplement beyond pure description to diagnosing and treating skin issues. A mobile app platform makes this experience easier than a website.
 
 ![](/uploads/2.png)
 
-Users can toggle between friends and skincare professionals to message. One-on-one messaging is the main method of communication in order to encourage more personal relationships between users--this is the main reason why a forum or public question submission feature is not included.
+Users can toggle between friends and skincare professionals to message. **One-on-one messaging is the main method of communication in order to encourage more personal relationships between users**--this is the main reason why a forum or public question submission feature is not included.
 
 ![](/uploads/3.png)
 
-When finding users, you automatically are shown people who will give you what you seek, whether it be advice or someone to advise. The option to filter by age, location, skin type, or knowledge level is available, as these are important factors to treating different skin conditions at certain ages or in certain climates.
+**When finding users, you automatically are shown people who will give you what you seek**, whether it be advice or someone to advise. **The option to filter by age, location, skin type, or knowledge level is available**, as these are important factors to treating different skin conditions at certain ages or in certain climates.
 
 ![](/uploads/4.png)
 
 Your profile will contain the key information for others to learn about your skin and assist you. A biography gives users the opportunity to showcase their personality and pique the interest of other users. Having the user's skincare knowledge level also gives others an extra parameter in determining how much to trust the user's opinion.
 
-The other key feature here is having succinct FAQs and introductory guides to skin type, skin concerns, and routine formulation available as cards that overlay the screen. It creates a better experience, especially for beginner skincare users.
+The other key feature here is **having succinct FAQs and introductory guides** to skin type, skin concerns, and routine formulation available as cards that overlay the screen. I**t creates a better experience, especially for beginner skincare users.**
 
 ![](/uploads/5.png)
 
 Inspired by the MyFitnessPal user-generated food library, X.ing implements a user-generated skincare product library instead. This allows for easy adding of your own products and the ability to discover new products with real feedback.
+
+Another key chat feature is the ability to send product cards from your routine or the product library in direct messages. **This eliminates the extra time and effort spent in looking up products online, allowing users to easily view product information without leaving the platform.**
 
 #### Main User Flow
 
