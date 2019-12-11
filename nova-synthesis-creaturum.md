@@ -100,15 +100,17 @@ After 4.5 years, Nova was released to the world on indie game distribution platf
 
 ### Challenges
 
-The design challenges I faced were in considering how to make our visual novel stand out among the sea of indie games. **One of the main issues I dealt with was providing character voiceovers and working with voice actors.**
+**A specific design challenge I faced was how to improve user experience in finding information about music soundtracks.** Many visual novel fans, including myself, enjoy looking up the various soundtracks that get played during a game, but it can be difficult to pinpoint specific tracks and their names. To resolve this, I chose to have the Music Box feature, which is essentially a page that reveals each soundtrack's name and composer after they are played. This allows users to easily identify all the tracks used without the need of researching them outside of the game.
 
-Most free visual novels do not include voiceovers. In general, professional visual novel studios who do include them hire professional voice actors and record them in-house, giving them live feedback and creating a consistent tone across all recordings. For my remote and budgetless team, this was not a feasible option.
+Another challenge I faced was considering how to make our visual novel stand out among the sea of free indie games. **My answer to this was providing character voiceovers.** Most free visual novels do not include voiceovers. In general, professional visual novel studios who do include them hire professional voice actors and record them in-house, giving them live feedback and creating a consistent tone across all recordings. For my remote and budgetless team, this was not a feasible option.
 
 Instead, I suggested we find amateur voice actors via forums who were willing to do free work. We selected our voice actors from virtual auditions and requested them to send in their lines with every script update. With that came the issues of people suddenly cutting off contact, not sending in lines at a regular rate, and inconsistent audio quality among all the voiceovers.
 
 To resolve these problems, one of my artists and I chose to edit all the audio files so that they had the same quality, and we replaced a few characters' voice actors when we lost communication with the originals. In the end, our team did not have a fully-voiced visual novel, but we still wanted to include what we had in the final game. My solution was to turn off the voiceovers by default in the settings—users can still access the available voiceovers by turning them on.
 
-**Beyond design challenges, I also faced the challenge of finding the right people to work with and staying committed to the project for over four and a half years.**
+Since the voiceovers were the only incomplete feature of the game, **this was a situation where I had to choose masking the feature in order to release the game on time.**
+
+Beyond these challenges, **I also faced the challenge of finding the right people to work with and staying committed to the project for over four and a half years.**
 
 I did not possess all the skills needed to create a visual novel, so I had to seek help from others, but no one around me was interested in the project. I ended up turning to the projects section of a DeviantArt forum, posting a help wanted thread that solicited a few private messages from some users.
 
