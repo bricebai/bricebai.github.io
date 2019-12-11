@@ -23,7 +23,7 @@ project: []
 
 ## The Team
 
-The team consisted of six people, and each mainly focused on product marketing. I shared my decision decisions with the co-founder of HiveDesk and one of the product marketers. In the end, these two made the final calls for my designs.
+The main team consisted of six people, and each primarily focused on product marketing. The software development team for HiveDesk was based in GlowTouch's India office. I shared my decision decisions with the co-founder of HiveDesk and one of the product marketers. In the end, these two made the final calls for my designs.
 
 ## Observations and Research
 
@@ -48,7 +48,7 @@ I implemented numerous UI/UX changes across the page. These changes intentionall
 
 ![](/uploads/new_mockup.png)
 
-Since the team mainly wanted to incorporate small, low-effort UI changes to the homepage, my redesign was not fully implemented by the end of my time at GlowTouch. However, my design decisions such as the reduction of links in the top navigation bar, the repeating of the CTA button at the top of the page, and the removal of the extraneous blocks of descriptive text were made. 
+Since the team mainly wanted to incorporate small, low-effort UI changes to the homepage, my redesign was not fully implemented by the end of my time at GlowTouch. However, my design decisions such as the reduction of links in the top navigation bar, the repeating of the CTA button at the top of the page, and the removal of the extraneous blocks of descriptive text were made.
 
 **As a result, the CTR from homepage to free-trial-page as well as the number of users scrolling down the entire homepage increased from 1.7% to 2.1%--approximately, a 24% increase**.
 
