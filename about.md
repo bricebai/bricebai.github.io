@@ -4,7 +4,7 @@ title: About
 permalink: "/about/"
 
 ---
-I'm a student at Yale University studying **Computing and the Arts**, a joint computer science and art major.
+I'm an undergrad at Yale University ('22) studying **Computing and the Arts**, a joint computer science and art major.
 
 **Product**, **user experience**, and **design** are what I’m passionate about. I’ve always loved exploring how to create meaningful digital experiences, whether it be through interactive storytelling or visual design.
 
