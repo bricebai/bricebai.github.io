@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 I'm an undergrad at Yale University ('22) studying **Computing and the Arts**, a joint computer science and art major.
 
-**Product**, **user experience**, and **design** are what I’m passionate about. I’ve always loved exploring how to create meaningful digital experiences, whether it be through interactive storytelling or visual design.
+I’ve always loved exploring how to create meaningful experiences, whether it be through interactive storytelling or product development. This combined with my background in computer science and art has led me to become passionate about **product**, **user experience**, and **design**. 
 
 When I'm not designing, coding, or making other projects, you can find me dancing to kpop, reading webcomics, and penny boarding down the street.
 
