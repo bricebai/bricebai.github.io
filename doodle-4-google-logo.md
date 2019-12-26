@@ -25,13 +25,13 @@ Google hosts an annual contest, Doodle 4 Google, where students K-12 design thei
 
 ## Features
 
-In developing the concept of this design with the prompt in mind, I focused on the subject of **women’s empowerment**. To convey the prompt’s subject of the future, visual depictions of space, the stars, and dreaming were used. Using the letters of Google to become the constellations representing women in various occupations became the essential expression of future female empowerment.
+In developing the concept of this design with the prompt in mind, I focused on the subject of **women’s empowerment**. To convey the prompt’s subject of the future, visual depictions of space, the stars, and dreaming were used. Using the letters of Google to become the constellations representing women in various occupations became the essential expression of future female empowerment. After all, if something is written in the stars, it is bound to happen.
 
 ## Final Design
 
 ![](/uploads/doodle4google_bricebai_original.jpg)
 
-**Vision** 
+**Vision Statement**
 
 > “In the future, I see women succeeding in any career they want without facing extra obstacles due to their gender. As long as we keep fighting for women to have better opportunities and greater representation in work, this kind of world is written in the stars.”
 
