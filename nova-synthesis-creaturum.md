@@ -7,21 +7,23 @@ project: []
 ---
 # Visual Novel Game Development
 
+&nbsp;
+
 Download here: [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/novascofficial "https://nova-sc.itch.io/novascofficial")
 
 ***
 
-**Duration:** January 2014 - June 2018
+**Duration** &nbsp;&nbsp;&nbsp;January 2014 - June 2018
 
-**Team:**  
+**Team**  
 [CatharsisGaze](https://www.deviantart.com/catharsisgaze) - Main Artist  
 [Rexx9224](http://rexx9224.deviantart.com/) - Programmer  
 [na-o-mi](http://na-o-mi.deviantart.com/) - Artist  
 [IridescentFlora](https://www.deviantart.com/iridescentflora) - Assisting Artist
 
-**My Role:‍** Project Manager, Writer, Social Media Manager
+**My Role** &nbsp;&nbsp;&nbsp;Project Manager, Writer, Social Media Manager
 
-**Key Skills:** Project Management, Creative Writing, Cross-functional Remote Teamwork, Copywriting, Social Media Management, User Experience
+**Key Skills** &nbsp;&nbsp;&nbsp;Project Management, Creative Writing, Cross-functional Remote Teamwork, Copywriting, Social Media Management, User Experience
 
 ![](/uploads/nova thumbnail.png)
 
@@ -33,7 +35,7 @@ Download here: [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/
 
 – [Wikipedia](https://en.wikipedia.org/wiki/Visual_novel)
 
-**The problem:** As a personal fan of visual novels, I struggled with finding more that were available in English. There was definitely a growing demand—I saw more and more Japanese titles fan-translated into English in my personal search, but I still felt unsatisfied with the present titles available, especially for adolescent players. I decided to take matters into my own hands and make one of my own.
+**The problem** &nbsp;&nbsp;&nbsp;As a personal fan of visual novels, I struggled with finding more that were available in English. There was definitely a growing demand—I saw more and more Japanese titles fan-translated into English in my personal search, but I still felt unsatisfied with the present titles available, especially for adolescent players. I decided to take matters into my own hands and make one of my own.
 
 ## The Team
 
