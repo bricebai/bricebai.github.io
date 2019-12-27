@@ -13,13 +13,13 @@ When I'm not designing, coding, or making other projects, you can find me dancin
 Let’s get in touch if you have a project or collaboration in mind.
 Currently seeking summer 2020 opportunities!
 
-&nbsp
+&nbsp;
 
-&nbsp   
+&nbsp;  
  
 
 ###### **Contact**
 
-###### brice.bai@yale.edu  
+brice.bai@yale.edu  
 [LinkedIn](https://www.linkedin.com/in/bricebai/)  
 [Behance](https://www.behance.net/bricebai)
