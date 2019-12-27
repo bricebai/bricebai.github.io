@@ -5,23 +5,23 @@ permalink: "/xing"
 project: []
 
 ---
-(pronounced "crossing")
-
 # Skincare Product Development and Mobile App Prototyping
 
-**Duration:** December 2018 – May 2019
+&nbsp;
 
-**Team:** Gauri Jaswal, Xiaoke Luo
+**Duration** &nbsp;&nbsp;&nbsp;December 2018 – May 2019
 
-**My Role:** Team Leader, Project Manager, UI/UX Designer
+**Team** &nbsp;&nbsp;&nbsp;Gauri Jaswal, Xiaoke Luo
 
-**Key Skills:** Project Management, Skincare Product Development, UI/UX, Mobile App Prototyping, User Research
+**My Role** &nbsp;&nbsp;&nbsp;Team Leader, Project Manager, UI/UX Designer
+
+**Key Skills** &nbsp;&nbsp;&nbsp;Project Management, Skincare Product Development, UI/UX, Mobile App Prototyping, User Research
 
 ![](/uploads/xing thumbnail.png)
 
 ## Challenge
 
-**Background**: Skin. It’s the largest organ of the human body, and can be the biggest source of frustration for anyone who has been a teenager and even beyond. From walking into the confusing skincare aisles of a CVS to seeing endless online advice for using over 10+ products at once, my entire team has experienced the same frustrations over finding what works best for us.
+**Background** &nbsp;&nbsp;&nbsp;Skin. It’s the largest organ of the human body, and can be the biggest source of frustration for anyone who has been a teenager and even beyond. From walking into the confusing skincare aisles of a CVS to seeing endless online advice for using over 10+ products at once, my entire team has experienced the same frustrations over finding what works best for us.
 
 We wanted to create a solution that makes skincare more accessible, affordable, and attainable for people frustrated with the current overcomplicated skincare landscape.
 
