@@ -7,19 +7,21 @@ project: []
 ---
 # Homepage UI Redesign
 
-**Duration:** Summer 2019
+&nbsp;
 
-**Tools:** Figma, Photoshop
+**Duration** &nbsp;&nbsp;&nbsp;Summer 2019
 
-**Key Skills:** UI/UX, Conversion Optimization
+**Tools** &nbsp;&nbsp;&nbsp;Figma, Photoshop
+
+**Key Skills** &nbsp;&nbsp;&nbsp;UI/UX, Conversion Optimization
 
 ![](/uploads/wix thumbnail.png)
 
 ## The Challenge
 
-**Background:** HiveDesk is a B2B SaaS product that tracks remote worker productivity by taking random automated screenshots of workers’ screens. It has a customer base in the hundreds and is managed by a small team in GlowTouch Technologies, a technology company based in Louisville, Kentucky. As a summer 2019 intern at GlowTouch, I had the opportunity to assist with the product marketing and management of HiveDesk.
+**Background** &nbsp;&nbsp;&nbsp;HiveDesk is a B2B SaaS product that tracks remote worker productivity by taking random automated screenshots of workers’ screens. It has a customer base in the hundreds and is managed by a small team in GlowTouch Technologies, a technology company based in Louisville, Kentucky. As a summer 2019 intern at GlowTouch, I had the opportunity to assist with the product marketing and management of HiveDesk.
 
-**The Problem:** HiveDesk has been stagnating in customer growth for over a year. One way to tackle this issue is through small and easy-to-implement UI/UX techniques that influence users to move beyond the homepage and to the free trial download page. I redesigned the homepage with this intention of increasing user conversions and free trial downloads.
+**The Problem** &nbsp;&nbsp;&nbsp;HiveDesk has been stagnating in customer growth for over a year. One way to tackle this issue is through small and easy-to-implement UI/UX techniques that influence users to move beyond the homepage and to the free trial download page. I redesigned the homepage with this intention of increasing user conversions and free trial downloads.
 
 ## The Team
 
