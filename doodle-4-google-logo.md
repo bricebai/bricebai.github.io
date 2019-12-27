@@ -7,6 +7,10 @@ project: []
 ---
 # Logo Design
 
+&nbsp;
+
+&nbsp;
+
 **Duration** &nbsp;&nbsp;&nbsp;February 2017
 
 **Tools** &nbsp;&nbsp;&nbsp;Photoshop, Manga Studio 5
