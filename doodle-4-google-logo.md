@@ -7,11 +7,11 @@ project: []
 ---
 # Logo Design
 
-**Duration:** February 2017
+**Duration** &nbsp;&nbsp;&nbsp;February 2017
 
-**Tools:** Photoshop, Manga Studio 5
+**Tools** &nbsp;&nbsp;&nbsp;Photoshop, Manga Studio 5
 
-**Key Skills:** Logo Design, Digital Illustration
+**Key Skills** &nbsp;&nbsp;&nbsp;Logo Design, Digital Illustration
 
 ![](/uploads/d4g thumbnail.png)
 
