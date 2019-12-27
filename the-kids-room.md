@@ -7,11 +7,13 @@ project: []
 ---
 # Logo Design
 
-**Duration:** October 2019
+&nbsp;
 
-**Tools:** Photoshop
+**Duration** &nbsp;&nbsp;&nbsp;October 2019
 
-**Key Skills:** Graphic Design, Logo Design
+**Tools** &nbsp;&nbsp;&nbsp;Photoshop
+
+**Key Skills** &nbsp;&nbsp;&nbsp;Graphic Design, Logo Design
 
 ![](/uploads/kidsroom thumbnail.png)
 
