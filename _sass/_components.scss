@@ -25,7 +25,8 @@ code {
 .prose {
 
   a {
-    text-decoration: underline dotted;
+    text-decoration: underline;
+    text-decoration-color: #E74727;
 
     &:hover {
       text-decoration: underline;
