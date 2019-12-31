@@ -27,7 +27,7 @@ Sleep is often not prioritized, especially in a college environment, but taking 
 
 ### User Interviews
 
-I interviewed 5 people–4 were my friends and classmates, and 1 was my older sister who had been facing severe sleep problems. I noticed a few common findings among them:
+I interviewed 5 people–4 were my friends and classmates, and 1 was my older sister who had been facing severe sleep problems in her working life. I noticed a few common findings among them:
 
 **All were somewhat unsatisfied with their sleep.**
 
@@ -84,7 +84,7 @@ Keeping a sleep log is a good way to see where the user can make improvements in
 
 Push notifications will be offered to help users be reminded of not only their bedtime but also when they should start preparing for sleep. This will help people fall asleep easier and faster.
 
-In addition, receiving notifications on how much regular sleep or sleep debt the user has gotten over a certain period of time will help motivate people to either continue their current behavior or improve it. 
+In addition, receiving notifications on how much regular sleep or sleep debt the user has gotten over a certain period of time will help motivate people to either continue their current behavior or improve it.
 
 Praise for consistent good sleep habits is encouraging. An instance of the incorporation of praise is upon opening the app—the starting page will have a banner at the top of the screen praising the user for achieving regular sleep for however many days.
 
