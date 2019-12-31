@@ -46,7 +46,7 @@ I implemented numerous UI changes across the page. These changes intentionally a
 
 ## Final Design
 
-![](/uploads/new_mockup.png)
+![](/uploads/new_mockup-1.png)
 
 Since the team mainly wanted to incorporate small, low-effort UI changes to the homepage, my redesign was not fully implemented by the end of my time at GlowTouch. However, my design decisions such as the reduction of links in the top navigation bar, the repeating of the CTA button at the top of the page, and the removal of the extraneous blocks of descriptive text were made.
 
