@@ -8,8 +8,6 @@ published: false
 ---
 # Skincare Product Development and Mobile App Prototyping
 
- 
-
 **Duration**    December 2019 (1 week)
 
 **Tools**    Figma
@@ -30,11 +28,9 @@ Sleep is often not prioritized, especially in a college environment, but taking 
 
 ### User Interviews
 
-· Crystal – sophomore Environmental Science major at Johns Hopkins University
+I interviewed 5 people–4 were my friends and classmates, and 1 was my sister who had been facing severe sleep problems. I noticed a few common findings among them:
 
-· Bobby – junior Global Affairs major at Yale University
-
-· Tomi – junior Applied Mathematics major at Yale University
+* **All were unsatisfied with their sleep.**
 
 ### Secondary Research
 
