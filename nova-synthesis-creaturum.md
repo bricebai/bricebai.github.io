@@ -9,7 +9,7 @@ project: []
 
 Download here: [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/novascofficial "https://nova-sc.itch.io/novascofficial")
 
-***
+&nsbp;
 
 **Duration**    January 2014 - June 2018
 
