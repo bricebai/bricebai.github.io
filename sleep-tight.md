@@ -6,7 +6,7 @@ project: []
 published: false
 
 ---
-# Skincare Product Development and Mobile App Prototyping
+# Mobile App Prototyping
 
 **Duration**    December 2019 (1 week)
 
@@ -87,9 +87,15 @@ Push notifications will be offered to help users be reminded of not only their b
 
 In addition, receiving notifications on how much regular sleep or sleep debt the user has gotten over a certain period of time will help motivate people to either continue their current behavior or improve it. 
 
-Praise for consistent good sleep habits is encouraging. An example of how it is incorporated is upon opening the app, where the starting page will have a banner at the top of the screen praising the user for achieving regular sleep for however many days.
+Praise for consistent good sleep habits is encouraging. An instance of the incorporation of praise is upon opening the app—the starting page will have a banner at the top of the screen praising the user for achieving regular sleep for however many days.
 
 ![](/uploads/sleep_4.png)
+
+### Design Decision 4
+
+**Provide information about the benefits of sleep, the risks of sleep deprivation, and how to achieve better sleep**
+
+From my personal experience of taking my course on sleep as well as feedback from user interviews, more awareness of the benefits of sleep and the consequences of no sleep helps users create better sleep habits and sleep hygiene for themselves. Having this information available and sprinkled throughout the app will serve as a constant reminder of why users need high-quality sleep.
 
 ![](/uploads/sleep_5.png)
 
