@@ -7,8 +7,6 @@ project: []
 ---
 # Visual Novel Game Development
 
- 
-
 Download here: [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/novascofficial "https://nova-sc.itch.io/novascofficial")
 
 ***
@@ -23,7 +21,7 @@ Download here: [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/
 
 **My Role**    Project Manager, Writer, Social Media Manager
 
-**Key Skills**    Project Management, Creative Writing, Cross-functional Remote Teamwork, User Experience
+**Key Skills**    Project Management, Creative Writing, Cross-functional Teamwork, User Experience
 
 ![](/uploads/nova thumbnail.png)
 
