@@ -1,5 +1,5 @@
 ---
-layout: page_widget
+layout: sleep_page_widget
 title: Sleep Tight
 permalink: "/sleeptight"
 project: []
@@ -30,7 +30,8 @@ Sleep is often not prioritized, especially in a college environment, but taking 
 
 I interviewed 5 people–4 were my friends and classmates, and 1 was my sister who had been facing severe sleep problems. I noticed a few common findings among them:
 
-* **All were unsatisfied with their sleep.**
+* **All were somewhat unsatisfied with their sleep.**
+* **All knew of good sleep habits and the detriments of sleep deprivation, but they had trouble maintaining better sleep.**
 
 ### Secondary Research
 
