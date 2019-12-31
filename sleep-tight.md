@@ -28,10 +28,19 @@ Sleep is often not prioritized, especially in a college environment, but taking 
 
 ### User Interviews
 
-I interviewed 5 people–4 were my friends and classmates, and 1 was my sister who had been facing severe sleep problems. I noticed a few common findings among them:
+I interviewed 5 people–4 were my friends and classmates, and 1 was my older sister who had been facing severe sleep problems. I noticed a few common findings among them:
 
-* **All were somewhat unsatisfied with their sleep.**
-* **All knew of good sleep habits and the detriments of sleep deprivation, but they had trouble maintaining better sleep.**
+**All were somewhat unsatisfied with their sleep.**
+
+![](/uploads/sleep_user_1.png)
+
+**All knew of good sleep habits but did not always actualize them.**
+
+All users had knowledge of good sleep habits as well as the detriments of sleep deprivation, yet they did not always actualize them and were still unsatisfied with their current sleep. This begs the question of how to create a product that can push people to actually put these habits into practice.
+
+Their thoughts on their ideal sleep app revealed **the need for a simple, unobtrusive way to be more motivated to achieve better sleep or to fall asleep easier.**
+
+![](/uploads/sleep_user_2.png)
 
 ### Secondary Research
 
@@ -48,9 +57,37 @@ Integrating these features into a sleep app will help people develop better, mor
 
 ![](/uploads/sleep_1.png)
 
+A rounded sans-serif font such as Nunito is gentle to look at. The dark blue, which serves as the primary background color in the app, mimics a night sky and is easy on the eyes in the evening.
+
+### Design Decision 1
+
+**Simulated sunrise alarm and soothing music as you go to sleep**
+
+**Circadian rhythm** is a key process that determines your sleep and wakefulness. **Light** is mainly responsible for affecting the central clock in your body, so waking up to a simulated sunrise is less harsh and more natural than a sudden strong alarm.
+
+I also incorporated the option to play soothing music once the user starts the sleep tracker/alarm, as this helps people fall asleep more easily, and the user interviews revealed a desire for this feature.
+
+Furthermore, the feature to stop the alarm through methods such as shaking your phone, flipping the phone orientation, or simply tapping a button is offered. **Giving alternative and active ways to stop an alarm can encourage users to wake up more alert.**
+
 ![](/uploads/sleep_2.png)
 
+### Design Decision 2
+
+**Daily reports on sleep and trends on your sleep time, sleep quality, sleep debt, and sleep regularity**
+
+Keeping a sleep log is a good way to see where the user can make improvements in their life to improve sleep. Highlights of average sleep time, sleep quality and sleep regularity per week or month are placed at the very top of the trend report page for a quick and easy summary of this key information.
+
 ![](/uploads/sleep_3.png)
+
+### Design Decision 3
+
+**Reminder messages to wind down, reduce screen time, and prepare for sleep as well as information on your sleep progress and sleep debt**
+
+Push notifications will be offered to help users be reminded of not only their bedtime but also when they should start preparing for sleep. This will help people fall asleep easier and faster.
+
+In addition, receiving notifications on how much regular sleep or sleep debt the user has gotten over a certain period of time will help motivate people to either continue their current behavior or improve it. 
+
+Praise for consistent good sleep habits is encouraging. An example of how it is incorporated is upon opening the app, where the starting page will have a banner at the top of the screen praising the user for achieving regular sleep for however many days.
 
 ![](/uploads/sleep_4.png)
 
