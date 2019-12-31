@@ -1,5 +1,5 @@
 ---
-layout: page_widget
+layout: xing_page_widget
 title: X.ing
 permalink: "/xing"
 project: []
