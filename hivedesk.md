@@ -7,8 +7,6 @@ project: []
 ---
 # Homepage UI Redesign
 
- 
-
 **Duration**    Summer 2019
 
 **Tools**    Figma, Photoshop
@@ -40,7 +38,7 @@ I analyzed this version of the homepage and used various psychological and marke
 
 ## Features and Prototyping
 
-I implemented numerous UI/UX changes across the page. These changes intentionally appeal to the product’s target users, emphasize the CTA button, encourage users to continue scrolling down the page, and overall direct the user to the main goal.
+I implemented numerous UI changes across the page. These changes intentionally appeal to the product’s target users, emphasize the CTA button, encourage users to continue scrolling down the page, and overall direct the user to the main goal.
 
 ![](/uploads/hd_type and color.png)
 
