@@ -3,7 +3,6 @@ layout: sleep_page_widget
 title: Sleep Tight
 permalink: "/sleeptight"
 project: []
-published: false
 
 ---
 # Mobile App Prototyping
