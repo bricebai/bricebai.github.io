@@ -85,10 +85,17 @@ Beyond the visual novel itself, our team wanted to create more fan engagement as
 **Opening Title Sequence** (click image to YouTube video)
 
 [![Nova Opening Title Sequence](http://img.youtube.com/vi/Nc0oazLPn1I/0.jpg)](http://www.youtube.com/watch?v=Nc0oazLPn1I "Nova Opening Title Sequence")
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Nc0oazLPn1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 
 **Story Trailer** (click image to YouTube video)
 
 [![Nova Story Trailer](http://img.youtube.com/vi/usVQqw2zAUA/0.jpg)](http://www.youtube.com/watch?v=usVQqw2zAUA "Nova Story Trailer")
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/usVQqw2zAUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Results and Learnings
 
