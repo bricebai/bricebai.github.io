@@ -13,7 +13,9 @@ When I'm not designing, coding, or making other projects, you can find me dancin
 Let’s get in touch if you have a project or collaboration in mind.
 Currently seeking summer 2020 opportunities!
 
-<img src="uploads/NVU_0682.jpg" alt="drawing" width="700px"> 
+<p align="center">
+  <img src="http://bricebai.com/uploads/NVU_0682.jpg" alt="profilepic" width="700px"> 
+</p>
 
 ###### **Contact**
 
