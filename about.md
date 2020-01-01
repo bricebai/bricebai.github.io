@@ -19,6 +19,7 @@ Currently seeking summer 2020 opportunities!
 </p>
 &nbsp;
 &nbsp;
+&nbsp;
 
 ###### **Contact**
 
