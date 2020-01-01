@@ -27,7 +27,7 @@ Sleep is often not prioritized, especially in a college environment, but taking 
 
 ### User Interviews
 
-I interviewed 5 people–4 were my friends and classmates, and 1 was my older sister who had been facing severe sleep problems in her working life. I noticed a few common findings among them:
+I interviewed 5 people–4 were my classmates, and 1 was my older sister who had been facing severe sleep problems in her working life. I wanted to target people who were students or had issues with their sleep. I noticed a few common findings among them:
 
 **All were somewhat unsatisfied with their sleep.**
 
@@ -37,7 +37,7 @@ I interviewed 5 people–4 were my friends and classmates, and 1 was my older si
 
 All users had knowledge of good sleep habits as well as the detriments of sleep deprivation, yet they did not always actualize them and were still unsatisfied with their current sleep. This begs the question of how to create a product that can push people to actually put these habits into practice.
 
-Their thoughts on their ideal sleep app revealed **the need for a simple, unobtrusive way to be more motivated to achieve better sleep or to fall asleep easier.**
+Their thoughts on their ideal sleep app revealed **the need for a simple, unobtrusive way to be more motivated to achieve better sleep as well as the need for tools to help people fall asleep more easily.**
 
 ![](/uploads/sleep_user_2.png)
 
@@ -64,7 +64,7 @@ A rounded sans-serif font such as Nunito is gentle to look at. The dark blue, wh
 
 **Circadian rhythm** is a key process that determines your sleep and wakefulness. **Light** is mainly responsible for affecting the central clock in your body, so waking up to a simulated sunrise is less harsh and more natural than a sudden strong alarm.
 
-I also incorporated the option to play soothing music once the user starts the sleep tracker/alarm, as this helps people fall asleep more easily, and the user interviews revealed a desire for this feature.
+I also incorporated the option to play soothing music once the user starts the sleep tracker/alarm, as this helps people fall asleep more easily, and the user interviews expressed a desire for this feature.
 
 Furthermore, the feature to stop the alarm through methods such as shaking your phone, flipping the phone orientation, or simply tapping a button is offered. **Giving alternative and active ways to stop an alarm can encourage users to wake up more alert.**
 
@@ -94,7 +94,7 @@ Praise for consistent good sleep habits is encouraging. An instance of the incor
 
 **Provide information about the benefits of sleep, the risks of sleep deprivation, and how to achieve better sleep**
 
-From my personal experience of taking my course on sleep as well as feedback from user interviews, more awareness of the benefits of sleep and the consequences of no sleep helps users create better sleep habits and sleep hygiene for themselves. Having this information available and sprinkled throughout the app will serve as a constant reminder of why users need high-quality sleep.
+From my personal experience of taking my course on sleep as well as feedback from user interviews, more awareness of the benefits of sleep and the consequences of no sleep encourages users to create better sleep habits and sleep hygiene for themselves. Having this information available and sprinkled throughout the app will serve as a constant reminder of why users need high-quality sleep.
 
 ![](/uploads/sleep_5.png)
 
