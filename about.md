@@ -13,9 +13,10 @@ When I'm not designing, coding, or making other projects, you can find me dancin
 Let’s get in touch if you have a project or collaboration in mind.
 Currently seeking summer 2020 opportunities!
 
-&nbsp;
+&nsbp;
 
-&nbsp;  
+ ![](/uploads/NVU_0682.jpg)
+
  
 
 ###### **Contact**
