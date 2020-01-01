@@ -7,21 +7,19 @@ project: []
 ---
 # Skincare Product Development and Mobile App Prototyping
 
-&nbsp;
+**Duration**    December 2018 – May 2019
 
-**Duration** &nbsp;&nbsp;&nbsp;December 2018 – May 2019
+**Team**    Gauri Jaswal, Xiaoke Luo
 
-**Team** &nbsp;&nbsp;&nbsp;Gauri Jaswal, Xiaoke Luo
+**My Role**    Team Leader, Project Manager, UI/UX Designer
 
-**My Role** &nbsp;&nbsp;&nbsp;Team Leader, Project Manager, UI/UX Designer
-
-**Key Skills** &nbsp;&nbsp;&nbsp;Project Management, Skincare Product Development, UI/UX, Mobile App Prototyping, User Research
+**Key Skills**    Project Management, Skincare Product Development, UI/UX, Mobile App Prototyping, User Research
 
 ![](/uploads/xing thumbnail.png)
 
 ## Challenge
 
-**Background** &nbsp;&nbsp;&nbsp;Skin. It’s the largest organ of the human body, and can be the biggest source of frustration for anyone who has been a teenager and even beyond. From walking into the confusing skincare aisles of a CVS to seeing endless online advice for using over 10+ products at once, my entire team has experienced the same frustrations over finding what works best for us.
+**Background**    Skin. It’s the largest organ of the human body, and can be the biggest source of frustration for anyone who has been a teenager and even beyond. From walking into the confusing skincare aisles of a CVS to seeing endless online advice for using over 10+ products at once, my entire team has experienced the same frustrations over finding what works best for us.
 
 We wanted to create a solution that makes skincare more accessible, affordable, and attainable for people frustrated with the current overcomplicated skincare landscape.
 
@@ -53,7 +51,7 @@ The top reasons respondents lacked a routine were that it was too time consuming
 
 ![](/uploads/why do you not have a routine.png)
 
-For our first prototype idea, we were also interested in researching what product features users were most interested in. Separate data from users with skincare routines and users without skincare routines were collected.
+For our first prototype, we wanted to create a skincare product, so we were interested in researching what product features users were most interested in. Separate data from users with skincare routines and users without skincare routines were collected.
 
 Users with skincare routines were least satisfied with cleanser(s), moisturizers, and chemical exfoliants. They were also most interested in changing or adding cleansers, masks, and serum to their routine.
 
@@ -81,7 +79,7 @@ We also decided to do more market research with Mintel insight reports on what t
 
 #### Product 1.0 Prototyping
 
-Using a series of four online recipes ([1](https://www.humblebeeandme.com/lavender-cleansing-milk/), [2](https://www.humblebeeandme.com/gentle-chamomile-facial-cleanser/), [3](https://www.humblebeeandme.com/houdini-anti-acne-creme/), [4)]() from blogger [Humblebee & Me](https://www.humblebeeandme.com/), our team prototyped a batch of cleansers, toners, and moisturizers. We chose this blogger for her beginner-friendly and ingredients-focused recipes. Her website had extensive information on proper ingredient sourcing, preservation of products, recipe troubleshooting, and safety precautions, so we felt that she was a trusted source.
+Using a series of four online recipes ([1](https://www.humblebeeandme.com/lavender-cleansing-milk/), [2](https://www.humblebeeandme.com/gentle-chamomile-facial-cleanser/), [3](https://www.humblebeeandme.com/houdini-anti-acne-creme/), [4)]() from blogger [Humblebee & Me](https://www.humblebeeandme.com/), our team prototyped a batch of cleansers, toners, and moisturizers. We chose this blogger for her beginner-friendly and ingredients-focused recipes. Her website had extensive information on proper ingredient sourcing, preservation of products, recipe troubleshooting, and safety precautions, so we felt that she was a trusted source. We chose a cleanser, toner, and moisturizer as our set routine, as these are the most common basic components of a skincare routine, and our user research revealed more dissatisfaction and interest in trying out these types of products.
 
 We formed a beta testing group of 12 from our original survey respondents. Half of the testers used our “normal” skin type set, while the other half used our “acne” skin type set. Within each group, half of the normal set used X.ing products alone while the other other incorporated X.ing products into their currently existing routine. The half that used the products alone either did not originally have a routine at all or were skincare beginners willing to try a complete new routine.
 
@@ -93,9 +91,9 @@ Overall positive feedback on our prototype was expressed.
 
 ![](/uploads/beta test_2.png)
 
-However, our team faced difficulty in further product development due to lack of mentorship and experience in cosmetic formulations.
+**However, our team faced difficulty in further product development due to lack of mentorship and experience in cosmetic formulations.**
 
-These limitations and further discussion with the beta testing group users led us to discover **another pain point** that users had—the frustrations from not having convenient, reliable sources of help in discovering products or improving their routines. Although the internet contains a plethora of reviews, advice, and suggestions for different products, our users expressed more trust and a preference for help from friends or family—ultimately, people with whom they had a personal connection with and could actually look at their skin and assist them. They wanted better access to specialized, personal attention on their skin.
+**These limitations and further discussion with the beta testing group users led us to discover another pain point that users had**—the frustrations from not having convenient, reliable sources of help in discovering products or improving their routines. Although the internet contains a plethora of reviews, advice, and suggestions for different products, our users expressed more trust and a preference for help from friends or family—ultimately, people with whom they had a personal connection with and could actually look at their skin and assist them. They wanted better access to specialized, personal attention on their skin.
 
 Further research from Mintel's February 2018 insight report on The US Beauty Consumer affirmed our finding.
 
@@ -130,27 +128,37 @@ Montserrat was chosen as a clean sans-serif font that conveys simplicity and str
 
 #### The Experience
 
+##### Design Decision 1
+
 **A mobile app was chosen for its ease of direct messaging users and sending images**. Providing images of your own skin or products is a specific and significant supplement beyond pure description to diagnosing and treating skin issues. A mobile app platform makes this experience easier than a website.
 
-![](/uploads/2.png)
+##### Design Decision 2
 
 Users can toggle between friends and skincare professionals to message. **One-on-one messaging is the main method of communication in order to encourage more personal relationships between users**--this is the main reason why a forum or public question submission feature is not included.
 
-![](/uploads/3.png)
+![](/uploads/2.png)
+
+##### Design Decision 3
 
 **When finding users, you automatically are shown people who will give you what you seek**, whether it be advice or someone to advise. **The option to filter by age, location, skin type, or knowledge level is available**, as these are important factors to treating different skin conditions at certain ages or in certain climates.
 
+![](/uploads/3.png)
+
+##### Design Decision 4
+
+**Your profile will contain the key information for others to learn about your skin and assist you.** A biography gives users the opportunity to showcase their personality and pique the interest of other users. Having the user's skincare knowledge level also gives others an extra parameter in determining how much to trust the user's opinion.
+
+The other key feature here is **having succinct FAQs and introductory guides** to skin type, skin concerns, and routine formulation available as cards that overlay the screen. I**t creates a better learning experience, especially targeting beginner skincare users.**
+
 ![](/uploads/4.png)
 
-Your profile will contain the key information for others to learn about your skin and assist you. A biography gives users the opportunity to showcase their personality and pique the interest of other users. Having the user's skincare knowledge level also gives others an extra parameter in determining how much to trust the user's opinion.
+##### Design Decision 5
 
-The other key feature here is **having succinct FAQs and introductory guides** to skin type, skin concerns, and routine formulation available as cards that overlay the screen. I**t creates a better experience, especially for beginner skincare users.**
-
-![](/uploads/5-1.png)
-
-Inspired by the MyFitnessPal user-generated food library, X.ing implements a user-generated skincare product library instead. This allows for easy adding of your own products and the ability to discover new products with real feedback.
+Inspired by the MyFitnessPal user-generated food library, **X.ing implements a user-generated skincare product library** instead. This allows for easy adding of your own products and the ability to discover new products with real feedback.
 
 Another key chat feature is the ability to send product cards from your routine or the product library in direct messages. **This eliminates the extra time and effort spent in looking up products online, allowing users to easily view product information without leaving the platform.**
+
+![](/uploads/5-1.png)
 
 #### Main User Flow
 
