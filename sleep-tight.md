@@ -27,7 +27,7 @@ Sleep is often not prioritized, especially in a college environment, but taking 
 
 ### User Interviews
 
-I interviewed 5 people–4 were my classmates, and 1 was my older sister who had been facing severe sleep problems in her working life. I wanted to target people who were students or had issues with their sleep. I noticed a few common findings among them:
+I interviewed 5 people–4 were my classmates, and 1 was my older sister who had been facing severe sleep problems in her working life. I wanted to target people who were students, as this group tends to have busy schedules and poorer sleeping habits, or people who generally had issues with their sleep. I noticed a few common findings among them:
 
 **All were somewhat unsatisfied with their sleep.**
 
