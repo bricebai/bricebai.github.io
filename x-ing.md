@@ -126,6 +126,8 @@ The value we deliver:
 
 Montserrat was chosen as a clean sans-serif font that conveys simplicity and straightforwardness.
 
+&nbsp;
+
 ### The Experience
 
 &nbsp;
