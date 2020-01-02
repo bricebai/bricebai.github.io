@@ -128,6 +128,8 @@ Montserrat was chosen as a clean sans-serif font that conveys simplicity and str
 
 ### The Experience
 
+&nbsp;
+
 #### Design Decision 1
 
 **A mobile app was chosen for its ease of direct messaging users and sending images**. Providing images of your own skin or products is a specific and significant supplement beyond pure description to diagnosing and treating skin issues. A mobile app platform makes this experience easier than a website.
