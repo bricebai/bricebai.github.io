@@ -126,25 +126,25 @@ The value we deliver:
 
 Montserrat was chosen as a clean sans-serif font that conveys simplicity and straightforwardness.
 
-#### The Experience
+### The Experience
 
-##### Design Decision 1
+#### Design Decision 1
 
 **A mobile app was chosen for its ease of direct messaging users and sending images**. Providing images of your own skin or products is a specific and significant supplement beyond pure description to diagnosing and treating skin issues. A mobile app platform makes this experience easier than a website.
 
-##### Design Decision 2
+#### Design Decision 2
 
 Users can toggle between friends and skincare professionals to message. **One-on-one messaging is the main method of communication in order to encourage more personal relationships between users**--this is the main reason why a forum or public question submission feature is not included.
 
 ![](/uploads/2.png)
 
-##### Design Decision 3
+#### Design Decision 3
 
 **When finding users, you automatically are shown people who will give you what you seek**, whether it be advice or someone to advise. **The option to filter by age, location, skin type, or knowledge level is available**, as these are important factors to treating different skin conditions at certain ages or in certain climates.
 
 ![](/uploads/3.png)
 
-##### Design Decision 4
+#### Design Decision 4
 
 **Your profile will contain the key information for others to learn about your skin and assist you.** A biography gives users the opportunity to showcase their personality and pique the interest of other users. Having the user's skincare knowledge level also gives others an extra parameter in determining how much to trust the user's opinion.
 
@@ -152,7 +152,7 @@ The other key feature here is **having succinct FAQs and introductory guides** t
 
 ![](/uploads/4.png)
 
-##### Design Decision 5
+#### Design Decision 5
 
 Inspired by the MyFitnessPal user-generated food library, **X.ing implements a user-generated skincare product library** instead. This allows for easy adding of your own products and the ability to discover new products with real feedback.
 
