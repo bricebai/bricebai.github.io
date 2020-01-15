@@ -126,11 +126,11 @@ The value we deliver:
 
 Montserrat was chosen as a clean sans-serif font that conveys simplicity and straightforwardness.
 
-&nbsp;
+ 
 
 ### The Experience
 
-&nbsp;
+ 
 
 #### Design Decision 1
 
@@ -165,6 +165,8 @@ Another key chat feature is the ability to send product cards from your routine 
 ![](/uploads/5-1.png)
 
 #### Main User Flow
+
+This is the main flow for a non-professional user. For a professional user, instead of viewing friends and professionals in their network, they would be viewing friends and patients.
 
 ![](/uploads/6.png)
 
