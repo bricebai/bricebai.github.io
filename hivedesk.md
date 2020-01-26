@@ -42,6 +42,8 @@ I implemented numerous UI changes across the page. These changes intentionally a
 
 ![](/uploads/hd_type and color.png)
 
+![](/uploads/hd_lofi_wireframe.png)
+
 ![](/uploads/hd_redesign w comments 1.png)
 
 ## Final Design
