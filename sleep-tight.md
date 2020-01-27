@@ -54,6 +54,10 @@ Integrating these features into a sleep app will help people develop better, mor
 
 ## Features and Prototyping
 
+### Low Fidelity Wireframes
+
+![](/uploads/sleep tight lofi wireframes.jpg)
+
 ![](/uploads/sleep_1.png)
 
 A rounded sans-serif font such as Nunito is gentle to look at. The dark blue, which serves as the primary background color in the app, mimics a night sky and is easy on the eyes in the evening.
@@ -99,6 +103,8 @@ From my personal experience of taking my course on sleep as well as feedback fro
 ![](/uploads/sleep_5.png)
 
 ### User Flow
+
+![](/uploads/sleep tight_main flow diagram.png)
 
 ![](/uploads/sleep_6.png)
 
