@@ -120,17 +120,17 @@ The value we deliver:
 
 **Tools:** Figma
 
+#### Low Fidelity Wireframes
+
+![](/uploads/xing lofi wireframes.jpg)
+
 ![](/uploads/xing 1.png)
 
 **Purple** was chosen for "Friends" on the X.ing platform as it is both a social-sensory and gender-neutral color. **Blue** was chosen for "Professionals" in order to convey a sense of trust and capability.
 
 Montserrat was chosen as a clean sans-serif font that conveys simplicity and straightforwardness.
 
- 
-
 ### The Experience
-
- 
 
 #### Design Decision 1
 
@@ -168,9 +168,13 @@ Another key chat feature is the ability to send product cards from your routine 
 
 This is the main flow for a non-professional user. For a professional user, instead of viewing friends and professionals in their network, they would be viewing friends and patients.
 
+![](/uploads/xing_main flow diagram.png)
+
 ![](/uploads/6.png)
 
 #### Onboarding Flow
+
+![](/uploads/xing_onboarding flow diagram.png)
 
 ![](/uploads/7.png)
 
