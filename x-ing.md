@@ -170,7 +170,7 @@ This is the main flow for a non-professional user. For a professional user, inst
 
 ![](/uploads/xing_main flow diagram.png)
 
-![](/uploads/6.png)
+![](/uploads/xing 6.png)
 
 #### Onboarding Flow
 
