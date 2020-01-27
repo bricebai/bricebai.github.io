@@ -42,7 +42,8 @@ I implemented numerous UI changes across the page. These changes intentionally a
 
 ![](/uploads/hd_type and color.png)
 
-### Low-Fidelity Wireframe  
+### Low Fidelity Wireframe
+
 ![](/uploads/hd_lofi_wireframe.png)
 
 ![](/uploads/hd_redesign w comments 1.png)
