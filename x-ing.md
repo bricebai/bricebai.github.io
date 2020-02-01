@@ -39,7 +39,7 @@ We released a user survey (n = 30) to gather data on respondents' current skinca
 
 ### Survey Demographics
 
-![](/uploads/age-1.png)![](/uploads/gender.png)
+![](/uploads/age and gender.png)
 
 ![](/uploads/skin type.png)
 
@@ -51,17 +51,7 @@ The top reasons respondents lacked a routine were that it was too time consuming
 
 ![](/uploads/why do you not have a routine.png)
 
-For our first prototype, we wanted to create a skincare product, so we were interested in researching what product features users were most interested in. Separate data from users with skincare routines and users without skincare routines were collected.
-
-Users with skincare routines were least satisfied with cleanser(s), moisturizers, and chemical exfoliants. They were also most interested in changing or adding cleansers, masks, and serum to their routine.
-
-![](/uploads/routine_least satisfied.png)
-
-![](/uploads/routine_changing.png)
-
-Users without a skincare were most interested in trying cleansers or masks.
-
-![](/uploads/no routine_interested in.png)
+For our first prototype, we wanted to create a skincare product, so we were interested in researching what product features users were most interested in. Separate data from users with skincare routines and users without skincare routines were collected. Users with skincare routines were least satisfied with cleanser(s), moisturizers, and chemical exfoliants. They were also most interested in changing or adding cleansers, masks, and serum to their routine.
 
 Both types of users expressed the top three factors that attracted them to a skincare product were the price point, brand reputation, and ease of use.
 
@@ -94,6 +84,8 @@ Overall positive feedback on our prototype was expressed.
 **However, our team faced difficulty in further product development due to lack of mentorship and experience in cosmetic formulations.**
 
 **These limitations and further discussion with the beta testing group users led us to discover another pain point that users had**—the frustrations from not having convenient, reliable sources of help in discovering products or improving their routines. Although the internet contains a plethora of reviews, advice, and suggestions for different products, our users expressed more trust and a preference for help from friends or family—ultimately, people with whom they had a personal connection with and could actually look at their skin and assist them. They wanted better access to specialized, personal attention on their skin.
+
+![](/uploads/user feedback.png)
 
 Further research from Mintel's February 2018 insight report on The US Beauty Consumer affirmed our finding.
 
