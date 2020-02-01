@@ -56,7 +56,7 @@ Integrating these features into a sleep app will help people develop better, mor
 
 ### Low Fidelity Wireframes
 
-![](/uploads/sleep tight lofi wireframes.jpg)
+![](/uploads/sleep tight low fidelity wireframes.png)
 
 ![](/uploads/sleep_1.png)
 
