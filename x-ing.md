@@ -122,7 +122,7 @@ The value we deliver:
 
 #### Low Fidelity Wireframes
 
-![](/uploads/xing lofi wireframes.jpg)
+![](/uploads/xing low fidelity wireframes.png)
 
 ![](/uploads/xing 1.png)
 
