@@ -9,8 +9,6 @@ project: []
 
 Download here: [https://nova-sc.itch.io/novascofficial](https://nova-sc.itch.io/novascofficial "https://nova-sc.itch.io/novascofficial")
 
- 
-
 **Duration**    January 2014 - June 2018
 
 **Team**  
@@ -64,7 +62,11 @@ I wanted to create a visual novel that was free, easily accessible across differ
 Some features of our visual novel were designed especially to create better experiences for players:
 
 * **Fan Art Gallery** - a page to recognize the art of the characters made by our fans
+
+  ![](/uploads/nova_fanart gallery.png)
 * **Music Box** - a page where players can unlock soundtracks as they play and listen to them on their own
+
+  ![](/uploads/nova_music box.png)
 * **Partially-Voiced Character Voiceovers** - professional and amateur voice actors who were willing to provide voiceovers for some characters are included
 * **Original Music Soundtracks** - original music just for Nova made by composers Dorrell Ettienne and Allan Newman
 * **Animated Opening Title Sequence** - a semi-animated opening to the game, using an original soundtrack as its theme
