@@ -54,7 +54,7 @@ Integrating these features into a sleep app will help people develop better, mor
 
 ## Features and Prototyping
 
-### ![](/uploads/sleep_sketches.png)
+![](/uploads/sleep_sketches.png)
 
 ![](/uploads/sleep_lofi.png)
 
