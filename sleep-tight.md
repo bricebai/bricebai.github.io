@@ -54,9 +54,9 @@ Integrating these features into a sleep app will help people develop better, mor
 
 ## Features and Prototyping
 
-### Low Fidelity Wireframes
+### ![](/uploads/sleep_sketches.png)
 
-![](/uploads/sleep tight low fidelity wireframes.png)
+![](/uploads/sleep_lofi.png)
 
 ![](/uploads/sleep_1.png)
 
