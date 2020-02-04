@@ -112,9 +112,9 @@ The value we deliver:
 
 **Tools:** Figma
 
-#### Low Fidelity Wireframes
+#### ![](/uploads/xing_sketches.png)
 
-![](/uploads/xing low fidelity wireframes.png)
+![](/uploads/xing_lofi.png)
 
 ![](/uploads/xing 1.png)
 
