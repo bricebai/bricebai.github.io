@@ -112,7 +112,7 @@ The value we deliver:
 
 **Tools:** Figma
 
-#### ![](/uploads/xing_sketches.png)
+![](/uploads/xing_sketches.png)
 
 ![](/uploads/xing_lofi.png)
 
