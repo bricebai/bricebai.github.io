@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: hivedesk_layout
 title: HiveDesk
 permalink: "/hivedesk"
 project: []
