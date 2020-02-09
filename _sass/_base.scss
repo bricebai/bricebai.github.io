@@ -78,18 +78,8 @@ button {
  border-color: inherit;
 }
 
-.blackbutton {
-  &:hover {
-   background-color: black;
-   border-color: black;
-   color: white;
-  }
-}
-
-.whitebutton {
-  &:hover {
-   background-color: white;
-   border-color: white;
-   color: black;
-  }
+button:hover {
+ background-color: white;
+ border-color: white;
+ color: black;
 }
