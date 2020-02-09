@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: d4g_layout
 title: Doodle 4 Google Logo
 permalink: "/d4g"
 project: []
