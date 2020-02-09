@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nova_layout
 title: 'Nova: Synthesis Creaturum'
 permalink: "/nova"
 project: []

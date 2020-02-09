@@ -1,5 +1,5 @@
 ---
-layout: sleep_page_widget
+layout: sleep_layout
 title: Sleep Tight
 permalink: "/sleeptight"
 project: []
