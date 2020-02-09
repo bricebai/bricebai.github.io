@@ -13,13 +13,18 @@ project: []
 
 **Key Skills**    UI/UX, Mobile App Prototyping, User Research
 
+**Background**      
+In the fall semester of my sophomore year at Yale, I had the pleasure of taking “The Mystery of Sleep”, a cognitive science course that covered the science behind sleep. The knowledge I gained about the importance of sleep made a huge impact on me—studying the research on the detrimental effects of sleep deprivation as well as the benefits of a consistent sleep pattern helped push me to seek ways to improve my own sleep.
+
 ![](/uploads/sleep_cover.png)
 
-## Challenge
+## Problem
 
-**Background**    In the fall semester of my sophomore year at Yale, I had the pleasure of taking “The Mystery of Sleep”, a cognitive science course that covered the science behind sleep. The knowledge I gained about the importance of sleep made a huge impact on me—studying the research on the detrimental effects of sleep deprivation as well as the benefits of a consistent sleep pattern helped push me to seek ways to improve my own sleep.
+Many products exist to improve sleep quality, but not many are designed with the intent of improving chronic sleep deprivation or creating real behavioral change. 
 
-Many products exist to improve sleep quality, but not many are designed with the intent of improving chronic sleep deprivation or creating real behavioral change. **I want to design an easy way for people to not only achieve better sleep but to also develop better sleep habits that will improve their overall sleep quality in the long run.**
+## Solution
+
+**I want to design an easy way for people to not only achieve better sleep but to also develop better sleep habits that will improve their overall sleep quality in the long run.**
 
 ## Observations and Research
 
