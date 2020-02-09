@@ -1,5 +1,5 @@
 ---
-layout: hivedesk_layout.html
+layout: hivedesk_layout
 title: HiveDesk Draft
 permalink: "/hddraft"
 project: []
