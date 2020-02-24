@@ -12,7 +12,7 @@ When I'm not designing, coding, or making other projects, you can find me dancin
 
 Let’s get in touch if you have a project or collaboration in mind. :)
 
-Current status: Incoming summer 2020 UX/UI Design Intern at Amazon.
+*Current status*: Incoming summer 2020 UX/UI Design Intern at Amazon.
 
 &nbsp;
 <p align="center">
