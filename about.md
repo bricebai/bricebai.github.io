@@ -10,7 +10,8 @@ I’ve always loved exploring how to create meaningful experiences, whether it b
 
 When I'm not designing, coding, or making other projects, you can find me dancing to kpop, reading webcomics, and penny boarding down the street.
 
-Let’s get in touch if you have a project or collaboration in mind.
+Let’s get in touch if you have a project or collaboration in mind. :)
+Incoming summer 2020 UX/UI Design Intern at Amazon.
 
 &nbsp;
 <p align="center">
