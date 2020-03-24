@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'univers_55roman';
-    src: url('/uploads/univers-webfont.woff2') format('woff2'),
-         url('/uploads/univers-webfont.woff') format('woff');
+    src: url('univers-webfont.woff2') format('woff2'),
+         url('univers-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
