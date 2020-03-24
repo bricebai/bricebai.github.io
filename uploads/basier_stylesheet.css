@@ -64,8 +64,8 @@
 
 @font-face {
     font-family: 'basier_circle_monoregular';
-    src: url('/uploads/basier_circle_mono_regular-webfont.woff2') format('woff2'),
-         url('/uploads/basier_circle_mono_regular-webfont.woff') format('woff');
+    src: url('basier_circle_mono_regular-webfont.woff2') format('woff2'),
+         url('basier_circle_mono_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
