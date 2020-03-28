@@ -23,6 +23,7 @@
 
 .bold { font-weight: bold; }
 .uppercase { text-transform: uppercase; }
+.boldbasier {font-family: 'basier_circle_monosemibold'; }
 
 .lh-condensed { line-height: 1.25; }
 
@@ -234,4 +235,5 @@
 .link-main-page {
   font-family: $header-font-family;
   font-size: xx-large;
+  text-transform: none;
 }
