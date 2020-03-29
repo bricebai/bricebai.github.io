@@ -14,7 +14,7 @@ Let’s get in touch if you have a project or collaboration in mind. :)
 
  
 <p align="center">
-<img src="http://bricebai.com/uploads/BRICE.jpg" alt="profilepic" width="500px"> 
+<img src="http://bricebai.com/uploads/BRICE.JPG" alt="profilepic" width="500px"> 
 </p>
  
  
