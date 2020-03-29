@@ -5,62 +5,29 @@
 
   <body>
     <a name="top"></a>
-<div>
-
-      <header class="header-background mb-0">
-        <a href="#" id="scroll" style="display: none;"><span></span></a>
-     <div class="clearfix header-border">
-          <div class="left sm-width-full py-1 mt-1 mt-lg-0" style="font-size: xx-large;">
-            <a class="ml-3 align-middle link-primary link-main-page" href="/">
-              Brice Bai
-            </a>
-          </div>
-
-        <div class="clearfix header-border">
-          <ul class="list-reset right py-1 header-text font-smoothing">
-            
-            
-           <li class="inline-block">
-              <a class="align-middle link-primary header-link mr-2" href="/about">About</a>
-            </li>
-            <li class="inline-block">
-              <a class="align-middle link-primary header-link mr-2" href="/uploads/Brice Bai_Resume.pdf">Resume</a>
-            </li>
-            <li class="inline-block">
-              <a class="align-middle link-primary header-link mr-2" href="#portfolio">Portfolio</a>
-            </li>
-            
-            
-          </ul>
-        </div>
-
-        <div class="container mx-auto px-2 mb-4 clearfix header-text">
-          
-
-          <div class="subheader mt-1 mb-2 py-2" style="font-weight:300;">
-            <h3 class="mt-4" style="font-family: 'univers_45_lightregular';">Hi! I’m Brice, a Computing and the Arts student at Yale.
-              <br>I aspire to create impactful experiences and designs for digital products. 
-              <br>Learn more <a href="/about">about me</a> or scroll down to see my work. :)
-            </h3>
-          </div>
-        
-          
-          <div class="clearfix mb-2 py-2">
-            <div class="col-6 sm-width-full left">
-            
-              <!-- Set site description in config.yml -->
-              <p class="h6 lh-condensed font-smoothing mt-2 py-2"">
-                <a href="https://www.linkedin.com/in/bricebai/">LinkedIn</a>  /  brice.bai@yale.edu
-              </p>
-            </div>
-                        
-          </div>
-
-        </div>
-      </div></header>
-
+    <div>
+      {% include header.html %}
     </div>
     
+    <div class="container mx-auto px-2 mb-4 clearfix header-text">
+          
+      <div class="subheader mt-1 mb-2 py-2" style="font-weight:300;">
+        <h3 class="mt-4" style="font-family: 'univers_45_lightregular';">Hi! I’m Brice, a Computing and the Arts student at Yale.
+          <br>I aspire to create impactful experiences and designs for digital products. 
+          <br>Learn more <a href="/about">about me</a> or scroll down to see my work. :)
+        </h3>
+      </div>
+
+      <div class="clearfix mb-2 py-2">
+        <div class="col-6 sm-width-full left">
+          <!-- Set site description in config.yml -->
+          <p class="h6 lh-condensed font-smoothing mt-2 py-2"">
+            <a href="https://www.linkedin.com/in/bricebai/">LinkedIn</a>  /  brice.bai@yale.edu
+          </p>
+        </div>         
+      </div>
+
+    </div>
     <div id = "portfolio" class="mx-auto mb-0 clearfix header-text">
       
       <!--HiveDesk -->
