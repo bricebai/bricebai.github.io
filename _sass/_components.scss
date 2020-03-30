@@ -85,11 +85,11 @@ code {
 
     @media (min-width: $breakpoint-lg) {
       padding-left: $spacer-3;
-      margin: $spacer-4 0 $spacer-4 -40px;
+      //margin: $spacer-4 0 $spacer-4 -40px;
       max-width: (11 / 10 * 100%);
 
       p {
-        font-size: 32px;
+        //font-size: 32px;
       }
 
     }
