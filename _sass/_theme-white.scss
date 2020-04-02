@@ -9,14 +9,14 @@ $white: #fff;
 
 // Config
 $color-background: $white !default;
-$color-dot-accent: $red !default;
+$color-dot-accent: #999999 !default;
 $color-foreground: $black !default;
 $color-title: $black !default;
 $color-body-text: $black !default;
-$color-text-accent: $red-dark !default;
-$color-code: $red-dark !default;
-$color-nav-link: $red-dark !default;
-$color-primary-link: $red-dark !default;
+$color-text-accent: #999999 !default;
+$color-code: #999999 !default;
+$color-nav-link: #999999 !default;
+$color-primary-link: #999999 !default;
 
 
 // Import sass partials (used in all themes)
