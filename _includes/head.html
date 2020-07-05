@@ -64,8 +64,10 @@
         $(window).scroll(function(){ 
             if ($(this).scrollTop() > 200) { 
                 $('#scroll').fadeIn(); 
+                $('.section-nav').fadeIn();
             } else { 
                 $('#scroll').fadeOut(); 
+                $('.section-nav').fadeOut();
             } 
         }); 
         $('#scroll').click(function(){ 
