@@ -305,7 +305,8 @@
     -webkit-text-fill-color: transparent;
     text-decoration: none !important;
     font-size: large;
-    transition: font-size 300ms;
+    transition: transform 300ms ease-in-out;
+    transform: translateX(20px);
   }
 }
 
@@ -313,7 +314,4 @@
   font-family: $header-font-family;
   font-size: xx-large;
   text-transform: none;
-  &:hover {
-    font-size: 35px;
-  }
 }
