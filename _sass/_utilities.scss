@@ -81,6 +81,11 @@
   grid-template-columns: auto auto;
 }
 
+.trigrid {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
 .quadgrid {
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
