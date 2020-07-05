@@ -300,8 +300,12 @@
   text-decoration: none !important;
 
   &:hover {
-    color: $color-primary-link;
+    background: -webkit-linear-gradient(45deg, red, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     text-decoration: none !important;
+    transform: scaleX(1.05) scaleY(1.05); 
+    transition: transform 300ms ease 0s;
   }
 }
 
