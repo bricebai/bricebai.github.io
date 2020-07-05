@@ -304,9 +304,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: none !important;
-    font-size: large;
     transition: transform 300ms ease-in-out;
-    transform: translateX(20px);
+    transform: translate(20px,0);
   }
 }
 
