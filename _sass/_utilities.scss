@@ -141,6 +141,10 @@
   text-align: left;
   letter-spacing: 0.2px;
   text-transform: none;
+  &:hover {
+    color: black !important;
+    text-decoration: none !important;
+  }
 }
 
 .w-button{
