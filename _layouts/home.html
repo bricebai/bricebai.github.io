@@ -9,7 +9,7 @@
       {% include header.html %}
     </div>
     
-    <div class="card container mx-auto px-2 mb-4 clearfix header-text">
+    <div id="card" class="container mx-auto px-2 mb-4 clearfix header-text">
           
       <div class="subheader mt-1 py-2" style="display: grid;grid-template-columns: 70% 30%;">
         <div>
@@ -29,7 +29,7 @@
     <div id = "portfolio" class="mx-auto mb-0 clearfix header-text">
       
       <!--HiveDesk -->
-      <div class="card grid" style="margin-bottom: -24px; background-color: #f05a1a;">
+      <div id="card" class="grid" style="margin-bottom: -24px; background-color: #f05a1a;">
         <div class="one mt-3 mb-3" style="padding: 60px 0px; margin: auto auto auto 128px; width: 50%; color: white;">
           <p style="margin-top: 0">
             <a href="/hivedesk"><img src="/uploads/hd_logo.png" alt="hivedesk" style="max-width:300px;"></a>
@@ -51,7 +51,7 @@
       
       
       <!--X.ing -->
-      <div class="card grid" style="margin-bottom: -37px; background-color: #B5ABF4;">
+      <div id="card" class="grid" style="margin-bottom: -37px; background-color: #B5ABF4;">
          <div class="one mt-3 mb-3" style="padding: 60px 0px; margin: auto auto auto 128px; width: 50%;">
           <p style="margin-top: 0">
             <a href="/xing"><img src="/uploads/xing_logo.png" alt="xing" style="max-width:300px;"></a>
@@ -73,7 +73,7 @@
       
       
       <!--sleep tight -->
-      <div class="card grid" style="background-color: #001253; margin-bottom: -24px;">
+      <div id="card" class="grid" style="background-color: #001253; margin-bottom: -24px;">
          <div class="one mt-4 mb-3" style="padding: 60px 0px; margin: auto auto auto 128px; width: 50%;">
           <p style="margin-top: 0">
             <a href="/sleeptight"><img src="/uploads/sleep_logo.png" alt="sleeptight_logo" style="max-width:300px;"></a>
@@ -98,7 +98,7 @@
       
       
       <!--Nova -->
-      <div class="card grid" style="background-color: #B3C890; margin-bottom: -42px;">
+      <div id="card" class="grid" style="background-color: #B3C890; margin-bottom: -42px;">
          <div class="one ml-4 mt-3 mb-3" style="padding: 60px 0px; margin: auto auto auto 128px; width: 50%;">
           <p style="margin-top: 0">
             <a href="/nova"><img src="/uploads/nova_logo.png" alt="nova" style="max-width:300px;"></a>
@@ -125,7 +125,7 @@
       </div>
       
 <!--      Doodle4Google
-      <div class="card grid" style="background-color: #0025AA; margin-bottom: -24px;">
+      <div id="card" class="grid" style="background-color: #0025AA; margin-bottom: -24px;">
          <div class="one ml-4 mt-3 mb-3" style="padding: 60px 0px; margin: auto auto auto 128px; width: 50%;">
           <p style="margin-top: 0;">
             <a href="/d4g"><img src="/uploads/d4g_logo_stroke.png" alt="d4g" style="max-width:300px;"></a>
@@ -160,7 +160,7 @@
                                                                                                         
 <script type="text/javascript">
     $(document).ready(function() {
-    $(".card").addClass("animate"); 
+    $("#card").addClass("animate"); 
     });</script>
                                                  
 <style>
