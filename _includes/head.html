@@ -64,9 +64,12 @@
         $(window).scroll(function(){ 
             if ($(this).scrollTop() > 200) { 
                 $('#scroll').fadeIn(); 
+            } else { 
+                $('#scroll').fadeOut();
+            } 
+            if ($(this).scrollTop() > 500) { 
                 $('#menu').fadeIn();
             } else { 
-                $('#scroll').fadeOut(); 
                 $('#menu').fadeOut();
             } 
         }); 
