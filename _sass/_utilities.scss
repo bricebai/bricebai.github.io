@@ -305,7 +305,8 @@
     -webkit-text-fill-color: transparent;
     text-decoration: none !important;
     margin-left: 10px;
-    transition: color 300ms ease-in-out;
+    transition: background 1s;
+    transition-timing-function: ease-in-out;
   }
 }
 
