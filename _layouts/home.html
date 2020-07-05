@@ -157,7 +157,12 @@
     
     {% include footer.html %}
   </body>
-
+                                                                                                        
+<script type="text/javascript">
+    $(document).ready(function() {
+    $(".card").addClass("animate"); 
+    });</script>
+                                                 
 <style>
   @keyframes slideUp {
     0% {
@@ -168,7 +173,7 @@
     }
   }
 
-  .card {
+  .animate {
     animation: 1s ease-in-out 0s 1 slideUp;
   }
 </style>
