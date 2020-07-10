@@ -73,13 +73,7 @@
                 $("#toggle").click(function(){
                   var $this = $(this);
                   if($this.data('clicked')) {
-                      //$('#menu').toggle();
-                    if($('#menu').is(':hidden')) {
-                      $('#menu').animate({display:block}, 400);
-                    }
-                    else{
-                      $('#menu').animate({display:none}, 400);
-                    }
+                      $('#menu').fadeToggle();
                   }
                 });
                 $('#toggle').fadeIn();
