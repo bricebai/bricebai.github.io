@@ -7,8 +7,8 @@ $prose-font-size: 16px;
 
 
 // Type scale
-$h0-mobile: 64px;
-$h0-desktop: 128px;
+$h0-mobile: 4em;
+$h0-desktop: 8em;
 
 $h1-size: 40px !default;
 $h2-size: 32px !default;
@@ -27,7 +27,7 @@ $container-width: 50em;
 $breakpoint-lg: 52em;
 
 // Spacing unit
-$spacer: 8px !default;
+$spacer: 0.5em !default;
 
 // Spacing scale
 $spacer-1: $spacer !default; // 8px
