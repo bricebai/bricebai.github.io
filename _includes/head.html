@@ -75,10 +75,10 @@
                   if($this.data('clicked')) {
                       //$('#menu').toggle();
                     if($('#menu').is(':hidden')) {
-                      $('#menu').fadeIn();
+                      $('#menu').animate({display:block}, 400);
                     }
                     else{
-                      $('#menu').fadeOut();
+                      $('#menu').animate({display:none}, 400);
                     }
                   }
                 });
