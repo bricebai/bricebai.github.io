@@ -71,8 +71,10 @@
             } 
             if ($(this).scrollTop() > 900) { 
                 $('#menu').fadeIn();
+                $('#toggle').fadeIn();
             } else { 
                 $('#menu').fadeOut();
+                $('#toggle').fadeOut();
             } 
         }); 
         $('#scroll').click(function(){ 
@@ -80,6 +82,11 @@
             return false; 
         }); 
     });
+    
+    function showhide(id) {
+       	var e = document.getElementById(id);
+       	e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+     }
     
   </script>
 </head>
