@@ -5,8 +5,7 @@ layout: default
   <img style="max-width: 100%" src="/uploads/nova_banner.png" alt="">
 </div>
 
-<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current"
-   style="color: black;font-weight: bold;position: fixed;top: 5em%;text-align: right;width: auto;display: none;">SHOW / HIDE</a>
+{% include toggle.html %}
 <div id="menu" style="opacity: 1;display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Problem</a>
   <a href="#solution" class="section-links solution w-button" style="color: rgb(179, 180, 186);">Proposed Solution</a>
