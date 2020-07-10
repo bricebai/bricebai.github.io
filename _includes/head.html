@@ -70,7 +70,12 @@
                 $('#scroll').fadeOut();
             } 
             if ($(this).scrollTop() > 900) { 
-                $('#menu').fadeIn();
+                $("#toggle").click(function(){
+                  var $this = $(this);
+                  if($this.data('clicked')) {
+                      $('#menu').toggle();
+                  }
+                });
                 $('#toggle').fadeIn();
             } else { 
                 $('#menu').fadeOut();
