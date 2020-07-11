@@ -66,8 +66,10 @@
         $(window).scroll(function(){ 
             if ($(this).scrollTop() > 200) { 
                 $('#scroll').fadeIn(); 
+                $('#homelogo').fadeIn();
             } else { 
                 $('#scroll').fadeOut();
+                $('#homelogo').fadeOut();
             } 
             if ($(this).scrollTop() > 900) { 
                 $("#toggle").click(function(){
@@ -77,11 +79,9 @@
                   }
                 });
                 $('#toggle').fadeIn();
-                $('#homelogo').fadeIn();
             } else { 
                 $('#menu').fadeOut();
                 $('#toggle').fadeOut();
-                $('#homelogo').fadeOut();
             } 
         }); 
         $('#scroll').click(function(){ 
