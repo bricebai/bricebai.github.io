@@ -84,12 +84,12 @@
 
 .trigrid {
   display: grid;
-  grid-auto-flow: column;
+  grid-template-columns: 30% 30% 30%;
 }
 
 .quadgrid {
   display: grid;
-  grid-auto-flow: column;
+  grid-template-columns: 25% 25% 25% 25%;
 }
 
 .quintgrid {
