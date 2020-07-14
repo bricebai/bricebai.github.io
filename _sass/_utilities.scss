@@ -74,7 +74,7 @@
   padding-top: 56.25%;
 }
 
-@media (max-device-width: 812px) {
+@media all and (max-width: 812px) {
   .iframe-container {
     padding-top: 177.78%;
   }
