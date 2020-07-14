@@ -74,6 +74,12 @@
   padding-top: 56.25%;
 }
 
+@media (max-width:406px) {
+  .iframe-container {
+    padding-top: 177.78%;
+  }
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
