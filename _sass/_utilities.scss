@@ -211,6 +211,7 @@
   max-width: 20em;
   margin-bottom: 2em;
   margin-right: 2em;
+  transition: all 300ms ease;
   &:hover {
     transform: scaleX(1.1) scaleY(1.1);
     transition: all 300ms ease;
