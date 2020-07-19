@@ -84,14 +84,14 @@
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(28em, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(25em, 1fr));
   row-gap: 0px;
   column-gap: 50px;
 }
 
 .one {
-  padding: 60px 0px;
-  margin-left: 4em;
+  padding: 60px 2em;
+  margin-left: 2em;
   width: 75%;
 }
 
