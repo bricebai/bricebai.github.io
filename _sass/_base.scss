@@ -75,14 +75,14 @@ button {
  background-color: inherit;
  border-radius: 12px;
  padding: 14px 28px;
- border-color: white;
+ border: none;
  transition-duration: 0.4s;
  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 button:hover {
  background-color: inherit;
- border-color: white;
+ border: none;
  background-image: -webkit-linear-gradient(45deg, rgba(255,0,0,1), rgba(0,0,255,1));
  -webkit-background-clip: text;
  -webkit-text-fill-color: transparent;
