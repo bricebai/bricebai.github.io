@@ -13,8 +13,6 @@ project: []
 
 **Key Skills**    UI, Conversion Optimization
 
-![](/uploads/wix thumbnail.png)
-
 ## The Challenge
 
 **Background**    HiveDesk is a B2B SaaS product that tracks remote worker productivity by taking random automated screenshots of workers’ screens. It has a customer base in the hundreds and is managed by a small team in GlowTouch Technologies, a technology company based in Louisville, Kentucky. As a summer 2019 intern at GlowTouch, I had the opportunity to assist with the product marketing and management of HiveDesk.
