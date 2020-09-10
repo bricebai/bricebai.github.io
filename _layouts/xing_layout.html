@@ -5,17 +5,18 @@ layout: default
   <img style="max-width: 100%" src="/uploads/xing_banner.png" alt="">
 </div>
 
-{% include toggle.html %}
-<div id="menu" style="opacity: 1;display: none;" class="section-nav w-clearfix">
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto; display: none;">SHOW / HIDE</a>
+
+<div id="menu" style="opacity: 1; display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Context</a>
-  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Problem</a>
+  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">The Problem</a>
   <a href="#solution" class="section-links solution w-button" style="color: rgb(179, 180, 186);">Proposed Solution</a>
   <a href="#research" class="section-links research w-button" style="color: rgb(179, 180, 186);">Observations &amp; Research</a>
   <a href="#v1" class="section-links v1 w-button" style="color: rgb(179, 180, 186);">Version 1: Physical Product</a>
   <a href="#pivot" class="section-links pivot w-button" style="color: rgb(179, 180, 186);">Pivot</a>
   <a href="#v2" class="section-links v2 w-button" style="color: rgb(179, 180, 186);">Version 2: Mobile App</a>
-  <a href="#goals" class="section-links goals w-button" style="color: rgb(179, 180, 186);">Goals</a>
-  <a href="#design" class="section-links design w-button" style="color: rgb(179, 180, 186);">Features &amp; Prototyping</a>
+  <a href="#goals" class="section-links goals w-button" style="color: rgb(179, 180, 186);">The Goals</a>
+  <a href="#decisions" class="section-links design w-button" style="color: rgb(179, 180, 186);">Design Decisions</a>
   <a href="#results" class="section-links results w-button" style="color: rgb(179, 180, 186);">Results &amp; Reflection</a>
   <a href="#future" class="section-links future w-button" style="color: rgb(179, 180, 186);">Future Directions</a>
 </div>
@@ -42,7 +43,7 @@ layout: default
     Our team all met via Yale Launch, a student entrepreneurship club dedicated to helping students 
   create ventures and startups. All of us loved skincare and wanted to tackle a problem in this realm. </p>
     
-    <h5 style="margin-left: -10em; margin-top: 2em;" id="problem">Problem</h5>
+    <h5 style="margin-left: -10em; margin-top: 2em;" id="problem">The Problem</h5>
     <h3 style="text-align:center; margin-top: -1.5em;">How can we make it easier for people to explore skincare and find the products that work best for them?</h3></div></article>
 
     <div id="solution" style="background-color: #B5ABF4; 
@@ -54,7 +55,7 @@ layout: default
 
 <h3 style="margin-top: -1.8em;">For people frustrated with the current overcomplicated skincare landscape, create a product that makes
   acquiring skincare knowledge more accessible, affordable, and attainable.</h3>
-        <a href="#design"><h6 style="text-align: center;">Jump to final design decisions ↓</h6></a>
+        <a href="#decisions"><h6 style="text-align: center;">Jump to final design decisions ↓</h6></a>
       </div></article>
     </div>
 
@@ -107,9 +108,9 @@ layout: default
       <article class="container mx-auto px-2 mt2 mb4">
       <div class="prose mb-2 py-4">
 <div style="margin-left: -10em;">
-        <h5>Version 1</h5>
-        <h5>Features +</h5>
-        <h5>Prototyping</h5>
+        <h5>Version 1:</h5>
+        <h5>Physical</h5>
+        <h5>Product</h5>
 </div>
     
 <h3 style="margin-top:-4.2em;">A set of simple, scientifically-backed, and sustainable products at an economical price that is easy to integrate into users’ lives.</h3>
@@ -177,11 +178,11 @@ layout: default
       <div class="prose mb-2 py-4">
 
 <div style="margin-left: -10em;">
-        <h5>Version 2</h5>  
-<h5>Features +</h5><h5>Prototyping</h5></div>
+        <h5>Version 2:</h5>  
+<h5>Mobile App</h5></div>
 
 <h3 style="
-    margin-top: -4.2em;
+    margin-top: -2.8em;
 ">A digital social platform dedicated to helping users connect with other skincare enthusiasts and skincare professionals to formulate routines, diagnose issues, and generate closer connections with people who have a shared love of skincare.</h3>
       </div></article>
     </div>
@@ -215,75 +216,19 @@ layout: default
   </article>
 </div>
 
-<article id="design" class="container mx-auto px-2 mt2 mb4">
-<div class="prose mb-4 pb-4"> 
-
-  <h2 id="main-user-flow">Main User Flow</h2>
-
-<p>This is the main flow for a non-professional user. 
-  For a professional user, instead of viewing friends and professionals in their network, 
-  they would be viewing friends and patients.
-  <strong>Since user research was primarily conducted for the non-professional user, all design decisions will be focused on this user segment.
-    Future iterations of this product will concentrate on researching and designing for the professional user.</strong></p>
-
-
-<p><img src="/uploads/xing_main%20flow%20diagram.png" alt=""></p>
-  </div><img style="max-width: 100%" alt="" src="/uploads/xing%206.png"></article>
-
-
-
-<article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-4 pb-4"> 
-    <h2 id="onboarding-flow">Onboarding Flow</h2>
- 
-    <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 1em;grid-row-gap: 2em;">
-      <p><strong>Specialize onboarding for the two main user types</strong>–hobbyists or professionals</p>
-      <p><strong>Start with the user’s “why”</strong>, focusing on their intent for using this app with questions on what exactly they are seeking</p>
-      <p><strong>Make helpful overlays available to beginners</strong> that simply explain how to diagnose their skin type/condition and how to begin or format a routine</p>
-      <p><strong>Include progress bar</strong> for the goal gradient effect to guide the user to the end of the funnel</p>
-      <p><strong>Verify professionals’ board/license certification</strong> to ensure that they are qualified to deliver professional advice</p>
-    </div>
-    <img src="/uploads/xing_onboarding%20flow%20diagram.png" alt="">
-  </div>
-</article>
-
-
-
-
-
-<div>
-<p><img style="max-width: 100%" alt="" src="/uploads/xing 7.png"></p>
-</div>
-
-
-<article class="container mx-auto px-2 mt2 mb4">
-<div class="prose mb-2 py-4"> 
-<div style="margin-left: -10em;">
-        <h5>Decision 1</h5>
-        
-        
-</div><h2 style="margin-top: -1.2em;">A mobile app platform</h2>
-
-<p><strong>Since users expressed a desire for simplicity in regards to learning about skincare,
-  a mobile app was chosen for its ease of direct messaging users and sending images</strong>. 
-  Providing images of your own skin or products is a specific and significant supplement beyond 
-  pure description to diagnosing and treating skin issues. A mobile app platform makes this experience 
-  easier than a website.</p>
-    
-    <img alt="" src="/uploads/xing_sketch_lofi.png"><img style="max-width: 100%;" alt="" src="/uploads/xing%201.png"></div></article>
-
-
-
-
-<div>
-    
-</div>
-
-<article class="container mx-auto px-2 mt2 mb4">
+<article class="container mx-auto px-2 mt2 mb4" id="decisions">
 <div class="prose mb-2 pb-4"> 
 
 
 <div style="margin-left: -10em;">
+        <h5>Decision 1</h5>
+        
+        
+</div><h2 style="margin-top: -1.2em;">A mobile app platform</h2><p><strong>Since users expressed a desire for simplicity in regards to learning about skincare,
+  a mobile app was chosen for its ease of direct messaging users and sending images</strong>. 
+  Providing images of your own skin or products is a specific and significant supplement beyond 
+  pure description to diagnosing and treating skin issues. A mobile app platform makes this experience 
+  easier than a website.</p><img alt="" src="/uploads/xing_sketch_lofi.png"><img style="max-width: 100%;" alt="" src="/uploads/xing%201.png"><div style="margin-left: -10em;">
         <h5>Decision 2</h5>
         
         
@@ -348,7 +293,55 @@ layout: default
 <p style="max-width: 30em; margin-right: 1em;">Another key chat feature is the ability to send product cards from your routine or the product library in direct messages. <strong>This eliminates the extra time and effort spent in looking up products online, allowing users to easily view product information without leaving the platform.</strong></p>
 
 <img src="/uploads/xing_decision5.2.gif" style="max-width: 14em; margin-bottom: 1em; margin-right: 1em; margin-left: 1em;">
-    </div></div></article>
+    </div></div></article><article id="design" class="container mx-auto px-2 mt2 mb4">
+<div class="prose mb-4 pb-4"> 
+
+  <h2 id="main-user-flow">Main User Flow</h2>
+
+<p>This is the main flow for a non-professional user. 
+  For a professional user, instead of viewing friends and professionals in their network, 
+  they would be viewing friends and patients.
+  <strong>Since user research was primarily conducted for the non-professional user, all design decisions will be focused on this user segment.
+    Future iterations of this product will concentrate on researching and designing for the professional user.</strong></p>
+
+
+<p><img src="/uploads/xing_main%20flow%20diagram.png" alt=""></p>
+  </div><img style="max-width: 100%" alt="" src="/uploads/xing%206.png"></article>
+
+
+
+<article class="container mx-auto px-2 mt2 mb4">
+  <div class="prose mb-4 pb-4"> 
+    <h2 id="onboarding-flow">Onboarding Flow</h2>
+ 
+    <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 1em;grid-row-gap: 2em;">
+      <p><strong>Specialize onboarding for the two main user types</strong>–hobbyists or professionals</p>
+      <p><strong>Start with the user’s “why”</strong>, focusing on their intent for using this app with questions on what exactly they are seeking</p>
+      <p><strong>Make helpful overlays available to beginners</strong> that simply explain how to diagnose their skin type/condition and how to begin or format a routine</p>
+      <p><strong>Include progress bar</strong> for the goal gradient effect to guide the user to the end of the funnel</p>
+      <p><strong>Verify professionals’ board/license certification</strong> to ensure that they are qualified to deliver professional advice</p>
+    </div>
+    <img src="/uploads/xing_onboarding%20flow%20diagram.png" alt="">
+  </div>
+</article>
+
+
+
+
+
+<div>
+<p><img style="max-width: 100%" alt="" src="/uploads/xing 7.png"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <article class="container mx-auto px-2 mt2 mb4">
   <div class="prose mb-4 pb-4">
