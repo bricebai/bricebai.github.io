@@ -5,14 +5,15 @@ layout: default
   <img style="max-width: 100%" src="/uploads/sleep_banner.png" alt="">
 </div>
 
-{% include toggle.html %}
-<div id="menu" style="opacity: 1;display: none;" class="section-nav w-clearfix">
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto; display: none;">SHOW / HIDE</a>
+
+<div id="menu" style="opacity: 1; display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Context</a>
-  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Problem</a>
+  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">The Problem</a>
   <a href="#solution" class="section-links solution w-button" style="color: rgb(179, 180, 186);">Proposed Solution</a>
   <a href="#research" class="section-links research w-button" style="color: rgb(179, 180, 186);">Observations &amp; Research</a>
-  <a href="#goals" class="section-links goals w-button" style="color: rgb(179, 180, 186);">Goals</a>
-  <a href="#design" class="section-links design w-button" style="color: rgb(179, 180, 186);">Features &amp; Prototyping</a>
+  <a href="#goals" class="section-links goals w-button" style="color: rgb(179, 180, 186);">The Goals</a>
+  <a href="#decisions" class="section-links goals w-button" style="color: rgb(179, 180, 186);">Design Decisions</a><a href="#process" class="section-links design w-button" style="color: rgb(179, 180, 186);">Process &amp; Style</a>
   <a href="#results" class="section-links results w-button" style="color: rgb(179, 180, 186);">Results &amp; Reflection</a>
   <a href="#future" class="section-links future w-button" style="color: rgb(179, 180, 186);">Future Directions</a>
 </div>
@@ -35,7 +36,7 @@ layout: default
 
     <p>In the fall semester of my sophomore year at Yale, I had the pleasure of taking “The Mystery of Sleep”, a cognitive science course that covered the science behind sleep. The knowledge I gained about the importance of sleep made a huge impact on me—studying the research on the detrimental effects of sleep deprivation as well as the benefits of a consistent sleep pattern helped push me to seek ways to improve my own sleep.</p>
 
-    <h5 style="margin-left: -10em;margin-top: 2em;" id="problem">Problem</h5>
+    <h5 style="margin-left: -10em;margin-top: 2em;" id="problem">The Problem</h5>
     <h3 style="text-align: center;margin-top: -1.5em;">
       How can people not only achieve better sleep, but also develop better sleep habits that will improve their overall sleep quality in the long run?
     </h3>
@@ -49,7 +50,7 @@ layout: default
 
       <h5 style="color:white; margin-left: -10em;">The Solution</h5>
       <h3 style="margin-top: -1.5em;">Design a mobile app that reduces chronic sleep deprivation and creates real behavioral change for people.</h3>
-      <a href="#design" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a>
+      <a href="#decisions" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a>
     </div>
   </article>
 </div>
@@ -118,37 +119,7 @@ layout: default
   </article>
 </div>
 
-<article id="design" class="container mx-auto px-2 mt2 mb4">
-<div class="prose mb-4 pb-4"> 
-
-<div style="margin-left: -10em;">     
-<h5>Features +</h5><h5>Prototyping</h5></div>   
-    </div></article>
-
-
-<div style="text-align: center;">
-<p><img style="max-width: 70%" src="/uploads/sleep_sketches_lofi.png" alt=""></p><br><br>
-</div>
-
-<div>
-    <p><img style="max-width: 100%;" src="/uploads/sleep_1.png" alt=""></p>
-</div>
-
-<article class="container mx-auto px-2 mt2 mb4">
-<div class="prose mb-4 pb-4">
-
-<h2 id="user-flow">User Flow</h2>
-
-<p><img src="/uploads/sleep%20tight_main%20flow%20diagram.png" alt=""></p>
-
-</div></article>
-
-<div>
-    <p><img src="/uploads/sleep_6.png" alt="" style="max-width: 100%;"></p>
-</div>
-
-
-<article class="container mx-auto px-2 mt2 mb4">
+<article class="container mx-auto px-2 mt2 mb4" id="decisions">
   <div class="prose mb-2 py-4">
   <div style="margin-left: -10em;">
     <h5>Decision 1</h5>
@@ -168,11 +139,7 @@ layout: default
   
   <p>Furthermore, the feature to stop the alarm through methods such as shaking your phone, flipping the phone orientation, or simply tapping a button is offered. <strong>Giving alternative and active ways to stop an alarm can encourage users to wake up more alert.</strong></p>
  </div>
-</article>
-
-
-
-<article class="container mx-auto px-2 mt2 mb4">
+</article><article class="container mx-auto px-2 mt2 mb4">
 <div class="prose mb-4 pb-4">
 
   <div style="margin-left: -10em;">
@@ -189,11 +156,7 @@ layout: default
     <img src="/uploads/sleep_decision2.2.gif" alt="" style="max-width: 14em; margin-left: 1em; margin-bottom: 1em;">
   </div>
 
-</div></article>
-
-
-
-<article class="container mx-auto px-2 mt2 mb4">
+</div></article><article class="container mx-auto px-2 mt2 mb4">
 <div class="prose mb-4 pb-4">
 
   <div style="margin-left: -10em;">
@@ -215,11 +178,7 @@ layout: default
     </p>
   </div>
 
-</div></article>
-
-
-
-<article class="container mx-auto px-2 mt2 mb4">
+</div></article><article class="container mx-auto px-2 mt2 mb4">
 <div class="prose mb-4 pb-4">
 
 <div style="margin-left: -10em;">
@@ -237,17 +196,79 @@ layout: default
         <img alt="" src="/uploads/sleep_decision4.gif" style="max-width: 14em; margin-bottom: 1em; margin-right: 1em; margin-left: 1em;">
     </div>
 
-</div></article>
+</div></article><article id="process" class="container mx-auto px-2 mt2 mb4">
+<div class="prose mb-4 pb-4"> 
 
+<div style="margin-left: -10em;">     
+<h5>Process +</h5><h5>Style</h5></div>   
+    <h2 style="margin-top: -2.2em;">Sketches + Lo-fi Wireframes</h2></div></article><div style="text-align: center;">
+<p><img style="max-width: 90%" src="/uploads/sleep_sketches_lofi.png" alt=""></p><br><br>
+</div><div>
+    <p><img style="max-width: 100%;" src="/uploads/sleep_1.png" alt=""></p>
+</div><article class="container mx-auto px-2 mt2 mb4">
+<div class="prose mb-4 pb-4">
 
+<h2 id="user-flow">User Flow</h2>
 
-<article class="container mx-auto px-2 mt2 mb4">
+<p><img src="/uploads/sleep%20tight_main%20flow%20diagram.png" alt=""></p>
+
+</div></article><div>
+    <p><img src="/uploads/sleep_6.png" alt="" style="max-width: 100%;"></p>
+</div><article class="container mx-auto px-2 mt2 mb4">
 <div class="prose mb-4 pb-4">
 
 <h2 id="final-prototype">Final Prototype</h2>
     <div class="container iframe-container">
       <iframe style="border: none;" width="100%" height="100%" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FknADZN3UicwqPZDE9NJz3N%2FSleep-Tight%3Fnode-id%3D4%253A0%26scaling%3Dscale-down" allowfullscreen=""></iframe><br>
     </div>
+      
+    
+    
+  
+    
+    
+
+
+    
+    
+  </div>
+
+    
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <article class="container mx-auto px-2 mt2 mb4">
+<div class="prose mb-4 pb-4">
+
+
+    
       <br>
     
     <br>
