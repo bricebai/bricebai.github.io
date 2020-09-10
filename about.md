@@ -1,7 +1,7 @@
 ---
 layout: about_layout
 title: About
-permalink: "/about/"
+permalink: "/about"
 
 ---
 I'm an undergrad at Yale University ('22) studying Computing and the Arts, a joint computer science and art major. This summer, I will be joining Amazon as a UX/UI Design Intern.
