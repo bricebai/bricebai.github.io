@@ -3,19 +3,18 @@ layout: default
 ---
 
 <div>
-      <div>
   <img style="max-width: 100%" src="/uploads/adobe_banner.png" alt="">
 </div>
 
-<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto;">SHOW / HIDE</a>
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto; display: none;">SHOW / HIDE</a>
 
 <div id="menu" style="opacity: 1; display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Context</a>
-  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Problem</a>
+  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">The Problem</a>
   <a href="#solution" class="section-links solution w-button" style="color: rgb(179, 180, 186);">Proposed Solution</a>
   <a href="#research" class="section-links research w-button" style="color: rgb(179, 180, 186);">Observations &amp; Research</a>
-  <a href="#goals" class="section-links goals w-button" style="color: rgb(179, 180, 186);">Goals</a>
-  <a href="#design" class="section-links design w-button" style="color: rgb(179, 180, 186);">Features &amp; Prototyping</a>
+  <a href="#goals" class="section-links goals w-button" style="color: rgb(179, 180, 186);">The Goals</a>
+  <a href="#decisions" class="section-links design w-button" style="color: rgb(179, 180, 186);">Design Decisions</a><a href="#process" class="section-links design w-button" style="color: rgb(179, 180, 186);">Process &amp; Style</a>
   <a href="#results" class="section-links results w-button" style="color: rgb(179, 180, 186);">Results &amp; Reflection</a>
   <a href="#future" class="section-links future w-button" style="color: rgb(179, 180, 186);">Future Directions</a>
 </div>
@@ -33,7 +32,7 @@ layout: default
     <p>A few weeks after being sent home to quarantine, my partner and I formed team Rice &amp; Rence to design Grow Together—a tablet app for the 3-day, US-college-wide remote Adobe + Nickelodeon Creative Jam. This would be an app experience for kids between 11 to 13 years old (grades 6 to 8) that also used some element of the Nickelodeon brand and incorporated either auto-animate or voice command features.</p>
 
     <p>This was also our first time trying a design jam. :)</p><div style="margin-left: -10em;margin-top: 2em;" id="problem">
-        <h5>Problem</h5>
+        <h5>The Problem</h5>
     </div>    
     <h3 style="text-align: center; margin-top: -1.5em;">Help kids feel safe, informed, and connected in the spirit of #KidsTogether. Design an Android tablet or Apple iPad app that provides a safe way for kids to communicate, share, and connect with their friends and family. </h3>
   </div>
@@ -49,7 +48,7 @@ layout: default
   <div class="prose mb-4 py-4">
     <h5 style="color:white; margin-left: -10em;">The Solution</h5>
     <h3 style="margin-top: -1.8em; color:white;">Give kids and parents the opportunity to cultivate their own virtual world, learn more about COVID-19 through educational videos, do fun indoor activities with their favorite Nick characters, and ultimately stay connected with their community through expressing themselves on this platform.</h3>
-  <a href="#design" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a></div></article>
+  <a href="#decisions" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a></div></article>
 </div>
 
 <article id="research" class="container mx-auto px-2 mt2 mb4">
@@ -95,24 +94,8 @@ layout: default
   </article>
 </div>
 
-  <article id="design" class="container mx-auto px-2 mt2 mb4">
-    <div class="prose mb-4 pb-4">
-      <div style="margin-left:-10em;">
-          <h5>Features</h5>
-          <h5>+ Prototyping</h5>
-      </div>
-      <p><img src="/uploads/adobe_colortype.png" alt=""></p>
-    </div>
-  </article>
-  
+  <article class="container mx-auto px-2 mt-2 mb-4" id="decisions">
 
-  
-<article class="container mx-auto px-2 mt-2 mb-4">
-<div class="prose mb-4 pb-4">
-<h2>Sketches</h2><p><img src="/uploads/adobe_sketches.png" alt=""></p><h2>Lo-fi Wireframes</h2>
-
-
-    <p><img src="/uploads/adobe_lofi.png" alt=""></p><h2>Information Architecture + Flows</h2><p>In designing the wireframes and mockups, I particularly focused on the explore page, the message page, and the parental flow.</p><h3>Kids</h3><p><img src="/uploads/adobe_kids_flow_ia.png" alt=""></p><h3>Parents</h3><p><img src="/uploads/adobe_parents_flow_ia.png" alt=""></p></div>
 
 <div style="margin-left: -10em;">
         <h5>Decision 1</h5>   
@@ -139,13 +122,36 @@ layout: default
 </div><h2 style="margin-top: -1.2em;">Parental controls for kids and letting them donate to Covid relief charities</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
     <img alt="" src="/uploads/adobe_decision4.gif" style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">
     <p style="max-width: 25em;margin-left: 1em;">Parents can suggest different activities or learning material about Covid for their kids. They’re able to help kids grow their gardens by approving their activities while being involved in seeing what they’re doing and learning. Parents are also given the opportunity to view local charities they can donate to for Covid relief.</p>
-  </div><h2>Final Design</h2><h3>Kids</h3></article>
+  </div></article><article id="process" class="container mx-auto px-2 mt2 mb4">
+    <div class="prose mb-4 pb-4">
+      <div style="margin-left:-10em;">
+          <h5>Process</h5>
+          <h5>+ Style</h5>
+      </div>
+      <h2 style="margin-top: -2em;">Sketches</h2><p><img src="/uploads/adobe_sketches.png" alt=""></p><h2>Lo-fi Wireframes</h2><p><img src="/uploads/adobe_lofi.png" alt=""></p><p><img src="/uploads/adobe_colortype.png" alt=""></p>
+    </div>
+  </article>
   
-  
+
   
 
 
 
+<article class="container mx-auto px-2 mt-2 mb-4">
+      <div class="prose mb-4 pb-4">
+
+    <h2>Information Architecture + Flows</h2>
+      <p>In designing the wireframes and mockups, I particularly focused on the explore page, the message page, and the parental flow.</p>
+      <h3>Kids</h3>
+      <p><img src="/uploads/adobe_kids_flow_ia.png" alt=""></p>
+      <h3>Parents</h3><p><img src="/uploads/adobe_parents_flow_ia.png" alt=""></p>
+      </div>
+
+    <h2>Final Design</h2>
+      <h3>Kids</h3>
+      </article>
+  
+  
 
 <div style="text-align: center;">
   <p><img style="max-width: 90%;" src="/uploads/adobe_kids_finalflow.png" alt=""></p>
@@ -166,15 +172,7 @@ layout: default
   
 </div>
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
+     
 
 
 <article class="container mx-auto px-2 mt2 mb4">
