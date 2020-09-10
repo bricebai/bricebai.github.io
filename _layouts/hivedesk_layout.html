@@ -2,18 +2,18 @@
 layout: default
 ---
 <div>
-      <div>
   <img style="max-width: 100%" src="/uploads/hd_block1.png" alt="">
 </div>
 
-{% include toggle.html %}
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto; display: none;">SHOW / HIDE</a>
+
 <div id="menu" style="opacity: 1; display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Context</a>
-  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Problem</a>
+  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">The Problem</a>
   <a href="#solution" class="section-links solution w-button" style="color: rgb(179, 180, 186);">Proposed Solution</a>
   <a href="#research" class="section-links research w-button" style="color: rgb(179, 180, 186);">Observations &amp; Research</a>
-  <a href="#goals" class="section-links goals w-button" style="color: rgb(179, 180, 186);">Goals</a>
-  <a href="#design" class="section-links design w-button" style="color: rgb(179, 180, 186);">Features &amp; Prototyping</a>
+  <a href="#goals" class="section-links goals w-button" style="color: rgb(179, 180, 186);">The Goals</a>
+  <a href="#decisions" class="section-links design w-button" style="color: rgb(179, 180, 186);">Design Decisions</a><a href="#process" class="section-links design w-button" style="color: rgb(179, 180, 186);">Process &amp; Style</a>
   <a href="#results" class="section-links results w-button" style="color: rgb(179, 180, 186);">Results &amp; Reflection</a>
   <a href="#future" class="section-links future w-button" style="color: rgb(179, 180, 186);">Future Directions</a>
 </div>
@@ -36,7 +36,7 @@ layout: default
   I was primarily responsible for implementing UI/UX design changes to their website.
     </p>
 
-    <h5 style="margin-left: -10em;margin-top: 2em;" id="problem">Problem</h5>  
+    <h5 style="margin-left: -10em;margin-top: 2em;" id="problem">The Problem</h5>  
     <h3 style="text-align: center; margin-top: -1.5em;">HiveDesk has been stagnating in customer growth for over a year. 
       How can we increase the number of product downloads? How can we encourage customers to try out 
       the product?</h3>
@@ -51,7 +51,7 @@ layout: default
       that influence users to move beyond the homepage and to the free trial download page. 
       Increase user conversions and free trial downloads using low effort but high impact design decisions.
     </h3>
-    <a href="#design" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a>
+    <a href="#decisions" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a>
   </div></article>
 </div>
 
@@ -102,27 +102,12 @@ layout: default
     </article>
   </div>
 
-  <article id="design" class="container mx-auto px-2 mt2 mb4">
-    <div class="prose mb-4 pb-4">
-      <div style="margin-left:-10em;">
-          <h5>Features</h5>
-          <h5>+ Prototyping</h5>
-      </div>
-      <p style="margin-top: -7em;"><img src="/uploads/hd_type%20and%20color.png" alt=""></p>
-      <p>A new type and color palette were defined. I based the colors off the HiveDesk logo and ensured the text sizes and color contrast met WCAG 2.1 guidelines.</p>
-    </div>
-  </article>
   
-<div style="text-align: center;">
-  <p><img style="max-width: 90%;" src="/uploads/hd_flows.png" alt=""></p>
-</div>
   
-<article class="container mx-auto px-2 mt-2 mb-4">
-<div class="prose mb-4 pb-4">
-<h2>Wireframe</h2>
 
-<p><img src="/uploads/hd_wireframe.png" alt=""></p>
-    </div>
+  
+<article class="container mx-auto px-2 mt-2 mb-4" id="decisions">
+
 
 <div style="margin-left: -10em;">
         <h5>Decision 1</h5>   
@@ -146,13 +131,31 @@ layout: default
         </p></div><div style="margin-left: -10em;">
         <h5>Decision 4</h5>   
 </div><h2 style="margin-top: -1.2em;">More effective final CTA with reduced flow</h2><div class="mb-4">
-    <img src="/uploads/hd_decision4.png" alt="" style="max-width: 100%;margin-bottom: 1em;"><p>The user is more likely to reach the end of the homepage funnel and see another CTA, increasing the possibility of them going to the free trial page. A final headline reminds the user the benefits of HiveDesk and how to can resolve their pain points.</p></div><h2>Final Design</h2><img src="/uploads/hd_final.png" alt="" style="
+    <img src="/uploads/hd_decision4.png" alt="" style="max-width: 100%;margin-bottom: 1em;"><p>The user is more likely to reach the end of the homepage funnel and see another CTA, increasing the possibility of them going to the free trial page. A final headline reminds the user the benefits of HiveDesk and how to can resolve their pain points.</p></div></article>
+<div style="text-align: center;">
+  <p><img style="max-width: 90%;" src="/uploads/hd_flows.png" alt=""></p>
+</div><article id="process" class="container mx-auto px-2 mt2 mb4">
+    <div class="prose mb-4 pb-4">
+      <div style="margin-left:-10em;">
+          <h5>Process</h5>
+          <h5>+ Style</h5>
+      </div>
+      <div class="prose mb-4 pb-4" style="margin-top: -6em;">
+<h2>Wireframe</h2>
+
+<p><img src="/uploads/hd_wireframe.png" alt=""></p>
+    </div><p><img src="/uploads/hd_type%20and%20color.png" alt=""></p>
+      <p>A new type and color palette were defined. I based the colors off the HiveDesk logo and ensured the text sizes and color contrast met WCAG 2.1 guidelines.</p>
+    </div>
+  </article><article class="container mx-auto px-2 mt-2 mb-4">
+<div class="prose mb-4 pb-4">
+<h2>Final Design</h2><img src="/uploads/hd_final.png" alt="" style="
     max-width: 100%;
 "><p>Since the marketing and development teams mainly wanted to incorporate small, low-effort UI changes to the homepage, 
   my redesign was not fully implemented by the end of my time at GlowTouch. 
   The compromise was that my design decisions such as the reduction of links in the top navigation bar, the repeating of the CTA button at the top of the page, 
   and the removal of the extraneous blocks of descriptive text were made. I described conducting these design decisions to the marketing and development teams,
-  and they were successfully adjusted.</p></article>
+  and they were successfully adjusted.</p></div></article>
   
   
   
