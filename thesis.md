@@ -1,8 +1,8 @@
 ---
 layout: yale_layout
-title: Yale Art Class Work
-permalink: "/yale"
+title: Concrete Interface in VR | Yale Senior Thesis
+permalink: "/thesis"
 project: []
 
 ---
-# Yale Art Class Work
+# Under construction
