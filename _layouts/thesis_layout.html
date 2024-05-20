@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div>
-  <img style="max-width: 100%" src="/uploads/adobe_banner.png" alt="">
+  <img style="max-width: 100%" src="/uploads/thesis_banner.png" alt="">
 </div>
 
-<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto; display: none;">SHOW / HIDE</a>
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto;">SHOW / HIDE</a>
 
 <div id="menu" style="opacity: 1; display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Context</a>
@@ -49,7 +49,7 @@ Alara Degirmenci
 <div id="solution" style="
     color: white;
     background-color: #001253;
-    background-image: url(uploads/adobe_overlay.png), linear-gradient(rgba(240, 100, 5, 1), rgba(84, 26, 128, 1));
+    background-image: url(uploads/thesis_overlay.png), linear-gradient(rgba(133, 192, 222, 1), rgba(183, 193, 90, 1));
     background-size: cover;
     ">
   <article class="container mx-auto px-2 mt2 mb4">
@@ -73,11 +73,7 @@ Alara Degirmenci
     <p>In particular we are designing for:
     <br>
 </p>
-    <ol>
-        <li>Physical therapy patients</li>
-        <li>Athletes with limited mobility</li>
-        <li>Creators for these users</li>
-    </ol> 
+    <img alt="" src="/uploads/thesis_personas.png" style="max-width: 100%;"> 
 
     <p>Taking inspiration from these different personas’ needs will not only improve experiences for them, but also give all users of varying levels of mobility new opportunities.</p>
 
@@ -97,7 +93,7 @@ Alara Degirmenci
   <div id="goals" style="
     color: white;
     background-color: #001253;
-    background-image: url(uploads/adobe_overlay.png), linear-gradient(rgba(240, 100, 5, 1), rgba(84, 26, 128, 1));
+    background-image: url(uploads/thesis_overlay.png), linear-gradient(rgba(133, 192, 222, 1), rgba(183, 193, 90, 1));
     background-size: cover;
     " class="py-4 mb-4">
   <article class="container mx-auto px-2 mt2 mb4">
@@ -120,8 +116,18 @@ Alara Degirmenci
 
 <h2 style="margin-top: -1.2em;">Designing a modular block system</h2>
     <div class="mb-4" style="display: flex; flex-wrap: wrap;">
-    <img alt="" src="/uploads/adobe_decision1.gif" style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">
-    <p style="max-width: 25em;margin-left: 1em;">One beneficial application of investigating how wheelchair-bound users navigate and interact with the built environment is for physical therapy. I envisioned creating a method where therapists could easily create their own therapeutic, accessible environments for patients. 
+    
+    <div style="margin-left: 1em; margin-right: 1em;">
+        <img alt="" src="/uploads/thesis_decision1.png" style="max-width: 20em;">
+         <p style="font-family: basier_circle_monoregular">GOALS ADDRESSED:</p>
+    
+    <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;width: 100%;grid-column-gap: 1em;grid-row-gap: 1em; margin-right: 1em;">
+      <p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">2
+    </p>
+        
+    </div>
+    
+</div><p style="max-width: 25em;margin-left: 1em;">One beneficial application of investigating how wheelchair-bound users navigate and interact with the built environment is for physical therapy. I envisioned creating a method where therapists could easily create their own therapeutic, accessible environments for patients. 
     <br><br>This involved creating a design system of simple, modular units that could be used to create different common built structures and environmental features. With the assistance of Alara Degirmenci, we developed the instructions for what could exist in the system, with guidelines on the color palette, block style, and block sizing. We further specified our sizing requirements by incorporating various ADA and architectural codes into some modular units such as for road tiles, handrails, and ramp slopes.
 
     <br><br>With the design language established and in use, I 3D-modeled various basic objects with Shapr3D, an iPad 3D-modeling app.
@@ -134,17 +140,37 @@ Alara Degirmenci
 <div style="margin-left: -10em;">
         <h5>Decision 2</h5>   
 </div><h2 style="margin-top: -1.2em;">Rapid prototyping in Unity</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
-    <img alt="" src="/uploads/adobe_decision2.gif" style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">
+    <div style="margin-left: 1em; margin-right: 1em;">
+        <img alt="" src="/uploads/thesis_decision2.png" style="max-width: 20em;">
+         <p style="font-family: basier_circle_monoregular">GOALS ADDRESSED:</p>
+    
+    <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;width: 100%;grid-column-gap: 1em;grid-row-gap: 1em; margin-right: 1em;">
+      <p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">2
+    </p>
+        
+    <p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">3
+    </p></div>
+    
+</div>
     <p style="max-width: 25em;margin-left: 1em;">The next step was to create the playground setting with the modular units in action. This was done in Unity utilizing the Verb Collective to manage the interactions with the environmental objects. The Verb Collective, originally made by Justin Berry, is an example of such an asset. It is a rapid prototyping tool that is easily customizable, designed for collaboration, and allows non-experts and experts alike to quickly develop interactions based on a series of different verbs that trigger according to different states. Each verb is a script that may be attached to objects in Unity and can trigger other verbs or objects. <br><br>
 Although no coding is necessary for people to use the Verb Collective, developers can create custom verbs that fit their project and also add to the collection. My addition to the Verb Collective was through four scripts—to pulse, to recolor, to change gravitate, and to gradient color. Each script had the purpose of providing small, delightful feedback to the interactions that the user would take in the environment.
 </p>
   </div><div style="margin-left: -10em;">
         <h5>Decision 3</h5>   
 </div><h2 style="margin-top: -1.2em;">A whimsical, functional virtual world</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
-    <div>
-        <img style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;" alt="" src="/uploads/adobe_decision3.gif">
-         <p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;/* box-shadow: 2px 2px 10px rgba(0,0,0,0.1); */font-family: basier_circle_monoregular;max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">GOALS MET: <br> 2, 3, 4</p>
-    </div>
+    <div style="margin-left: 1em; margin-right: 1em;">
+        <img style="max-width: 20em;margin-bottom: 1em;" alt="" src="/uploads/thesis_decision3.png">
+         <p style="font-family: basier_circle_monoregular">GOALS ADDRESSED:</p>
+    
+    <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;width: 100%;grid-column-gap: 1em;grid-row-gap: 1em; margin-right: 1em;">
+      <p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">2
+    </p>
+        
+    <p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">3
+    </p><p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">4
+    </p></div>
+    
+</div>
     <div style="max-width: 25em;margin-left: 1em;">
         <p>Creating a joyful but function environment was critical to making users receptive to try the experience. I placed clear instructions in the initial screen, platforms and paths to encourage exercises/activities, and created a comforting environment with mountains, warm lighting, ambient sound. <br><br>
 Examples of different stations that assessed the user’s mobility and coordination:
@@ -164,18 +190,32 @@ Examples of different stations that assessed the user’s mobility and coordinat
   </div><div style="margin-left: -10em;">
         <h5>Decision 4</h5>   
 </div><h2 style="margin-top: -1.2em;">Connecting the wheelchair with minimal guidance</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
-    <img alt="" src="/uploads/adobe_decision4.gif" style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">
+    <div style="margin-left: 1em; margin-right: 1em;">
+        <img style="max-width: 20em;margin-bottom: 1em;" alt="" src="/uploads/thesis_decision4.png">
+         <p style="font-family: basier_circle_monoregular">GOALS ADDRESSED:</p>
+    
+    <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;width: 100%;grid-column-gap: 1em;grid-row-gap: 1em; margin-right: 1em;">
+      <p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">1
+    </p>
+        
+    <p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">3
+    </p><p style="background-color: inherit;border-radius: 12px;padding: 14px 28px;border: 0.1rem solid lightgray;font-family: basier_circle_monoregular;max-width: 20em;">4
+    </p></div>
+    
+</div>
     <p style="max-width: 25em;margin-left: 1em;">My thesis exhibition presented the full experience of sitting in the stationary wheelchair, strapping on the headset, and traveling through my world. I let people explore the world with minimal instruction and also allowed adjustments to the speed of wheelchair movement in VR to help prevent potential nausea. <br><br>
 
 Moving was simple and intuitive – all anyone had to do was roll the wheels of the wheelchair to move, as they would in real life.
 </p>
-  </div></article><article id="process" class="container mx-auto px-2 mt2 mb4">
-    <div class="prose mb-4 pb-4">
+  </div></article>
+
+  <article id="process" class="container mx-auto px-2 mt2 mb4">
+    <div class="prose pb-4">
       <div style="margin-left:-10em;">
           <h5>Process</h5>
           <h5>+ Style</h5>
       </div>
-      <h2 style="margin-top: -2em;">Sketches</h2><p><img src="/uploads/adobe_sketches.png" alt=""></p><h2>Lo-fi Wireframes</h2><p><img src="/uploads/adobe_lofi.png" alt=""></p><p><img src="/uploads/adobe_colortype.png" alt=""></p>
+      <h2 style="margin-top: -2em;">Design System</h2><p><img src="/uploads/thesis_designsystem.png" alt=""></p><h2>Activites and Final World in VR</h2>
     </div>
   </article>
   
@@ -188,17 +228,9 @@ Moving was simple and intuitive – all anyone had to do was roll the wheels of 
   
   
 
-<div style="text-align: center;">
-  <p><img style="max-width: 90%;" src="/uploads/adobe_kids_finalflow.png" alt=""></p>
-</div>
-<article class="container mx-auto px-2 mt-2 mb-4">
-<div class="prose mb-4 pb-4">
-    <h3>Parents</h3>
-    </div>
-</article>
-<div style="text-align: center;">
-  <p><img style="max-width: 90%;" src="/uploads/adobe_parent_finalflow.png" alt=""></p>
-</div>
+<img src="/uploads/thesis_activites.png" alt="" style="max-width: 100%;"><img src="/uploads/thesis_final.png" alt="" style="max-width: 100%; margin-bottom: 4em;">
+
+
 <div id="results" style="background-color: #f05a1a; background-image: url(/uploads/hd_overlay.png); background-size: contain;">
   
 </div>
@@ -225,7 +257,7 @@ Moving was simple and intuitive – all anyone had to do was roll the wheels of 
 <div id="goals" style="
     color: white;
     background-color: #001253;
-    background-image: url(uploads/adobe_overlay.png), linear-gradient(rgba(240, 100, 5, 1), rgba(84, 26, 128, 1));
+    background-image: url(uploads/thesis_overlay.png), linear-gradient(rgba(133, 192, 222, 1), rgba(183, 193, 90, 1));
     background-size: cover;
     " class="py-4 mb-4">
   <article class="container mx-auto px-2 mt2 mb4">
