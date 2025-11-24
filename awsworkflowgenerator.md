@@ -1,7 +1,7 @@
 ---
-layout: thesis_layout
-title: Concrete Wheelchair Interface in VR | Yale Senior Thesis
-permalink: "/thesis"
+layout: awsworkflowgenerator_layout
+title: Generative AI Workflow Generator | Internal AWS Product
+permalink: "/awsworkflowgenerator"
 project: []
 
 ---
