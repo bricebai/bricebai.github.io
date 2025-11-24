@@ -1,0 +1,390 @@
+---
+layout: default
+---
+
+<div>
+  <img style="max-width: 100%" src="/uploads/wg_banner.png" alt="">
+</div>
+
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto;">SHOW / HIDE</a>
+
+<div id="menu" style="opacity: 1; display: block;" class="section-nav w-clearfix">
+  <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Intro &amp; Context</a>
+  <a href="#problem" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">The Problem</a>
+  <a href="#solution" class="section-links solution w-button" style="color: rgb(179, 180, 186);">Proposed Solution</a>
+  <a href="#background" class="section-links solution w-button" style="color: rgb(179, 180, 186);">Background &amp; User</a><a href="#research" class="section-links research w-button" style="color: rgb(179, 180, 186);">Initial CX Research</a>
+  <a href="#tenets" class="section-links goals w-button" style="color: rgb(179, 180, 186);">Design Tenets</a>
+  <a href="#initialdesign" class="section-links goals w-button" style="color: rgb(179, 180, 186);">Initial Explorations</a><a href="#validation" class="section-links goals w-button" style="color: rgb(179, 180, 186);">Validation</a><a href="#final" class="section-links design w-button" style="color: rgb(179, 180, 186);">Final MVP Design</a><a href="#handoff" class="section-links design w-button" style="color: rgb(179, 180, 186);">Handoff</a>
+  <a href="#results" class="section-links results w-button" style="color: rgb(179, 180, 186);">Results &amp; Reflection</a>
+  <a href="#future" class="section-links future w-button" style="color: rgb(179, 180, 186);">Future Directions</a>
+</div>
+
+<article class="container mx-auto px-2 mt2 mb4">
+  <div class="prose mb-2 py-4">
+    <h1 id="intro">Generative AI Workflow Generator</h1>
+    <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;">
+      <div><h6>Duration</h6>Feb 2024 - Jan 2025</div>
+      
+      <div><h6>My Role</h6>Lead UX Designer</div> 
+      <div><h6>Stakeholders</h6>
+    UX Researcher <br>
+    Product Manager,<br>
+    Engineering Manager,<br>
+    10 Engineers</div><div><h6>Impacted Users</h6>25k monthly active internal users (Cloud Support Engineers)
+</div>
+    </div>
+    <br><br>
+<div style="display: flex;flex-wrap: wrap;">
+    <p style="flex: 1;margin-right: 1em; min-width: 10em;">In order to reduce the time and effort required for Amazon’s internal Cloud Support Engineers to build, manage, and maintain new automated workflows for case support resolution, our team created the Workflow Generator for on-demand, AI-generated workflow code.
+<br><br>
+<strong>I led the North Star and MVP design</strong> of this new console, which enabled internal builders to quickstart the workflow coding process through an AI-generated workflow draft. While I transitioned away from AWS right after MVP launch, the design resulted in highly positive user acceptance testing feedback, with users rating the ease of use of the Workflow Generator as 4.42 out of 5. It is expected to directly impact the org's goal to reduce builder effort by at least 50%.</p>
+    <div style="max-width: 20em;margin-left: 1em;height: fit-content;background-color: inherit;border-radius: 12px;padding: 14px 28px;/* border: 0.1rem solid lightgray; */box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
+        <p><strong>My contributions</strong></p>
+        <ul>
+            <li>UX North Star vision, leading to a clear roadmap for product to work backwards from</li>
+            <li>Launched MVP design</li>
+            <li>User journey map</li>
+            <li>Collaboration with UX researcher in 2 usability studies</li>
+        </ul>
+    </div>
+</div>
+    
+
+    <div style="display: flex;flex-wrap: wrap;">
+    <div style="margin-left: -10em;margin-top: 2em;" id="problem">
+        <h5>The Problem</h5>
+    </div>
+    <h3 style="text-align: center;margin-top: -1.5em;">Builders spend extraneous time and manual effort converting Standard Operating Procedures (SOPs) into workflows, which assist in customer support case resolution. The rotational nature of builders and lack of standardization of SOPs make the jump from SOP to workflow code difficult.</h3>
+</div>    
+    
+  </div>
+</article>
+    
+<div id="solution" style="
+    background-image: radial-gradient(circle at bottom right, #b2bbc3 0%, #54687D 20%, #203444 100%);
+    background-size: cover;
+    ">
+  <article class="container mx-auto px-2 mt2 mb4">
+  <div class="prose mb-4 py-4">
+    <h5 style="color:white; margin-left: -10em;">The Solution</h5>
+    <h3 style="margin-top: -1.8em; color:white;">Automate drafting initial workflows with AI. Create a simplified, single pane of glass console for building and testing workflows so that builders can produce high-quality workflows more rapidly to help automatically resolve customer support cases.</h3>
+  <a href="#final" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to launched design ↓</h6></a></div></article>
+</div><article class="container mx-auto px-2 mt2 mb4" id="background">
+  <div class="prose mb-4 pb-4">
+    <h5 style="margin-left: -10em;">Background</h5>
+    <h2 style="margin-top: -1.3em;">What is a workflow, and who builds them?</h2>
+
+    <p>A workflow is an automation of steps in a support case lifecycle. Workflows drove 2023 case deflections for <strong>9.98% (297.6k)</strong> of Support cases, saving <strong>~$42.1M</strong>.</p>
+    <p>Today, builders spend extraneous time and manual effort converting Standard Operating Procedures (SOPs) into automated workflows. Once a rotational builder is assigned to a workflow, they must manually work in Quip to visualize workflow steps, determine API calls, find dependencies, implement unit tests, etc, and then manually create the workflow code in their IDE of choice.</p>
+    
+    <p>There is an opportunity to simplify this process and configuration to allow builders to create and release workflows more efficiently.</p><br>
+<div class="mb-3" style="display: flex; flex-wrap: wrap;">
+    
+    <div style="margin-right: 1em;">
+        <img alt="" src="/uploads/builder.png" style="max-width: 10em;">
+         
+    
+    
+    
+</div><div style="max-width: 35em;margin-left: 1em;">
+    <h4>The primary user</h4>
+   <p>
+    The <strong>builder</strong> is an internal Cloud Support Engineer. They are rotational and get assigned workflows to code. 
+    <br><br>
+    While publishing a workflow involves many users and levels of approval, we are focusing on the stage where a builder is coding the workflow itself.
+    </p> 
+</div>
+        
+
+   
+  </div><h4>Success metrics</h4>
+<p>Together with my PM, we established success metrics that the design would impact on the workflow generator.</p><ul>
+    <li>Increased number of workflows running in Production</li>
+    <li>Increased number of workflows per builder per rotation</li>
+    <li>Decreased builder time spent coding a workflow (by 50%)</li>
+</ul></div>
+</article>
+
+
+
+<article class="container mx-auto px-2 mt2 mb4" id="process">
+  <div class="prose mb-4 pb-4">
+    <h5 style="margin-left: -10em;">Process</h5>
+    
+
+    <h4 style="margin-top: -2em;background-color: inherit;border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 20px #FFDF5E;margin-bottom: 2em;">⚠️ Due to the NDA I am under with Amazon, I am unable to reveal full details of my explorations, iterations, and vision work.</h4>
+    
+    
+    <p>However, I can share parts of the internally released MVP experience and general information about my design process.</p><br>
+</div>
+</article><article id="research" class="container mx-auto px-2 mt2 mb4">
+  <div class="prose mb-4 pb-4">
+      <div style="margin-left: -10em;">
+          <h5>Research</h5>
+          
+  </div>
+
+  <h2 style="margin-top: -1.5em;">Putting myself in the shoes of a builder</h2>
+
+  
+
+    <p>To establish an understanding of how a builder codes workflows, I heavily researched the resources available to them in training. I read wikis, followed workshop tutorials, and let a builder walk me through how they coded a workflow. This helped me generate an initial user journey.<br>
+</p>
+     
+
+    <div style="display: flex;flex-wrap: wrap;gap: 1em;margin-bottom: 3em;">
+    
+    <div style="height: fit-content;background-color: inherit;flex: 1 1 calc(33.333% - 1em);min-width: 12em;">
+    <img alt="" src="/uploads/wg_wiki.png" style="min-width: 33.333%;">
+    <h6 style="
+    text-align: center;
+">Wiki</h6>
+    </div>
+<div style="height: fit-content;background-color: inherit;flex: 1 1 calc(33.333% - 1em);min-width: 12em;">
+    <img alt="" src="/uploads/wg_tutorial.png" style="min-width: 33.333%;">
+    <h6 style="
+    text-align: center;
+">Builder Workshop Tutorials</h6>
+    </div><div style="height: fit-content;background-color: inherit;flex: 1 1 calc(33.333% - 1em);min-width: 12em;">
+    <img alt="" src="/uploads/wg_walkthrough.png" style="min-width: 33.333%;">
+    <h6 style="
+    text-align: center;
+">Walkthrough with builder</h6>
+    </div></div>
+
+    
+     
+
+    <h4>Current CX builder user flow</h4>
+    
+
+    <img alt="" src="/uploads/wg_currentjourney.png" style="max-width: 100%;"><h2>Competitive analysis of AI-assisted platforms</h2><p>Additionally, I took inspiration from other AI-assisted coding platforms to see how AI improved developer productivity. I was inspired by:
+
+<br>
+</p><div style="display: flex;flex-wrap: wrap;gap: 1em;margin-bottom: 3em;">
+    
+    <div style="height: fit-content;background-color: inherit;flex: 1 1 calc(33.333% - 1em);min-width: 12em;">
+    <img alt="" src="/uploads/wg_codewhisperer.png" style="min-width: 33.333%;">
+    <h6 style="
+    text-align: center;
+">AWS Code Whisperer’s coding snippet suggestions</h6>
+    </div>
+<div style="height: fit-content;background-color: inherit;flex: 1 1 calc(33.333% - 1em);min-width: 12em;">
+    <img alt="" src="/uploads/wg_githubcopilot.png" style="min-width: 33.333%;">
+    <h6 style="
+    text-align: center;
+">Github Copilot’s conversational AI panel</h6>
+    </div><div style="height: fit-content;background-color: inherit;flex: 1 1 calc(33.333% - 1em);min-width: 12em;">
+    <img alt="" src="/uploads/wg_awssystemsmanager.png" style="min-width: 33.333%;">
+    <h6 style="
+    text-align: center;
+">AWS Systems Manager's visual coding functionality</h6>
+    </div></div><p>My initial research led to the following tenets I established for this project.
+<br>
+</p></div></article>
+
+<div>
+  <div id="tenets" style="
+    background-image: radial-gradient(circle at bottom right, #b2bbc3 0%, #54687D 20%, #203444 100%);
+    background-size: cover;
+    color: white;
+    " class="py-4 mb-4">
+  <article class="container mx-auto px-2 mt2 mb4">
+    <h5 style="color:white;margin-left: -10em;">Tenets</h5>
+    <div style="margin-top: -2em;display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;">
+      <p><strong>Reduce ambiguity.</strong><br>We make the development process clear, guiding the builder through each step, surfacing instructions or inputs, and providing transparency of workflow status</p>
+      
+      <p><strong>Simplify manual processes.</strong><br>We simplify and automate the beginning of this process, giving builders a launch pad to immediately refine details.&nbsp;We are designing for quick starts, small improvements.</p><p><strong>Improve education and efficiency for builders of all levels of expertise.</strong><br>We enable all builders to quickly and accurately deliver workflows, no matter if they're a beginner or a master.</p>
+      
+    </div>
+  </article>
+</div>
+
+  <article id="initialdesign" class="container mx-auto px-2 mt2 mb4">
+    <div class="prose pb-4">
+      <div style="margin-left:-10em;">
+          <h5>Initial</h5>
+          <h5>Explorations</h5>
+      </div>
+      <h2 style="margin-top: -2em;">New user journey</h2><p>
+    I first began designing a North Star journey that covered all stages of the building, refinement, and testing process. In each stage, I made several lo-fi explorations that played around with different layouts for workflow building step information, the code itself, and where AI would be applied.
+    <br><br>
+    At a high level, the MVP journey focused on a simplified flow of generating a workflow from an SOP.
+    
+</p>
+
+<div style="display: flex;flex-wrap: wrap;gap: 1em;margin-bottom: 3em;align-items: center;">
+    
+    <div style="height: fit-content;background-color: inherit;flex: 1 1 calc(20% - 1em);width: fit-content;">
+    <h6 style="border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);text-align: center;">Prepare SOP</h6>
+    
+    </div>
+<p style="flex: 1 1;text-align: center;">→</p>
+<div style="height: fit-content;background-color: inherit;flex: 1 1 calc(20% - 1em);width: fit-content;">
+    <h6 style="border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);text-align: center;">Upload SOP</h6>
+    
+    </div><p style="flex: 1 1;text-align: center;">→</p><div style="height: fit-content;background-color: inherit;flex: 1 1 calc(20% - 1em);width: fit-content;">
+    <h6 style="border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);text-align: center;">Export workflow</h6>
+    
+    </div><p style="flex: 1 1;text-align: center;">→</p><div style="height: fit-content;background-color: inherit;flex: 1 1 calc(20% - 1em);width: fit-content;">
+    <h6 style="border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);text-align: center;">Refine in IDE</h6>
+    
+    </div></div><p>The quickstart in generating an initial workflow draft tackled the initial stages of manual coding frustration in the builder's current journey. This led to my next step in refining the new flow with generative AI design principles. </p><h2>Generative AI UX Framework</h2>
+<p>
+    I used a Gen AI UX framework created by a team member, Principal UX Designer Rad Wendzich, to ensure I would follow AI UX design principles during the stages of user behavior where they interact with AI. In particular I paid attention to Gen AI branded ingress points, refinement options, step and analysis details, transparency of the model, history, and model tuning.
+</p>
+    <img src="/uploads/wg_genaiuxframework.png" alt=""></div>
+  </article><article class="container mx-auto px-2 mt-2 mb-4" id="validation">
+
+
+<div style="margin-left: -10em;">
+        <h5>Validation</h5>   
+</div>
+
+<h2 style="margin-top: -1.2em;">Partnering with UXR in 2 usability studies</h2>
+<p class="mb-3">
+    To uncover ambiguities and refine my designs, I partnered with UX Researcher Carlos Cardoso, who led 2 usability studies with 13 builders for 45-60 minute interviews each for the North Star UX design of the Workflow Generator.
+</p>
+
+<div style="display: flex;flex-wrap: wrap;gap: 1em;margin-bottom: 3em;align-items: center;">
+    
+    
+<div style="height: fit-content;background-color: inherit;flex: 1 1 calc(25% - 1em);width: fit-content;border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);text-align: center;">
+    <h6>Study 1</h6>
+    
+    <p><small>7 participants</small></p><p><small>9 research insights</small></p><p><small>19 design recs</small></p></div><p style="flex: 1 1;text-align: center;">→</p>
+<div style="height: fit-content;background-color: inherit;flex: 1 1 calc(25% - 1em);width: fit-content;border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);text-align: center;">
+    <h6>Iterate</h6>
+    
+    <p><small>Fixed inaccurate steps</small></p><p><small>Improved input guidance</small></p><p><small>Explored visual coding</small></p></div><p style="flex: 1 1;text-align: center;">→</p><div style="height: fit-content;background-color: inherit;flex: 1 1 calc(25% - 1em);width: fit-content;border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);text-align: center;">
+    <h6>Study 2</h6>
+    
+    <p><small>6 participants</small></p><p><small>10 research insights</small></p><p><small>64 design recs</small></p></div><p style="flex: 1 1;text-align: center;">→</p><div style="height: fit-content;background-color: inherit;flex: 1 1 calc(10% - 1em);width: fit-content;">
+    <h6 style="border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);text-align: center;">Final North Star and MVP design</h6>
+    
+    </div></div>
+    <h4>Overall, all believed the new UX would significantly improve the coding process</h4><p style="
+    margin-bottom: 2em;
+">
+        The UI was laid out clearly and provided a one-stop-shop for their building needs. Given that the AI conversion would provide useful output, it would certainly save time in building. Novice builders would benefit most from the Workflow Generator.
+    </p><h4>Certain steps needed to be added or removed for an accurate building process</h4><p>
+    Builders clarified ambiguities over workflow steps and the inputs needed in them. They also helped iron out details such as the number of JSON files in a workflow package. Their input was essential to ensuring accuracy.
+</p>
+</article>
+
+  
+  
+
+  
+
+
+
+
+  
+  
+
+<article class="container mx-auto px-2 mt-2 mb-4" id="final">
+
+
+<div style="margin-left: -10em;">
+        <h5>Final MVP</h5>   
+</div>
+
+<h2 style="margin-top: -1.2em;">Working backwards from North Star to MVP</h2>
+<p>
+    After incorporating feedback from usability studies, I finalized North Star designs first, then worked backwards with my PM to prioritize what can be accomplished at the MVP stage.
+</p>
+    <p style="
+    margin-bottom: 3em;
+">While I cannot show the iterations leading up to the North Star CX in this case study, here are MVP mocks that have internally launched, ultimately prioritizing:
+</p>
+<h3>Informing the user on process and prerequisites
+</h3><img alt="" src="/uploads/wg_mvp1.png" style="max-width: 100%;"><h3>Prioritizing education on good inputs for the AI conversion
+</h3><img alt="" src="/uploads/wg_mvp2.png" style="max-width: 100%;"><h3>Emphasis on the converted workflow being a first draft to be refined
+</h3><img alt="" src="/uploads/wg_mvp3.png" style="max-width: 100%;"></article>
+
+
+
+      
+     
+
+
+<article class="container mx-auto px-2 mt2 mb4" id="handoff">
+  <div class="prose mb-4 pb-4">
+    <h5 style="margin-left: -10em;">Handoff</h5>
+    <h2 style="margin-top: -1.3em;">Fit and finish ensured MVP tackled low-hanging fruit UX to improve the experience</h2>
+
+    <p>After handing off the mockups to the engineering team, I reviewed the implemented gamma environment to find discrepancies or opportunities to improve UX and tackle technical constraints for the MVP. Through this fit and finish process, I was able to ensure the prioritized inclusion of low-hanging fruit, such as:</p><ul>
+        <li>Adding links on SOP formatting guidance</li>
+        <li>Providing a max ETA notice on conversion time during the loading screen to ensure users of accurate progress</li>
+        <li>Warn users of lost generated workflow if returning to previous step to modify workflow</li>
+    </ul>
+    
+    
+    <br>
+</div>
+</article>
+
+<article class="container mx-auto px-2 mt2 mb4" id="results">
+  <div class="prose mb-4 pb-4">
+    <h5 style="margin-left: -10em;">Results</h5>
+    
+
+    <h2 style="margin-top: -1.3em;">Positive feedback from user acceptance testing</h2><p>Although I switched teams right after the MVP launched, I obtained user feedback on my UX and the product in a gamma environment with user acceptance testing. </p>
+    <p>After trying out the Workflow Generator in gamma and seeing it convert SOPs in real-time, 12 users viewed the console as a promising AI-powered tool that saves builders time. They found it very helpful for generating initial workflow boilerplates but noted room for improvement in AI accuracy and visual representation.</p><p style="height: fit-content;background-color: inherit;border-radius: 12px;padding: 14px 28px;box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">On average, users rated the ease of use of the Workflow Generator as <strong>4.42</strong> out of 5 (on a scale of 1-5, 1= not at all helpful, 5 = extremely helpful).</p>
+    
+    <br>
+</div>
+</article><div id="feedback" style="
+    color: white;
+    background-image: radial-gradient(circle at bottom right, #b2bbc3 0%, #54687D 20%, #203444 100%);
+    background-size: cover;
+    " class="py-4 mb-4">
+  <article class="container mx-auto px-2 mt2 mb4">
+    <h5 style="color:white; margin-left: -10em;">Feedback</h5>
+    <div style="margin-top: -2em;display: grid;grid-template-columns: repeat(auto-fit);width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;">
+      
+      <div class="mb-2">
+            <p>This has a lot of value. Let’s say when you’re new to this, this helps immensely generating a workflow document given the proper input. If it’s syntactically correct, that’s important. The workflow will save us this trouble.</p>
+              <h6>Cloud Support Engineer participant in UAT</h6>
+          </div>
+      
+      
+    <div class="mb-2">
+            <p>This is an amazing start. I have tried to prompt our own Bedrock assistant to generate this assistant. And they’re not well-trained to create a workflow. The fact that this has come to play and be honed in to generate workflows, I appreciate that. You don’t have to have a lot of tribal knowledge from people who have designed workflows before. This is democratizing the workflow creation. I anticipate and look forward to improvements to this version.</p>
+              <h6>Cloud Support Engineer participant in UAT</h6>
+          </div><div class="mb-2">
+            <p>It’s handy enough if I’m just uploading what I need, it’s giving me back more than what I expected it to do. I know how much time this would save getting this initial step out.</p>
+              <h6>Cloud Support Engineer participant in UAT</h6>
+          </div></div>
+  </article>
+</div>
+
+  <article class="container mx-auto px-2 mt2 mb4">
+    <div class="prose pb-4">
+      <div id="future" style="margin-left: -10em;"><h5>Future</h5><h5>Directions</h5></div>
+      <p style="margin-top: -3.8em;">This was a highly technical project that required deep knowledge of the workflow building process in order to accurately capture its steps. I realized I could only understand the user and how to improve their pain points through “dogfooding”, learning how to code workflows as if I was a builder myself, and heavily relying on usability studies to validate specific ambiguities. On top of that, I also learned how to incorporate principles of AI UX design and think beyond what I typically consider in non-AI projects. If there’s potential for AI to improve a process, thinking about it early on while mapping out user flows and making low fidelity designs is important to ensure it seamlessly blends into the whole journey and provides genuine value.</p>
+      <p>In the future, the next designer may consider:</p>
+      <ul>
+          <li>Continue working backwards from North Star and prioritize the next round of implementation of the Workflow Generator</li>
+          <li>Consider what other parts of the coding process could be automated with AI</li>
+          
+          
+      </ul>
+      <br>
+    </div>
+  </article>
+
+<article class="container mx-auto px-2 mt2 mb4">
+  <h5 style="margin-left: -10em;">Let's Go</h5>
+  <div style="margin-top: -1.8em;">
+    Back to <a href="/#portfolio">all of my work</a>, or check out:
+    <br>
+    <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));width: 100%;grid-column-gap: 2em;">
+      <h3><a href="/aws2020">Amazon Internship</a></h3><h3><a href="/thesis">Yale Thesis</a></h3>
+      
+      
+    
+    </div>
+  </div>
+</article>
