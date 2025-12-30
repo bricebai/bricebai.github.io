@@ -455,8 +455,8 @@
     display: block; /* Show desktop element by default */
 }
 
-/* Media query for screens up to a maximum width of 429px */
-@media screen and (max-width: 429px) {
+/* Media query for screens up to a maximum width of 430px */
+@media screen and (max-width: 430px) {
     .desktop-element {
         display: none; /* Hide the desktop element */
     }
