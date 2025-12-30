@@ -6,7 +6,7 @@ layout: default
   <img style="max-width: 100%" src="/uploads/thesis_banner.png" alt="">
 </div>
 
-<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto;">SHOW / HIDE</a>
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto; display: none;">SHOW / HIDE</a>
 
 <div id="menu" style="opacity: 1; display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Context</a>
@@ -19,8 +19,8 @@ layout: default
   <a href="#future" class="section-links future w-button" style="color: rgb(179, 180, 186);">Future Directions</a>
 </div>
 
-<article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-2 py-4">
+<article class="container mx-auto px-2 py-4">
+  <div class="prose">
     <h1 id="intro">Concrete Wheelchair Interface in VR</h1>
     <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;">
       <div><h6>Duration</h6>Sept 2021 – May 2022</div>
@@ -37,12 +37,12 @@ Alara Degirmenci
 </div>
     </div>
     <br><br>
-    <p>People’s perceptions of and ability to interact with their environment, whether physical or virtual, are not universally the same. Their bodies grant them varying experiences, but how can someone with any range of mobility achieve different or new experiences? My senior thesis under the Computing and the Arts major was an exploration of the built environment in virtual reality (VR) and the way that people navigate through it. I joined the Center for Collaborative Arts and Media’s (CCAM) Wheelchair Interface Project in order to investigate how wheelchair-bound users in particular may navigate through virtual worlds and whether their behavior calls for a new interactive interface that will improve user experiences not only for them, but for all VR users.</p>
+    <p style="margin-bottom:3em;">People’s perceptions of and ability to interact with their environment, whether physical or virtual, are not universally the same. Their bodies grant them varying experiences, but how can someone with any range of mobility achieve different or new experiences? My senior thesis under the Computing and the Arts major was an exploration of the built environment in virtual reality (VR) and the way that people navigate through it. I joined the Center for Collaborative Arts and Media’s (CCAM) Wheelchair Interface Project in order to investigate how wheelchair-bound users in particular may navigate through virtual worlds and whether their behavior calls for a new interactive interface that will improve user experiences not only for them, but for all VR users.</p>
+    <div class="case-heading" id="problem">
+      <h5 class="case-subhead">The Problem</h5>
+      <h3>How can we help users of ranging abilities intuitively navigate virtual environments?</h3>
+    </div>
 
-    <div style="margin-left: -10em;margin-top: 2em;" id="problem">
-        <h5>The Problem</h5>
-    </div>    
-    <h3 style="margin-top: -1.5em;">How can we help users of ranging abilities intuitively navigate virtual environments?</h3>
   </div>
 </article>
     
@@ -52,23 +52,23 @@ Alara Degirmenci
     background-image: url(uploads/thesis_overlay.png), linear-gradient(rgba(133, 192, 222, 1), rgba(183, 193, 90, 1));
     background-size: cover;
     ">
-  <article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-4 py-4">
-    <h5 style="color:white; margin-left: -10em;">The Solution</h5>
-    <h3 style="margin-top: -1.8em; color:white;">Create an interface and design system inspired by how wheelchair users respond to the world that promotes empathy-building for people with disabilities and can improve current common VR interface design patterns as well.</h3>
-  <a href="#decisions" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a></div></article>
+  <article class="container mx-auto px-2 mb-4 py-4">
+  <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead" style="color:white;" "="">The Solution</h5>
+      <h3 style="color:white;">Create an interface and design system inspired by how wheelchair users respond to the world that promotes empathy-building for people with disabilities and can improve current common VR interface design patterns as well.</h3>
+    </div>
+    
+<a href="#final" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a></div></article>
 </div>
 
-<article id="research" class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-4 pb-4">
-      <div style="margin-left: -10em;">
-          <h5>Observations</h5>
-          <h5>+ Research</h5>
-  </div>
+<article id="research" class="container mx-auto px-2 mb-4">
+  <div class="prose">
 
-  <h2 style="margin-top: -2em;">We must rethink how virtual worlds can be experienced, especially for users that may not be given the attention to accessibility that they need. </h2>
-
-  
+    <div class="case-heading">
+      <h5 class="case-subhead">Research</h5>
+      <h2>We must rethink how virtual worlds can be experienced, especially for users that may not be given the attention to accessibility that they need.</h2>
+    </div>  
 
     <p>In particular we are designing for:
     <br>
@@ -96,25 +96,28 @@ Alara Degirmenci
     background-image: url(uploads/thesis_overlay.png), linear-gradient(rgba(133, 192, 222, 1), rgba(183, 193, 90, 1));
     background-size: cover;
     " class="py-4 mb-4">
-  <article class="container mx-auto px-2 mt2 mb4">
-    <h5 style="color:white; margin-left: -10em;">Goals</h5>
-    <div style="margin-top: -2em;display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;">
+  <article class="container mx-auto px-2">
+    <div class="case-heading">
+      <h5 class="case-subhead" style="color:white;" "="">Goals</h5>
+      <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;margin-top: 1em;">
       <p>Improve current common VR interface design patterns for ALL</p>
       <p>Design a system that allows anyone to create experiences with the interface</p>
       <p>Create a more intuitive and fun application of physical therapy</p>
       <p>Promote empathy-building for people with disabilities</p>
     </div>
-  </article>
+   
+  </div>
+
+</article>
 </div>
 
   <article class="container mx-auto px-2 mt-2 mb-4" id="decisions">
 
+    <div class="case-heading">
+      <h5 class="case-subhead">Decision 1</h5>
+      <h2>Designing a modular block system</h2>
+    </div>
 
-<div style="margin-left: -10em;">
-        <h5>Decision 1</h5>   
-</div>
-
-<h2 style="margin-top: -1.2em;">Designing a modular block system</h2>
     <div class="mb-4" style="display: flex; flex-wrap: wrap;">
     
     <div style="margin-left: 1em; margin-right: 1em;">
@@ -137,9 +140,12 @@ Alara Degirmenci
 
    
   </div>
-<div style="margin-left: -10em;">
-        <h5>Decision 2</h5>   
-</div><h2 style="margin-top: -1.2em;">Rapid prototyping in Unity</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
+
+    <div class="case-heading">
+      <h5 class="case-subhead">Decision 2</h5>
+      <h2>Rapid prototyping in Unity</h2>
+    </div>
+    <div class="mb-4" style="display: flex; flex-wrap: wrap;">
     <div style="margin-left: 1em; margin-right: 1em;">
         <img alt="" src="/uploads/thesis_decision2.png" style="max-width: 20em;">
          <p style="font-family: basier_circle_monoregular">GOALS ADDRESSED:</p>
@@ -155,9 +161,14 @@ Alara Degirmenci
     <p style="max-width: 25em;margin-left: 1em;">The next step was to create the playground setting with the modular units in action. This was done in Unity utilizing the Verb Collective to manage the interactions with the environmental objects. The Verb Collective, originally made by Justin Berry, is an example of such an asset. It is a rapid prototyping tool that is easily customizable, designed for collaboration, and allows non-experts and experts alike to quickly develop interactions based on a series of different verbs that trigger according to different states. Each verb is a script that may be attached to objects in Unity and can trigger other verbs or objects. <br><br>
 Although no coding is necessary for people to use the Verb Collective, developers can create custom verbs that fit their project and also add to the collection. My addition to the Verb Collective was through four scripts—to pulse, to recolor, to change gravitate, and to gradient color. Each script had the purpose of providing small, delightful feedback to the interactions that the user would take in the environment.
 </p>
-  </div><div style="margin-left: -10em;">
-        <h5>Decision 3</h5>   
-</div><h2 style="margin-top: -1.2em;">A whimsical, functional virtual world</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
+  </div>
+    
+
+    <div class="case-heading">
+      <h5 class="case-subhead">Decision 3</h5>
+      <h2>A whimsical, functional virtual world</h2>
+    </div>
+    <div class="mb-4" style="display: flex; flex-wrap: wrap;">
     <div style="margin-left: 1em; margin-right: 1em;">
         <img style="max-width: 20em;margin-bottom: 1em;" alt="" src="/uploads/thesis_decision3.png">
          <p style="font-family: basier_circle_monoregular">GOALS ADDRESSED:</p>
@@ -187,9 +198,14 @@ Examples of different stations that assessed the user’s mobility and coordinat
     
    
 </div>
-  </div><div style="margin-left: -10em;">
-        <h5>Decision 4</h5>   
-</div><h2 style="margin-top: -1.2em;">Connecting the wheelchair with minimal guidance</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
+  </div>
+
+    <div class="case-heading">
+      <h5 class="case-subhead">Decision 4</h5>
+      <h2>Connecting the wheelchair with minimal guidance</h2>
+    </div>
+    
+    <div class="mb-4" style="display: flex; flex-wrap: wrap;">
     <div style="margin-left: 1em; margin-right: 1em;">
         <img style="max-width: 20em;margin-bottom: 1em;" alt="" src="/uploads/thesis_decision4.png">
          <p style="font-family: basier_circle_monoregular">GOALS ADDRESSED:</p>
@@ -209,13 +225,13 @@ Moving was simple and intuitive – all anyone had to do was roll the wheels of 
 </p>
   </div></article>
 
-  <article id="process" class="container mx-auto px-2 mt2 mb4">
-    <div class="prose pb-4">
-      <div style="margin-left:-10em;">
-          <h5>Process</h5>
-          <h5>+ Style</h5>
-      </div>
-      <h2 style="margin-top: -2em;">Design System</h2><p><img src="/uploads/thesis_designsystem.png" alt=""></p><h2>Activites and Final World in VR</h2>
+  <article id="process" class="container mx-auto px-2 ">
+    <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead">Process + style</h5>
+      <h2>Design System</h2>
+    </div>
+      <p><img src="/uploads/thesis_designsystem.png" alt=""></p><h2>Activites and Final World in VR</h2>
     </div>
   </article>
   
@@ -238,10 +254,12 @@ Moving was simple and intuitive – all anyone had to do was roll the wheels of 
      
 
 
-<article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-4 pb-4">
-    <h5 style="margin-left: -10em;">Results</h5>
-    <h2 style="margin-top: -1.3em;">Wonderment, intuitive navigation, and newfound empathy</h2>
+<article class="container mx-auto px-2 mb-4">
+  <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead">Results</h5>
+      <h2>Wonderment, intuitive navigation, and newfound empathy</h2>
+    </div>
 
     <p>Guests at the exhibition expressed wonderment and joy through my project. Most notably, they experienced:</p><ul>
         <li>Very joyful, child-like wonder reawakened in exploring</li>
@@ -260,22 +278,25 @@ Moving was simple and intuitive – all anyone had to do was roll the wheels of 
     background-image: url(uploads/thesis_overlay.png), linear-gradient(rgba(133, 192, 222, 1), rgba(183, 193, 90, 1));
     background-size: cover;
     " class="py-4 mb-4">
-  <article class="container mx-auto px-2 mt2 mb4">
-    <h5 style="color:white; margin-left: -10em;">Key Learnings</h5>
-    <div style="margin-top: -2em;display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;">
+  <article class="container mx-auto px-2">
+    <div class="case-heading">
+      <h5 class="case-subhead" style="color:white;" "="">Key Learnings</h5>
+      <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;margin-top: 1em;">
       <p>We are world building in our designs, literally and figuratively</p>
       <p>Systems must be simple and scalable, like building blocks</p>
       <p>An experience is not limited to the screen</p>
       <p>Disability does not imply inability</p>
-    </div>
-  </article>
+    </div>   
+  </div>
+</article>
 </div>
 
-  <article class="container mx-auto px-2 mt2 mb4">
-    <div class="prose pb-4">
-      <div id="future" style="margin-left: -10em;"><h5>Future</h5><h5>Directions</h5></div>
-      <p style="margin-top: -3.8em;">
-      This project has led me to create an adaptable, dynamic foundation for people to easily and quickly prototype environments in VR for creative expression or for therapeutic purposes. The design system helps create a cohesive, playful environment, but also follows real-world conventions in regards to ADA-accessible building code which helps builders make worlds that can match what can be found in the physical environment as well. As a result, I set up a framework that has room for growth but is already capable of being applied to many different use cases.</p>
+  <article class="container mx-auto px-2 mb-4" id="future">
+    <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead">Future</h5>
+      <div style="margin-top:1em;">
+        <p>This project has led me to create an adaptable, dynamic foundation for people to easily and quickly prototype environments in VR for creative expression or for therapeutic purposes. The design system helps create a cohesive, playful environment, but also follows real-world conventions in regards to ADA-accessible building code which helps builders make worlds that can match what can be found in the physical environment as well. As a result, I set up a framework that has room for growth but is already capable of being applied to many different use cases.</p>
       <p>In the future, we may consider:</p>
       <ul>
           <li>Introducing gestural functions</li>
@@ -283,18 +304,22 @@ Moving was simple and intuitive – all anyone had to do was roll the wheels of 
           <li>Providing a formal guide for educators and therapists</li>
           <li>(far future) Training for athletes, eSports, Paralympics, etc.</li>
       </ul>
-      <br>
     </div>
+    </div>
+    
+</div>
   </article>
 
-<article class="container mx-auto px-2 mt2 mb4">
-  <h5 style="margin-left: -10em;">Let's Go</h5>
-  <div style="margin-top: -1.8em;">
-    Back to <a href="/#portfolio">all of my work</a>, or check out:
-    <br>
-    <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));width: 100%;grid-column-gap: 2em;">
-      <h3><a href="/awsworkflowgenerator">AWS Workflow Generator</a></h3>
+<article class="container mx-auto px-2 mb-4">
+    <div class="case-heading">
+      <h5 class="case-subhead">Let's Go</h5>
+        <div style="width: 100%;margin-top: 1em;">
+          Back to <a href="/#portfolio">all of my work</a>, or check out:
+            <br>
+            <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));width: 100%;grid-column-gap: 2em;">
+              <h3><a href="/awsworkflowgenerator">AWS Workflow Generator</a></h3>
       <h3><a href="/aws2020">Amazon Internship</a></h3>
-    </div>
-  </div>
+            </div>
+          </div>
+        </div>
 </article>
