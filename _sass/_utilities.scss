@@ -471,3 +471,21 @@
   max-width: 300px;
   width: 100%;
 }
+
+.mobile-maintitle {
+    display:none;
+}
+
+.desktop-maintitle {
+    display: block;
+}
+
+@media screen and (max-width: 490px) {
+    .desktop-maintitle {
+        display:none;
+    }
+
+    .mobile-maintitle {
+        display: block;
+    }
+}
