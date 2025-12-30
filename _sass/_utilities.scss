@@ -91,8 +91,9 @@
 
 .one {
   padding: 4em 2em;
-  margin-left: 2em;
-  width: 75%;
+  margin-left: 1em;
+  margin-right: 1em;
+  max-width: 100%;
 }
 
 .two {
@@ -443,4 +444,30 @@
     border-radius: 10px 10px 0 0;
   }
 
+}
+
+/* Default styles for large screens. This is for the upper left logo link */
+.mobile-element {
+    display: none; /* Hide mobile element by default */
+}
+
+.desktop-element {
+    display: block; /* Show desktop element by default */
+}
+
+/* Media query for screens up to a maximum width of 429px */
+@media screen and (max-width: 429px) {
+    .desktop-element {
+        display: none; /* Hide the desktop element */
+    }
+
+    .mobile-element {
+        display: block; /* Show the mobile element */
+    }
+}
+
+.casestudylogo {
+  resize: auto;
+  max-width: 300px;
+  width: 100%;
 }
