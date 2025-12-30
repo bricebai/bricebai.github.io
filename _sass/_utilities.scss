@@ -514,6 +514,35 @@
     text-align: right;
 }
 
+.case-subhead {
+  margin-left: 0;
+}
+
+@media (min-width: 1150px) {
+  .case-subhead {
+    margin-left: clamp(-10rem, -8vw, -14rem);
+    flex: 0 0 6.5rem;
+
+  }
+}
+
+.case-title {
+  /* line-height: 1.1; */
+}
+
+.case-heading {
+  display: block;
+}
+
+@media (min-width: 1150px) {
+  .case-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 3.5rem;
+  }
+}
+
+
 /* For debugging overflow - red outline around everything * {
   outline: 1px solid rgba(255, 0, 0, 0.1);
 } */
