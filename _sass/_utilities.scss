@@ -501,3 +501,15 @@
         display: block;
     }
 }
+
+.header-nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.header-nav li {
+    list-style: none;
+    text-align: right;
+}
