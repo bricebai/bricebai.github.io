@@ -6,7 +6,7 @@ layout: default
   <img style="max-width: 100%" src="/uploads/adobe_banner.png" alt="">
 </div>
 
-<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto; display: none;">SHOW / HIDE</a>
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto;">SHOW / HIDE</a>
 
 <div id="menu" style="opacity: 1; display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Context</a>
@@ -19,8 +19,8 @@ layout: default
   <a href="#future" class="section-links future w-button" style="color: rgb(179, 180, 186);">Future Directions</a>
 </div>
 
-<article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-2 py-4">
+<article class="container mx-auto px-2 py-4">
+  <div class="prose">
     <h1 id="intro">Grow Together: Adobe + Nickelodeon Creative Jam Design Challenge</h1>
     <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;">
       <div><h6>Duration</h6>April 2020<br>3 days</div>
@@ -31,10 +31,12 @@ layout: default
     <br><br>
     <p>A few weeks after being sent home to quarantine, my partner and I formed team Rice &amp; Rence to design Grow Together—a tablet app for the 3-day, US-college-wide remote Adobe + Nickelodeon Creative Jam. This would be an app experience for kids between 11 to 13 years old (grades 6 to 8) that also used some element of the Nickelodeon brand and incorporated either auto-animate or voice command features.</p>
 
-    <p>This was also our first time trying a design jam. :)</p><div style="margin-left: -10em;margin-top: 2em;" id="problem">
-        <h5>The Problem</h5>
-    </div>    
-    <h3 style="text-align: center; margin-top: -1.5em;">Help kids feel safe, informed, and connected in the spirit of #KidsTogether. Design an Android tablet or Apple iPad app that provides a safe way for kids to communicate, share, and connect with their friends and family. </h3>
+    <p>This was also our first time trying a design jam. :)</p>
+
+    <br><div class="case-heading" id="problem">
+      <h5 class="case-subhead">The Problem</h5>
+      <h3>Help kids feel safe, informed, and connected in the spirit of #KidsTogether. Design an Android tablet or Apple iPad app that provides a safe way for kids to communicate, share, and connect with their friends and family.</h3>
+    </div>
   </div>
 </article>
     
@@ -44,23 +46,22 @@ layout: default
     background-image: url(uploads/adobe_overlay.png), linear-gradient(rgba(240, 100, 5, 1), rgba(84, 26, 128, 1));
     background-size: cover;
     ">
-  <article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-4 py-4">
-    <h5 style="color:white; margin-left: -10em;">The Solution</h5>
-    <h3 style="margin-top: -1.8em; color:white;">Give kids and parents the opportunity to cultivate their own virtual world, learn more about COVID-19 through educational videos, do fun indoor activities with their favorite Nick characters, and ultimately stay connected with their community through expressing themselves on this platform.</h3>
+  <article class="container mx-auto px-2 mb-4 py-4">
+  <div class="prose">
+    <div class="case-heading" id="solution">
+      <h5 class="case-subhead" style="color:white;">The Solution</h5>
+      <h3 style="color:white;">Give kids and parents the opportunity to cultivate their own virtual world, learn more about COVID-19 through educational videos, do fun indoor activities with their favorite Nick characters, and ultimately stay connected with their community through expressing themselves on this platform.</h3>
+    </div>
+
   <a href="#decisions" style="text-decoration-color: white;"><h6 style="color:white;text-align: center;">Jump to final design decisions ↓</h6></a></div></article>
 </div>
 
-<article id="research" class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-4 pb-4">
-      <div style="margin-left: -10em;">
-          <h5>Observations</h5>
-          <h5>+ Research</h5>
-  </div>
-
-  <h2 style="margin-top: -2em;">Kids learn well in the process of creation</h2>
-
-  
+<article id="research" class="container mx-auto px-2 mb-4">
+  <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead">Research</h5>
+      <h2>Kids learn well in the process of creation</h2>
+    </div>
 
     <p>Integrating education with recreation is essential to creating an effective, beneficial kids app. This is why we ultimately decided on allowing kids to grow their own garden by consuming different educational content and fun activities.</p>
 
@@ -83,52 +84,65 @@ layout: default
     background-image: url(uploads/adobe_overlay.png), linear-gradient(rgba(240, 100, 5, 1), rgba(84, 26, 128, 1));
     background-size: cover;
     " class="py-4 mb-4">
-  <article class="container mx-auto px-2 mt2 mb4">
-    <h5 style="color:white; margin-left: -10em;">Goals</h5>
-    <div style="margin-top: -2em;display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;">
+  <article class="container mx-auto px-2">
+    <div class="case-heading">
+      <h5 class="case-subhead" style="color:white;">Goals</h5>
+    <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;margin-top: 1em;">
       <p>Help kids stay connected to their classmates, friends, and family</p>
       <p>Let kids express themselves privately or within a secure community</p>
       <p>Give kids the ability to share photos, videos, creative projects, and more</p>
       <p>Encourage kids through a game to learn about safety</p>
-    <p>Educate and empower kids on best practices and good habits to keep the household safe</p></div>
-  </article>
+    <p>Educate and empower kids on best practices and good habits to keep the household safe</p>
+    </div>
+    </div>
+</article>
 </div>
 
   <article class="container mx-auto px-2 mt-2 mb-4" id="decisions">
 
-
-<div style="margin-left: -10em;">
-        <h5>Decision 1</h5>   
-</div>
-
-<h2 style="margin-top: -1.2em;">Recreation mixed with education in a variety of different activities and content</h2>
+    <div class="case-heading">
+      <h5 class="case-subhead">Decision 1</h5>
+      <h2>Recreation mixed with education in a variety of different activities and content</h2>
+    </div>
     <div class="mb-4" style="display: flex; flex-wrap: wrap;">
     <img alt="" src="/uploads/adobe_decision1.gif" style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">
     <p style="max-width: 25em;margin-left: 1em;">On the explore page, kids are given different indoor activities with their favorite Nick characters, take quizzes about the Nick universe, and watch videos or read articles about the pandemic. Kids earn points through consuming these activities and content. By providing a wide variety of fun and educational content, kids have many options to stay engrossed in the app and are given the challenge to gain as many points as possible for rewards.
     </p>
   </div>
-<div style="margin-left: -10em;">
-        <h5>Decision 2</h5>   
-</div><h2 style="margin-top: -1.2em;">A carousel at the top, revealing friends’ activities</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
+
+    <div class="case-heading">
+      <h5 class="case-subhead">Decision 2</h5>
+      <h2>A carousel at the top, revealing friends’ activities</h2>
+    </div>
+    <div class="mb-4" style="display: flex; flex-wrap: wrap;">
     <img alt="" src="/uploads/adobe_decision2.gif" style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">
     <p style="max-width: 25em;margin-left: 1em;">At the top of the explore page, a carousel of what activities friends have logged appears in order to encourage the user to check out what type of activities others are doing and to do more activities on their own end. Seeing friends’ logs, and subsequently their gardens, may encourage competition among each other and thus more activities being completed.</p>
-  </div><div style="margin-left: -10em;">
-        <h5>Decision 3</h5>   
-</div><h2 style="margin-top: -1.2em;">In-app messaging to share photos, videos, and activities within safe community</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
+  </div>
+    
+    <div class="case-heading">
+      <h5 class="case-subhead">Decision 3</h5>
+      <h2>In-app messaging to share photos, videos, and activities within safe community</h2>
+    </div>
+    <div class="mb-4" style="display: flex; flex-wrap: wrap;">
     <img alt="" src="/uploads/adobe_decision3.gif" style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">
     <p style="max-width: 25em;margin-left: 1em;">Activity and learning cards can be easily shared with friends and family. Kids are given the opportunity to express themselves within their community.</p>
-  </div><div style="margin-left: -10em;">
-        <h5>Decision 4</h5>   
-</div><h2 style="margin-top: -1.2em;">Parental controls for kids and letting them donate to Covid relief charities</h2><div class="mb-4" style="display: flex; flex-wrap: wrap;">
+  </div>
+    
+    <div class="case-heading">
+      <h5 class="case-subhead">Decision 4</h5>
+      <h2>Parental controls for kids and letting them donate to Covid relief charities</h2>
+    </div>
+    <div class="mb-4" style="display: flex; flex-wrap: wrap;">
     <img alt="" src="/uploads/adobe_decision4.gif" style="max-width: 20em;margin-bottom: 1em;margin-right: 1em;margin-left: 1em;">
     <p style="max-width: 25em;margin-left: 1em;">Parents can suggest different activities or learning material about Covid for their kids. They’re able to help kids grow their gardens by approving their activities while being involved in seeing what they’re doing and learning. Parents are also given the opportunity to view local charities they can donate to for Covid relief.</p>
-  </div></article><article id="process" class="container mx-auto px-2 mt2 mb4">
-    <div class="prose mb-4 pb-4">
-      <div style="margin-left:-10em;">
-          <h5>Process</h5>
-          <h5>+ Style</h5>
-      </div>
-      <h2 style="margin-top: -2em;">Sketches</h2><p><img src="/uploads/adobe_sketches.png" alt=""></p><h2>Lo-fi Wireframes</h2><p><img src="/uploads/adobe_lofi.png" alt=""></p><p><img src="/uploads/adobe_colortype.png" alt=""></p>
+  </div>
+</article><article id="process" class="container mx-auto px-2 mb-4">
+    <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead">Process + Style</h5>
+      <h2>Sketches</h2>
+    </div>
+     <p><img src="/uploads/adobe_sketches.png" alt=""></p><h2>Lo-fi Wireframes</h2><p><img src="/uploads/adobe_lofi.png" alt=""></p><p><img src="/uploads/adobe_colortype.png" alt=""></p>
     </div>
   </article>
   
@@ -175,10 +189,12 @@ layout: default
      
 
 
-<article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-4 pb-4">
-    <h5 style="margin-left: -10em;">Results</h5>
-    <h2 style="margin-top: -1.3em;">A top ten design in the competition</h2>
+<article class="container mx-auto px-2 mb-4">
+  <div class="prose mb-4">
+    <div class="case-heading">
+      <h5 class="case-subhead">Results</h5>
+      <h2>A top ten design in the competition</h2>
+    </div>
 
     <p>I presented our final prototype in a 3-minute presentation live to judges from Nick and Adobe. <strong>Our design won 6th place out of 145 teams.</strong></p>
     <br>
