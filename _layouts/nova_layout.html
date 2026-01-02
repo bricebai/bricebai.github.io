@@ -5,18 +5,19 @@ layout: default
   <img style="max-width: 100%" src="/uploads/nova_banner.png" alt="">
 </div>
 
-{% include toggle.html %}
-<div id="menu" style="opacity: 1;display: none;" class="section-nav w-clearfix">
+<a id="toggle" href="javascript:showhide('menu')" class="section-nav w-button w--current" style="color: black; font-weight: bold; position: fixed; top: 5em; text-align: right; width: auto; display: none;">SHOW / HIDE</a>
+
+<div id="menu" style="opacity: 1; display: none;" class="section-nav w-clearfix">
   <a href="#intro" class="section-links intro w-button w--current" style="color: rgb(179, 180, 186);">Background &amp; Context</a>
-  <a href="#solution" class="section-links solution w-button" style="color: rgb(179, 180, 186);">Proposed Solution</a>
+  <a href="#goal" class="section-links solution w-button" style="color: rgb(179, 180, 186);">The Goal</a>
   <a href="#research" class="section-links research w-button" style="color: rgb(179, 180, 186);">Observations &amp; Research</a>
   <a href="#features" class="section-links design w-button" style="color: rgb(179, 180, 186);">Game Features</a>
   <a href="#final" class="section-links future w-button" style="color: rgb(179, 180, 186);">Final Product</a>
   <a href="#results" class="section-links results w-button" style="color: rgb(179, 180, 186);">Results &amp; Reflection</a>
 </div>
 
-<article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-2 py-4">
+<article class="container mx-auto px-2 py-4">
+  <div class="prose">
     <h1 id="intro" style="margin-bottom: 0em;">Nova: Synthesis Creaturum</h1>
 
 <h1 style="margin-top: 0em;">Visual Novel Game Development</h1>
@@ -47,21 +48,26 @@ layout: default
       
       <p>As a personal fan of visual novels, I struggled with finding more that were available in English. There was definitely a growing demand—I saw more and more Japanese titles fan-translated into English in my personal search, but I still felt unsatisfied with the present titles available, especially for adolescent players.</p></div></article>
 
-    <div id="solution" style="background-color: #B3C890;
+    <div id="goal" style="background-color: #B3C890;
                               background: linear-gradient(45deg, #B3C890, #82D0D7);">
-      <article class="container mx-auto px-2 mt2 mb4">
-        <div class="prose mb-2 py-4">
+      <article class="container mx-auto px-2 py-4">
+        <div class="prose">
 
-          <h5 style="margin-left: -10em;">The Solution</h5>
-          <h3 style="margin-top: -1.8em;">Make my own English visual novel that is more accessible for a Western audience.</h3>
+    <div class="case-heading">
+      <h5 class="case-subhead">The Goal</h5>
+      <h3>Make my own English visual novel that is more accessible for a Western audience.</h3>
+    </div>
+
+          
+          
           <a href="#features"><h6 style="text-align: center;">Jump to features and final product ↓</h6></a>
          
         </div>
       </article>
 </div>
 
-<article class="container mx-auto px-2 mt2 mb4">
-  <div class="prose mb-4 py-2">
+<article class="container mx-auto px-2 py-2 mb-4">
+  <div class="prose">
 
     <h2 id="the-team">The Team</h2>
 
@@ -84,8 +90,8 @@ layout: default
 
 <div style="background-color: #B3C890;
             background: linear-gradient(#B3C890, #658422);">
-      <article class="container mx-auto px-2 mt2 mb4">
-      <div class="prose mb-4 py-4">
+      <article class="container mx-auto px-2 py-4 mb-4">
+      <div class="prose">
 
       <p><img src="/uploads/nova_team.png" alt=""></p>
           </div></article>
@@ -95,39 +101,27 @@ layout: default
     <p><img style="max-width: 100%" src="/uploads/nova_working%20process.png" alt=""></p>
 </div>
 
-<article id="research" class="container mx-auto px-2 mt2 mb4">
-      <div class="prose mb-4 py-2">
-
-<div style="margin-left: -10em;">
-        <h5>Observations</h5>
-        <h5>+ Research</h5>
-</div>
-    <h2 style="margin-top:-2.2em;">English language visual novels are not quite accessible for players outside of Japan. </h2>
+<article id="research" class="container mx-auto px-2 py-2 mb-4">
+      <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead">Research</h5>
+      <h2>English language visual novels are not quite accessible for players outside of Japan.</h2>
+    </div>
 
 <p><a href="https://www.reddit.com/r/visualnovels/comments/2navwt/the_statistics_of_visual_novels_on_steam/">According to Reddit user /u/Noslyl</a>, there were only 59 English visual novels on gaming platform Steam as of November 2014. Companies like JAST USA and MangaGamer provided English localizations of select Japanese visual novels as well. English fan translations of visual novels also existed, but downloading and accessing them was often a complex, multi-step process that was not easy for a casual player.</p>
 
     </div></article>
 
-<div id="goals" style="background-color: #B3C890;
-                       background: linear-gradient(to left, #B3C890, #82D0D7);">
-      <article class="container mx-auto px-2 mt2 mb4">
-      <div class="prose mb-2 py-4">
-<div style="margin-left: -10em;">
-        <h5>Goals</h5>
-</div>
-      <h3 style="margin-top: -1.5em;">Create an English visual novel that is free, accessible across different computer platforms, and open to a younger audience.</h3>
-          
-          </div></article>
-</div>
 
-<article id="features" class="container mx-auto px-2">
-  <div class="prose py-2">
 
-    <div style="margin-left: -10em;margin-top: 2em;">
-      <h5>Features</h5>
+<article id="features" class="container mx-auto px-2 py-2">
+  <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead">Features</h5>
+      <h2>Fan Art Gallery</h2>
     </div>
+
     <div class="mb-4">
-      <h2 style="margin-top: -1em;">Fan Art Gallery</h2>
       A page to recognize the art of the characters made by our fans.
       <br>
       <br>
@@ -144,7 +138,7 @@ layout: default
   </div>
         
         
-    <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;" class="mb-3">
+    <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;" class="mb-4">
       <div>
         <h2 style="margin-top: 0em;">Partially-Voiced Character Voiceovers</h2>
         Professional and amateur voice actors who provided voiceovers for some characters are included.
@@ -175,34 +169,30 @@ layout: default
   <img src="/uploads/nova_final.png" alt="nova final screenshots" style="max-width: 100%;">
 </div>
 
-<article class="container mx-auto px-2 mt2 mb4" style="align-items: center; text-align: center;">
-  <div class="prose py-2">
+<article class="container mx-auto px-2 py-2 mb-4" style="align-items: center; text-align: center;">
+  <div class="prose">
     <div class="container iframe-container-youtube">  
-      <iframe src="https://www.youtube.com/embed/Nc0oazLPn1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      <iframe src="https://www.youtube.com/embed/Nc0oazLPn1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-ruffle-polyfilled=""></iframe>
     </div>
     <br><br>
     <div class="container iframe-container-youtube">
-      <iframe src="https://www.youtube.com/embed/usVQqw2zAUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      <iframe src="https://www.youtube.com/embed/usVQqw2zAUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-ruffle-polyfilled=""></iframe>
     </div>
     <br><br><br>
     An interview with one of my artists about Nova. Please turn on English captions unless you understand upper Austrian dialect. :)
     <br><br>
     <div class="container iframe-container-youtube">
-      <iframe src="https://www.youtube.com/embed/lrEaQL4Ki3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      <iframe src="https://www.youtube.com/embed/lrEaQL4Ki3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-ruffle-polyfilled=""></iframe>
     </div>
   </div>
 </article>
 
-<article id="results" class="container mx-auto px-2 mt2 mb4">
-      <div class="prose mb- py-4">
-          
-<div style="margin-left: -10em;">
-        <h5>Results</h5>
-</div>
-
-<h2 style="
-    margin-top: -1.3em;
-">After 4.5 years, Nova was released on indie game distribution platform, itch.io, on June 1, 2018.</h2>
+<article id="results" class="container mx-auto px-2 py-2">
+      <div class="prose">
+    <div class="case-heading">
+      <h5 class="case-subhead">Results</h5>
+      <h2>After 4.5 years, Nova was released on indie game distribution platform, itch.io, on June 1, 2018.</h2>
+    </div>
 
 <div style="
     display: grid;
@@ -219,8 +209,8 @@ layout: default
 
 
 
-        <article class="container mx-auto px-2 mt2 mb4">
-      <div class="prose mb-2 py-2">  
+        <article class="container mx-auto px-2 mb-4">
+      <div class="prose">  
           <h3>A specific design challenge I faced was how to improve user experience in finding information about music soundtracks.</h3><p>Many visual novel fans, including myself, enjoy looking up the various soundtracks that get played during a game, but it can be difficult to pinpoint specific tracks and their names. <strong>To resolve this, I chose to have the Music Box feature</strong>, which is essentially a page that reveals each soundtrack’s name and composer after they are played. <strong>This allows users to easily identify all the tracks used without the need of researching them outside of the game.</strong></p>
           
           </div></article>
@@ -228,8 +218,8 @@ layout: default
           
 
 
-        <article class="container mx-auto px-2 mt2 mb4">
-      <div class="prose mb-2 py-2"> 
+        <article class="container mx-auto px-2 mb-4">
+      <div class="prose"> 
 
           <h3>Another challenge I faced was considering how to enhance the dialogue and working with voice actors.</h3><p>My solution to this was providing character voiceovers. Most free visual novels do not include voiceovers. In general, professional visual novel studios who do include them hire professional voice actors and record them in-house, giving them live feedback and creating a consistent tone across all recordings. For my remote and budgetless team, this was not a feasible option.</p>
 
@@ -239,57 +229,47 @@ layout: default
 
 <p>Since the voiceovers were the only incomplete feature of the game, <strong>this was a situation where I had to choose masking the feature in order to release the game on time.</strong></p>
           
-           </div></article>
+           </div>
+        </article>
           
           
 
 
-        <article class="container mx-auto px-2 mt2 mb4">
-      <div class="prose mb-4 py-2">
+      <article class="container mx-auto px-2 mb-4">
+      <div class="prose"> 
 
-<h3>Beyond these challenges, I also faced the challenge of finding the right people to work with and staying committed to the project for over four and a half years.</h3>
-    
-  <div style="display: flex; flex-wrap: wrap;" class="mb-2">
-    <p style="max-width: 22em; margin-right: 1em;">I did not possess all the skills needed to create a visual novel, 
+          <h3>Beyond these challenges, I also faced the challenge of finding the right people to work with and staying committed to the project for over four and a half years.</h3>
+
+        
+           <div style="grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));column-gap: 2em;display: grid;row-gap: 1em;" class="mb-2">
+    <p style="width: 100%;">I did not possess all the skills needed to create a visual novel, 
       so I had to seek help from others, but no one around me was interested in the project. 
       I ended up turning to the projects section of a DeviantArt forum, posting a help-wanted thread that solicited a 
       few private messages from some users.
     </p>
-    <img src="/uploads/nova_thread.png" alt="" style="max-width: 24em;">
-  </div>
+    <img src="/uploads/nova_thread.png" alt="" style="width: 100%;">
+  </div><p>Despite how none of had ever made a visual novel nor completed a project to this scale before, we still managed to complete it together in due time. The process took 4.5 years because the story developed into something more layered and detailed than originally anticipated—our team decided to let it organically grow and continue working on it as long as we could. Over this period of time, our problems evolved from establishing a completely remote method of collaboration to maintaining steam on progressing through the story, artwork, and programming.</p></div></article><article class="container mx-auto px-2 mb-4">
+      <div class="prose">
 
-<p>Despite how none of had ever made a visual novel nor completed a project to this scale before, we still managed to complete it together in due time. The process took 4.5 years because the story developed into something more layered and detailed than originally anticipated—our team decided to let it organically grow and continue working on it as long as we could. Over this period of time, our problems evolved from establishing a completely remote method of collaboration to maintaining steam on progressing through the story, artwork, and programming.</p>
 
-<p></p><h3>Building my team from that forum became the most significant factor of my learning experience and growth.</h3>It was my team members that taught me how to set proper goals and deadlines for myself, how to communicate ideas with people across different disciplines, and how to work well together despite being fully remote and never once meeting at the same time. Making Nova proved to me that working with others will often create something bigger and better than what one person can do alone, giving me a much greater appreciation for teamwork and collaboration. Ultimately, this small group of people motivated me to continue working on this project for so long. I wanted to be accountable for starting it, and I became determined to have our hard work come to fruition.<p></p>
+<h3>Building my team from that forum became the most significant factor of my learning experience and growth.</h3>
 
-<p>In managing the project and leading the overall direction of the game, this is what started my interest in the product field in the tech industry. It gave me direct experience in creating and releasing a product from start to finish, working with a team and dipping into every facet of the product development process, and managing it all under a personal timeline while still being a full-time student. Furthermore, although I did not have a design role for this project, designing certain game features with the user in mind, creating content for social media posts, and seeing the work of my artists influenced my own interests and desire to be a designer and work in product.</p>
+<p>It was my team members that taught me how to set proper goals and deadlines for myself, how to communicate ideas with people across different disciplines, and how to work well together despite being fully remote and never once meeting at the same time. Making Nova proved to me that working with others will often create something bigger and better than what one person can do alone, giving me a much greater appreciation for teamwork and collaboration. Ultimately, this small group of people motivated me to continue working on this project for so long. I wanted to be accountable for starting it, and I became determined to have our hard work come to fruition.</p>
           
-          <br><br>
+          <p>In managing the project and leading the overall direction of the game, this is what started my interest in the product field in the tech industry. It gave me direct experience in creating and releasing a product from start to finish, working with a team and dipping into every facet of the product development process, and managing it all under a personal timeline while still being a full-time student. Furthermore, although I did not have a design role for this project, designing certain game features with the user in mind, creating content for social media posts, and seeing the work of my artists influenced my own interests and desire to be a designer and work in product.</p>
+</div>        
+</article>
 
-<h5 id="follow-nova" style="
-    margin-left: -10em;
-">Follow Nova</h5>
-
-<div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));width: 100%;grid-column-gap: 2em;grid-row-gap: 2em;margin-top: -2em;">
-  <a href="https://nova-sc.itch.io/novascofficial">itch.io</a>
-  <a href="http://nova-wip.tumblr.com/">WIP Blog</a>
-  <a href="https://www.facebook.com/pages/Nova-Synthesis-Creaturum/252596821582660">Facebook</a>
-  <a href="https://twitter.com/novascofficial">Twitter</a>
-  <a href="http://www.youtube.com/channel/UC8UpgHvoASCyP59vraVDZMQ">Youtube</a>
-  <a href="http://diolacov-kingdom.deviantart.com/">deviantART</a></div>
-</div>
-          
-<div class="case-heading">
-      <h5 class="case-subhead">Let's Go</h5>
-        <div style="width: 100%;margin-top: 1em;">
-          Back to <a href="/#portfolio">all of my work</a>, or check out:
-            <br>
-            <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));width: 100%;grid-column-gap: 2em;">
-              <h3><a href="/awsworkflowgenerator">AWS Workflow Generator</a></h3>
-      <h3><a href="/thesis">Yale Thesis</a></h3>
-            </div>
-          </div>
+<article class="container mx-auto px-2 mb-4">
+  <div class="case-heading">
+    <h5 class="case-subhead">Let's Go</h5>
+      <div style="width: 100%;margin-top: 1em;">
+        Back to <a href="/#portfolio">all of my work</a>, or check out:
+        <br>
+        <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));width: 100%;grid-column-gap: 2em;">
+          <h3><a href="/awsworkflowgenerator">AWS Workflow Generator</a></h3>
+          <h3><a href="/thesis">Yale Thesis</a></h3>
         </div>
-
-          
+      </div>
+    </div>
 </article>
